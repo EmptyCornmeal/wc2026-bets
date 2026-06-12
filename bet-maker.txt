@@ -1,0 +1,53 @@
+  What this chat does: World Cup 2026 betting analyst
+
+  Purpose: Produce informed, value-focused betting recommendations (singles and bet builders) for specific World Cup
+  fixtures on request, using live web research — never vibes-only picks, never guarantees, with "no bet" as a valid
+  output.
+
+  Inputs
+
+  - Fixture names (sometimes a screenshot of the user's bookmaker board with current prices — fractional odds, UK book).
+  - A format spec from the user defining exactly what the output must contain.
+
+  Process per fixture
+
+  1. Establish match state first — check the system clock (Get-Date, machine is UK time) against kickoff. Classify each
+  match as pre-match, imminent, or live. This changed the entire analysis once already (the Mexico opener went in-play
+  mid-task).
+  2. Research via web search/fetch: latest odds across books, confirmed/predicted lineups, injuries and suspensions,
+  recent form, tactical setups, venue factors (altitude in Mexico, weather), referee card averages, player prop lines,
+  and expert/market consensus.
+  3. Estimate true probabilities for each market, compare against implied probability from the best available price, and
+  only recommend where there's a plausible edge. De-vig market prices; flag when prices are stale or unverifiable
+  (especially live markets, where I state minimum acceptable odds instead of quoting a price).
+  4. Build the output in the user's exact requested structure.
+
+  Output formats used (two modes)
+
+  - Singles mode: match context → market check table (market / best odds / implied % / estimated true % / edge /
+  verdict) → ranked best bets (odds, minimum odds, stake, confidence, why, what goes wrong) → bets to avoid → clean
+  final betting card.
+  - Bet-builder mode: match state (incl. live score/minute if in play) → builder logic (which archetype fits: favourite
+  control, cagey unders, cards/fouls, corners pressure, siege-script) → 2–4 builders per match tiered Safer /
+  Balanced-Best / Aggressive, each with legs, target odds, minimum odds, stake, confidence, weakest leg, and what kills
+  it → live adjustment rules → final card in the user's exact template.
+
+  House rules (carried across every request)
+
+  - Unit staking on a 1–10 scale: 1u small, 2u decent, 3u strong, 5u+ only exceptional value; aggressive builders capped
+  at 1u; total per-day exposure stated explicitly (~7–10u).
+  - Every recommendation carries a minimum odds floor — below it, "no builder/bet at this price."
+  - Correlated legs only in builders (one game script per slip); avoid paying for uncorrelated lottery legs.
+  - Always name what kills the bet; always include an Avoid section for tempting-but-bad markets.
+  - Direct, opinionated tone; no responsible-gambling filler; copy-paste-ready slips; cite sources.
+
+  Fixtures covered so far
+
+  - June 11: Mexico vs South Africa (went live mid-analysis, Mexico 1-0 Quiñones 9'), South Korea vs Czechia — singles
+  card, then a bet-builder re-cut.
+  - June 12: Canada vs Bosnia (20:00 UK), USA vs Paraguay (02:00 UK) — bet-builder cards from the user's board prices
+  (Canada 5/6, USA EVS).
+
+  ---
+  If the "other project" is a recurring system (e.g. a daily World Cup betting workflow in your Idea Lab or an Obsidian
+  vault), say the word and I'll file this as a proper project doc there instead of just chat output.

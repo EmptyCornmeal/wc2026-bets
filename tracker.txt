@@ -1,0 +1,65 @@
+Chat Summary — WC 2026 Bet-Builder Tracker (Google Sheets)
+
+  Goal: Build a polished, semi-professional Google Sheets workbook to track betting (mainly bet builders & accas) across
+  every 2026 World Cup game. GBP. Parent-bet + child-leg model.
+
+  What was produced
+
+  A complete, implementation-ready workbook spec covering 9 sections: full structure, every tab's columns, exact
+  formulas with real cell references, dropdown validation, conditional formatting, dashboard metrics, the two worked
+  examples, Apps Script, and a step-by-step build order.
+
+  The 9 tabs
+
+  1. README — how-to + global settings (named ranges live here)
+  2. Fixtures — match list + final scores + auto result
+  3. Bets — parent table, one row per overall bet (cols A–AB visible, AC–AL helpers)
+  4. Bet Legs — child table, one row per leg, linked by Bet ID (cols A–Q visible, R–X helpers)
+  5. Bankroll — signed cash ledger with running balance
+  6. Dashboard — KPIs, breakdowns, 4 charts, top/bottom & cash-out tables
+  7. Leg Analysis — "which leg type is killing me" tables
+  8. Lookup Lists — source lists for all dropdowns
+  9. New Bet — fast entry form (drives the Apps Script) + optional Fixture Import tab
+
+  Key design decisions (locked in)
+
+  - One odds cell (col K) accepts either 2.54/1 or 3.54; col L derives decimal. Rule: fractional a/b → a/b + 1. Verified
+  against both example slips.
+  - Profit/Loss is status-driven and free-bet aware, controlled by named range FreeBetStakeReturned (default No =
+  winnings-only on free bets).
+  - Leg P/L attribution (Bet Legs col W): won bets spread P/L across all legs; lost bets charge the loss only to the
+  losing leg(s). This powers all "leg type" analysis.
+  - Actual return = total credited back (0 Lost / stake Void / payout Won / cash-out amount Cashed Out).
+  - Cash-out edge + verdict columns compare cashing out vs holding.
+  - Added a Bookmaker column (needed for P/L-by-bookmaker) + a block of grey helper columns.
+
+  Two clarifications the user gave
+
+  - ROI = settled stake basis (not total staked) → =IFERROR(SUM(B_PL)/SUM(B_SetStake),0). ROI and Yield now read
+  identically; Total staked kept as a separate KPI.
+  - Single-match bets only (no multi-match accas) → Match ID required on every Bets row, linked to Fixtures; no "MULTI"
+  handling.
+
+  Apps Script (WC2026Tracker.gs)
+
+  Adds a ⚽ WC Tracker menu: add bet from form (auto-creates the right number of leg rows + posts stake to bankroll),
+  create legs for selected row, settle a bet, rebuild bankroll ledger, import fixtures from CSV, refresh. Design note:
+  row 2 of Bets/Bet Legs is the live formula template the script copies down.
+
+  Files saved to disk
+
+  C:\Users\myles\Desktop\Idea Lab\betting-tracker\
+  - WC2026Tracker.gs — the full Apps Script
+  - QUICKSTART.md — build order, odds rule, free-bet rule, two-table model, settling
+
+  Status / open threads
+
+  - Spec is complete and ready to build into a sheet.
+  - The user asked "how do I get this into Google Sheets?" — that step-by-step (create sheet → paste headers/formulas →
+  named ranges → validation → conditional formatting → paste Apps Script) was not yet answered in detail.
+  - Offered but not started: a visual "trading-desk" styling pass (header band, KPI cards, chart styling, polished New
+  Bet form).
+
+  ---
+  Want this summary saved as a PROJECT-SUMMARY.md in the betting-tracker folder so it travels with the other files into
+  your new project?

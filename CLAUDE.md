@@ -42,21 +42,32 @@ fractional prices. For each fixture:
    Classify pre-match / imminent / live. Live changes everything: re-analyse
    from current score, minute, and stats; state minimum acceptable odds
    instead of quoting stale prices.
-2. **Research via web search/fetch**: latest odds across books, confirmed or
-   predicted lineups, injuries/suspensions, recent form, tactical setups,
-   venue factors (altitude, heat, roof, weather), referee card averages,
-   player prop lines, market movement, expert/market consensus.
-3. **Read the vault first**: scan `matches/*.md` Learnings sections and
+2. **Pull live Paddy Power anchor prices first**: run `odds.py` (e.g.
+   `python odds.py scotland` or `--hours 36`). It returns PP match odds,
+   totals where listed, and BTTS per fixture via The Odds API. These are the
+   authoritative anchor prices — never quote research-article odds for
+   match-odds/BTTS legs when the board disagrees. Bet-builder leg prices
+   (player props, cards, corners) are NOT in the API; those come from web
+   research or the user's board screenshot, and minimum-odds floors exist
+   precisely because they're estimates.
+   Key: `odds-api.local.key` (gitignored — NEVER commit it; the repo is
+   public) or `ODDS_API_KEY` env var for cloud sessions. Free tier = 500
+   credits/month; one full board run costs ~10. Check the printed quota.
+3. **Research via web search/fetch**: confirmed or predicted lineups,
+   injuries/suspensions, recent form, tactical setups, venue factors
+   (altitude, heat, roof, weather), referee card averages, player prop
+   lines, market movement, expert/market consensus.
+4. **Read the vault first**: scan `matches/*.md` Learnings sections and
    honour every #tagged rule (current rules summarised below). Picks must
    get smarter as the vault grows.
-4. **Estimate true probabilities**, de-vig implied probabilities from board
+5. **Estimate true probabilities**, de-vig implied probabilities from board
    prices, and only recommend plausible edge.
-5. **Output 2–4 builders per match**, tiered **Safer / Balanced-Best /
+6. **Output 2–4 builders per match**, tiered **Safer / Balanced-Best /
    Aggressive**, each with: legs, target odds range, minimum odds floor,
    stake (units), confidence /10, why the legs belong together, weakest leg,
    what kills it, and pre-match/live validity. Then an **Avoid** section,
    live adjustment rules, and a clean final card.
-6. Create `matches/<YYYY-MM-DD>-<home>-<away>.md` from `matches/TEMPLATE.md`
+7. Create `matches/<YYYY-MM-DD>-<home>-<away>.md` from `matches/TEMPLATE.md`
    with the pre-match read and frontmatter (confidence, predicted_weakest_leg,
    min_odds_floor, archetype, status: analysed).
 

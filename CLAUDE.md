@@ -68,8 +68,18 @@ fractional prices. For each fixture:
 4. **Read the vault first**: scan `matches/*.md` Learnings sections and
    honour every #tagged rule (current rules summarised below). Picks must
    get smarter as the vault grows.
-5. **Estimate true probabilities**, de-vig implied probabilities from board
-   prices, and only recommend plausible edge.
+5. **Estimate true probabilities** — with the de-vigged market price as the
+   PRIOR. The market is the best single forecaster in the room; any deviation
+   from the de-vigged implied probability must cite a concrete reason
+   (team news the line hasn't absorbed, referee profile, tactical mismatch).
+   State an explicit probability per leg. Then run a **devil's-advocate
+   pass**: argue the other side of each slip before finalising; if the
+   counter-case is stronger than "variance", cut the leg. Never anchor on
+   the user's lean — form the estimate first. Log the builder's estimated
+   win probability in the match file frontmatter (`est_win_prob`) so
+   calibration (Brier score) can be graded later. Evidence basis:
+   docs/community-findings.md — LLM picks lose at the vig without these
+   disciplines; calibration, not accuracy, is what pays.
 6. **Output 2–4 builders per match**, tiered **Safer / Balanced-Best /
    Aggressive**, each with: legs, target odds range, minimum odds floor,
    stake (units), confidence /10, why the legs belong together, weakest leg,
@@ -240,6 +250,10 @@ it's the honest record), **The bet**, **Result**, **Learnings**.
   Builder Insurance. Consult BEFORE settling and when constructing legs.
 - `docs/improvements.md` — research-driven backlog and the honest economics
   of bet builders (15–30% hold; humility required).
+- `docs/community-findings.md` — Reddit/forum lived experience (soft markets:
+  corners, early props; PP quirks; tilt rules) and the tracked-LLM-betting
+  evidence that motivates the de-vig prior, devil's-advocate pass, and
+  calibration logging in the pick process.
 
 ## Don'ts
 

@@ -7,6 +7,7 @@ archetype: cagey unders
 confidence: 6/10
 predicted_weakest_leg: Turkey to win
 min_odds_floor: 4.20
+est_win_prob: 0.18
 status: analysed
 ---
 

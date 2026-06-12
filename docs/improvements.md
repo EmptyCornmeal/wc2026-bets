@@ -37,6 +37,9 @@ Paddy Power mechanics (see paddy-rules.md). Checkboxes = backlog.
 - [ ] Discipline metrics: % of bets placed below min-odds floor, unplanned-bet
       share (bets with no pre-match analysis file), stake creep (flat £5 makes
       this trivial for now)
+- [ ] Builder ROI by leg count (monthly review — community tilt rule #4)
+- [ ] Calibration panel: Brier score of `est_win_prob` vs outcomes once ~15
+      bets carry the frontmatter field (added to pick process 12 Jun)
 
 ## Process backlog
 

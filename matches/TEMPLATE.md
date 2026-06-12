@@ -1,4 +1,4 @@
----
+﻿---
 match: Home v Away
 kickoff: YYYY-MM-DD HH:MM
 stage: Group X
@@ -6,6 +6,7 @@ bet_id:
 archetype:
 confidence: # 1-5 at placement time
 predicted_weakest_leg: # name the leg most likely to kill the slip
+est_win_prob: # explicit probability the whole builder wins, for Brier grading
 status: analysed | placed | won | lost
 ---
 

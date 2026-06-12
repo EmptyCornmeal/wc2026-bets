@@ -7,6 +7,7 @@ archetype: favourite control
 confidence: 5.5/10
 predicted_weakest_leg: Brazil to win
 min_odds_floor: 3.20
+est_win_prob: 0.25
 status: analysed
 ---
 

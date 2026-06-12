@@ -7,6 +7,7 @@ archetype: corners pressure
 confidence: 6.5/10
 predicted_weakest_leg: Shankland anytime
 min_odds_floor: 4.00
+est_win_prob: 0.22
 status: analysed
 ---
 

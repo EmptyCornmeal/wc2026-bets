@@ -7,6 +7,7 @@ archetype: favourite control
 confidence: 7/10
 predicted_weakest_leg: Embolo anytime
 min_odds_floor: 3.00
+est_win_prob: 0.30
 status: analysed
 ---
 

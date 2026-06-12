@@ -26,6 +26,10 @@ rich stats, a learnings vault, zero manual data entry.
    & 'C:\Python314\python.exe' dashboard.py
    ```
    Output: `dashboard.html` (dark self-contained page, Chart.js CDN).
+5. **Publish** — commit and push after every data/match-file change. The repo is
+   `EmptyCornmeal/wc2026-bets` (public); a GitHub Action rebuilds and deploys the
+   live dashboard to https://emptycornmeal.github.io/wc2026-bets/ on every push.
+   `gh` lives at `C:\Program Files\GitHub CLI\gh.exe` (not on PATH).
 
 ## The bet-maker process (picks)
 

@@ -1,15 +1,20 @@
-"""Live Paddy Power odds board for WC 2026 fixtures via The Odds API.
+"""Live Paddy Power odds board + snapshot logger for WC 2026 (The Odds API).
 
 Usage:
-  python odds.py                 # upcoming fixtures (next 60h), Paddy Power anchors
-  python odds.py scotland        # filter by team substring
-  python odds.py --hours 24
+  python odds.py                  # board for next 60h, anchors only (~2 credits)
+  python odds.py scotland         # filter by team substring + BTTS lookups
+  python odds.py --hours 24       # window
+  python odds.py --btts           # force BTTS lookups without a filter
+  python odds.py --snapshot       # quiet mode: fetch, log to CSV, one summary line
+
+Every run appends all prices seen (next 72h of fixtures) to
+data/odds_snapshots.csv — the basis for closing-line-value analysis.
 
 Key: odds-api.local.key (gitignored) or ODDS_API_KEY env var.
-Quota: free tier 500 credits/month; one run = 3 credits (markets x regions).
-Anchor markets only (h2h, totals, BTTS) — bet-builder leg prices (props, cards,
-corners) are not in the API; those still come from the bookmaker board.
+Quota: free tier 500 credits/month. Bulk board = 2 credits; each BTTS
+event lookup = 1 credit (only fetched with a filter or --btts, capped).
 """
+import csv
 import json
 import os
 import sys
@@ -19,9 +24,12 @@ from datetime import datetime, timedelta, timezone
 HERE = os.path.dirname(os.path.abspath(__file__))
 SPORT = "soccer_fifa_world_cup"
 MARKETS = "h2h,totals"  # btts fetched per-event (additional market)
-MAX_BTTS_LOOKUPS = 8
 PREFERRED = "paddypower"
 FALLBACKS = ["betfair_ex_uk", "williamhill", "ladbrokes_uk", "coral", "skybet", "unibet_uk"]
+MAX_BTTS_LOOKUPS = 8
+SNAPSHOT_HOURS = 72
+SNAP_PATH = os.path.join(HERE, "data", "odds_snapshots.csv")
+SNAP_FIELDS = ["ts_utc", "match", "kickoff_utc", "bookmaker", "market", "outcome", "point", "price"]
 
 
 def api_key():
@@ -35,7 +43,6 @@ def api_key():
 
 
 def to_frac(dec):
-    """Approximate decimal odds as familiar fractional notation."""
     v = dec - 1
     best = (1, 1, 9e9)
     for den in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 17, 20, 25, 33, 50, 100):
@@ -53,9 +60,49 @@ def fmt(price):
     return f"{price:.2f} ({to_frac(price)}, {100/price:.0f}%)"
 
 
+def snapshot_rows(events, extra_btts):
+    """Flatten all bookmaker prices for fixtures within SNAPSHOT_HOURS."""
+    now = datetime.now(timezone.utc)
+    ts = now.strftime("%Y-%m-%d %H:%M")
+    cutoff = now + timedelta(hours=SNAPSHOT_HOURS)
+    rows = []
+    for ev in events:
+        ko = datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00"))
+        if ko > cutoff or ko < now - timedelta(hours=2.5):
+            continue
+        match = f'{ev["home_team"]} v {ev["away_team"]}'
+        books = list(ev.get("bookmakers", [])) + extra_btts.get(ev["id"], [])
+        for b in books:
+            for m in b.get("markets", []):
+                for o in m.get("outcomes", []):
+                    rows.append(dict(ts_utc=ts, match=match,
+                                     kickoff_utc=ev["commence_time"],
+                                     bookmaker=b["key"], market=m["key"],
+                                     outcome=o["name"], point=o.get("point", ""),
+                                     price=o["price"]))
+    return rows
+
+
+def append_snapshot(rows):
+    if not rows:
+        return
+    new_file = not os.path.exists(SNAP_PATH)
+    with open(SNAP_PATH, "a", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=SNAP_FIELDS)
+        if new_file:
+            w.writeheader()
+        w.writerows(rows)
+
+
 def main():
-    args = [a for a in sys.argv[1:]]
-    hours = 60
+    args = list(sys.argv[1:])
+    hours, quiet, force_btts = 60, False, False
+    if "--snapshot" in args:
+        quiet = True
+        args.remove("--snapshot")
+    if "--btts" in args:
+        force_btts = True
+        args.remove("--btts")
     if "--hours" in args:
         i = args.index("--hours")
         hours = int(args[i + 1])
@@ -73,18 +120,20 @@ def main():
         f"https://api.the-odds-api.com/v4/sports/{SPORT}/odds/"
         f"?apiKey={key}&regions=uk&markets={MARKETS}&oddsFormat=decimal")
 
-    btts_done = 0
+    extra_btts, btts_done = {}, 0
+    want_btts = (flt or force_btts) and not quiet
 
     def fetch_btts(event_id):
         nonlocal remaining, btts_done
-        if btts_done >= MAX_BTTS_LOOKUPS:
+        if not want_btts or btts_done >= MAX_BTTS_LOOKUPS:
             return None
         btts_done += 1
         try:
             remaining, ev = get(
                 f"https://api.the-odds-api.com/v4/sports/{SPORT}/events/{event_id}/odds"
                 f"?apiKey={key}&regions=uk&markets=btts&oddsFormat=decimal")
-            return ev.get("bookmakers", [])
+            extra_btts[event_id] = ev.get("bookmakers", [])
+            return extra_btts[event_id]
         except Exception:
             return None
 
@@ -98,9 +147,11 @@ def main():
             continue
         if not flt and (ko > cutoff or ko < now - timedelta(hours=2.5)):
             continue
+        if quiet:
+            shown += 1
+            continue
         live = " [LIVE]" if ko < now else ""
-        ko_uk = ko.astimezone()  # local = UK on this machine; cloud runs show UTC+offset
-        print(f"\n=== {name} — {ko_uk.strftime('%a %d %b %H:%M')}{live} ===")
+        print(f"\n=== {name} — {ko.astimezone().strftime('%a %d %b %H:%M')}{live} ===")
         books = {b["key"]: b for b in ev.get("bookmakers", [])}
         chosen = books.get(PREFERRED)
         label = "Paddy Power"
@@ -133,9 +184,18 @@ def main():
                         print(f"  BTTS       : Yes {fmt(o.get('Yes', 0))} | No {fmt(o.get('No', 0))}"
                               + ("" if cb["key"] == PREFERRED else f"  [{cb['title']}]"))
         shown += 1
-    if not shown:
-        print("No matching fixtures in window.")
-    print(f"\n[quota remaining this month: {remaining}]")
+
+    rows = snapshot_rows(events, extra_btts)
+    append_snapshot(rows)
+
+    if quiet:
+        print(f"snapshot: {len(rows)} prices logged across {shown or 'all'} fixtures "
+              f"(window {SNAPSHOT_HOURS}h); quota remaining {remaining}")
+    else:
+        if not shown:
+            print("No matching fixtures in window.")
+        print(f"\n[{len(rows)} prices snapshotted to data/odds_snapshots.csv · "
+              f"quota remaining: {remaining}]")
 
 
 if __name__ == "__main__":

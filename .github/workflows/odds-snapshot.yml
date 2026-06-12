@@ -1,0 +1,33 @@
+name: Odds snapshot
+
+on:
+  schedule:
+    - cron: '17 1,7,13,19 * * *'   # every 6h during the tournament
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: odds-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Snapshot odds
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python odds.py --snapshot
+      - name: Commit snapshot
+        run: |
+          git config user.name "odds-snapshot-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/odds_snapshots.csv
+          git diff --cached --quiet || git commit -m "Odds snapshot $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

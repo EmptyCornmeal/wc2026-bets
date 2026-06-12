@@ -7,7 +7,7 @@ archetype: favourite control
 confidence: 6/10
 predicted_weakest_leg: Jonathan David anytime
 min_odds_floor: 3.50
-status: placed
+status: lost
 ---
 
 # Canada v Bosnia
@@ -37,8 +37,33 @@ Weakest leg called: David anytime ("Larin or a Buchanan run could carry the scor
 What kills it: Džeko set-piece + Bosnia nicking a draw — the classic spoiler script.
 
 ## Result
-_Pending._
+**LOST · 2/4 legs, −£5.00.** Canada 1-1 Bosnia: Jovo Lukic headed in a Kolašinac
+corner on 21', Cyle Larin equalised on 78' — assisted by Jonathan David. Canada
+had ~68% possession and 9 corners but couldn't break the block twice.
+
+- Canada match odds ✗ (the draw)
+- David anytime ✗ — he assisted the goal instead of scoring; no Super Sub
+  rescue possible (Larin was a starter, not David's replacement)
+- Under 4.5 goals ✓
+- Canada over 4.5 corners ✓ (9) — the optional leg, and the predicted weakest,
+  actually landed comfortably
 
 ## Learnings
-_Pending. Grade vs the Korea lesson: this slip's optional leg (corners) at least
-shares the game script rather than adding a new failure mode — check how it behaves._
+- The predicted weakest leg (corners) won easily; the slip died on the two
+  "core" legs. Siege-script support legs (corners, unders) are more robust
+  than the result/scorer legs they're attached to — the market may price them
+  as the risky add-ons when they're actually the reliable floor. #support-legs
+- Bosnia scored from exactly the named failure mode (set-piece, Kolašinac
+  delivery — the "Džeko/set-piece spoiler" from the pre-match read). Naming a
+  kill condition and betting through it anyway should lower confidence or
+  shape the slip (e.g. double chance instead of match odds). #named-kill-condition
+- Two-striker problem: Canada played David AND Larin; the goal fell to the
+  other one. In two-forward systems an anytime-scorer leg is closer to a coin
+  flip between them than the price implies — prefer the team's penalty/shot
+  monopolist or use "to score or assist" where offered (David's assist would
+  have saved that leg). #striker-roulette
+- Host-opener draw risk is real (Korea card flagged openers as draw-prone;
+  this was Canada's first home WC game with all that weight on it). Debutant/
+  host openers: consider double chance anchors. #opener-drift
+- Insurance note: with TWO losing legs this slip wouldn't have triggered Bet
+  Builder Insurance either — near-miss accounting unaffected.

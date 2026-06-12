@@ -1,0 +1,17 @@
+bet_id,leg_num,market_type,market_detail,selection,result,super_sub,notes
+O/7913296/0000297,1,Match Odds,Match Odds,Mexico,Won,no,
+O/7913296/0000297,2,BTTS,Both Teams To Score,No,Won,no,
+O/7913296/0000297,3,Team Goals O/U,Home Team Over/Under 1.5,Over,Won,no,
+O/7913296/0000297,4,Goalscorer,Anytime Goalscorer,Raul Jimenez,Won,yes,Jimenez scored himself; SS display of Gonzalez cosmetic
+O/7913296/0000298,1,Match Odds,Match Odds,South Korea,Won,no,
+O/7913296/0000298,2,Total Goals O/U,Over/Under 3.5 Goals,Under,Won,no,
+O/7913296/0000298,3,Player Shots,Player To Have 1+ Shots On Target Incl Woodwork,Son Heung-Min,Won,yes,Son 1 SOT himself pre-sub; SS Oh cosmetic for this leg
+O/7913296/0000298,4,Team Goals O/U,Away Team Over/Under 0.5,Under,Lost,no,Killer leg
+O/7913296/0000300,1,Match Odds,Match Odds,Canada,Open,no,
+O/7913296/0000300,2,Goalscorer,Anytime Goalscorer,Jonathan David,Open,yes,
+O/7913296/0000300,3,Total Goals O/U,Over/Under 4.5 Goals,Under,Open,no,
+O/7913296/0000300,4,Corners,Home Total Corners 4.5,Over,Open,no,
+O/7913296/0000301,1,Match Odds,Match Odds,USA,Open,no,
+O/7913296/0000301,2,Cards,Away Team Total Cards 1.5,Over,Open,no,
+O/7913296/0000301,3,Player Shots,Player To Have 2 Or More Shots,Christian Pulisic,Open,yes,
+O/7913296/0000301,4,Total Goals O/U,Over/Under 3.5 Goals,Under,Open,no,

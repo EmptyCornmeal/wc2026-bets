@@ -1,0 +1,5 @@
+bet_id,date_placed,kickoff,match,home_team,away_team,odds_fractional,odds_decimal,stake,potential_return,status,actual_return,profit_loss,num_legs,bookmaker,archetype,notes
+O/7913296/0000297,2026-06-11,2026-06-11 20:05,Mexico v South Africa,Mexico,South Africa,2.54/1,3.54,5.00,17.71,Won,17.71,12.71,4,Paddy Power,favourite control,
+O/7913296/0000298,2026-06-11,2026-06-12 03:00,South Korea v Czechia,South Korea,Czechia,3.89/1,4.89,5.00,24.46,Lost,0.00,-5.00,4,Paddy Power,cagey unders,Away clean sheet leg lost it
+O/7913296/0000300,2026-06-12,2026-06-12 20:00,Canada v Bosnia,Canada,Bosnia,5.96/1,6.96,5.00,34.79,Open,,,4,Paddy Power,favourite control,
+O/7913296/0000301,2026-06-12,2026-06-13 02:00,USA v Paraguay,USA,Paraguay,2.9/1,3.90,5.00,19.50,Open,,,4,Paddy Power,favourite control,

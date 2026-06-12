@@ -1,0 +1,5 @@
+# local scratch / chat exports — never publish
+tracker.txt
+bet-maker.txt
+previousproject.txt
+*.local.*

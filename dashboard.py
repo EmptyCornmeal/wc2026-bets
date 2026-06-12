@@ -239,6 +239,15 @@ def main():
                 f'<div class="kpi-value num {cls}"{d}>{value}</div>'
                 f'<div class="kpi-sub">{sub}</div></div>')
 
+    peak, max_dd = 0.0, 0.0
+    for v in curve_vals:
+        peak = max(peak, v)
+        max_dd = max(max_dd, peak - v)
+    worst_run, run_l = 0, 0
+    for b in settled:
+        run_l = run_l + 1 if b["status"] == "Lost" else 0
+        worst_run = max(worst_run, run_l)
+
     net_vs_dep = balance - deposited
     kpis = "".join([
         kpi("Deposited", money(deposited), "own money in"),
@@ -248,6 +257,8 @@ def main():
             f"strike {strike:.0%} · need {breakeven:.0%} @ {avg_odds:.2f}",
             "pos" if strike >= breakeven else "neg"),
         kpi("In flight", money(open_stake), f"returns up to {money(open_potential)}"),
+        kpi("Max drawdown", money(max_dd), f"worst losing run {worst_run}",
+            "neg" if max_dd > 0 else ""),
         kpi("Coverage", f"{bet_games}/{TOTAL_WC_GAMES}",
             f"{missed} missed" if fixtures else "add fixtures.csv"),
     ])
@@ -477,7 +488,7 @@ def main():
   <div class="hero-pl">
     <div class="lbl">Settled P/L</div>
     <div class="val num {pl_sign}" data-count="{pl:.2f}">{money(pl)}</div>
-    <div class="sub num">ROI {roi:+.1%} on £{settled_stake:.2f} settled · staked £{total_staked:.2f} total</div>
+    <div class="sub num">Yield {roi:+.1%} on £{settled_stake:.2f} settled · staked £{total_staked:.2f} total</div>
   </div>
 </header>
 

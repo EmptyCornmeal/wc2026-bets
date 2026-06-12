@@ -79,6 +79,21 @@ fractional prices. For each fixture:
    with the pre-match read and frontmatter (confidence, predicted_weakest_leg,
    min_odds_floor, archetype, status: analysed).
 
+**Placement timing**
+- Never place the night before. Nothing is gained: anchors on short
+  favourites don't drift up overnight, and team sheets land ~1h before
+  kickoff. Lineup-dependent legs (goalscorer, player shots) are the reason
+  three of four slips usually hinge on the XI.
+- Softener (see docs/paddy-rules.md): a player who NEVER plays voids the
+  leg and reprices the builder — it doesn't lose. The real lineup risk is
+  a bench start with junk minutes, since any appearance makes the leg live.
+- Ideal: one placing session after the earliest game's lineups drop, with
+  fresh injury re-check. For overnight kickoffs the user will sleep
+  through, either accept named-starter risk on near-nailed players only,
+  or take the leg-reduced fallback shape stated on the card.
+- Every card must state its fallback (which leg to drop) if the slip
+  prices below the floor or a key starter is benched.
+
 **House rules for builders**
 - One game script per slip — correlated legs only; never pay for
   uncorrelated lottery legs.
@@ -216,6 +231,15 @@ it's the honest record), **The bet**, **Result**, **Learnings**.
   (leg ≈ total^(1/n)) — always label it an estimate.
 
 ---
+
+## Reference docs
+
+- `docs/paddy-rules.md` — Paddy Power settlement rules: void vs lose for
+  player legs, Super Sub exact mechanics, Opta gotchas (woodwork ≠ SOT,
+  corners taken not awarded, own goals don't count), promos incl. Bet
+  Builder Insurance. Consult BEFORE settling and when constructing legs.
+- `docs/improvements.md` — research-driven backlog and the honest economics
+  of bet builders (15–30% hold; humility required).
 
 ## Don'ts
 

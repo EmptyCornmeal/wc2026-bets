@@ -51,8 +51,16 @@ fractional prices. For each fixture:
    research or the user's board screenshot, and minimum-odds floors exist
    precisely because they're estimates.
    Key: `odds-api.local.key` (gitignored — NEVER commit it; the repo is
-   public) or `ODDS_API_KEY` env var for cloud sessions. Free tier = 500
-   credits/month; one full board run costs ~10. Check the printed quota.
+   public) or `ODDS_API_KEY` env var (set as a repo Actions secret, also
+   usable in cloud sessions). Quota discipline: free tier = 500
+   credits/month; a bulk board = 2 credits, BTTS lookups (1 each) only
+   happen with a team filter or `--btts`. Check the printed quota.
+   **Snapshots**: every run appends all prices seen to
+   `data/odds_snapshots.csv`, and `.github/workflows/odds-snapshot.yml`
+   does this server-side every 6 hours — this builds the closing-line
+   record. Future analysis: compare odds at placement vs last pre-kickoff
+   snapshot = closing line value (CLV), the honest edge metric. The cron
+   bot commits to main; `git pull` before pushing local changes.
 3. **Research via web search/fetch**: confirmed or predicted lineups,
    injuries/suspensions, recent form, tactical setups, venue factors
    (altitude, heat, roof, weather), referee card averages, player prop

@@ -2,13 +2,13 @@
 match: Australia v Turkey
 kickoff: 2026-06-14 05:00
 stage: Group D
-bet_id:
+bet_id: O/7913296/0000302
 archetype: cagey unders
 confidence: 6/10
 predicted_weakest_leg: Turkey to win
 min_odds_floor: 4.20
 est_win_prob: 0.18
-status: analysed
+status: placed
 ---
 
 # Australia v Turkey
@@ -29,6 +29,14 @@ to be carded). Akturkoglu scored the decisive goal in BOTH playoff ties (+200
 anytime). Guler 1+ SOT ~1.55 is the near-free correlation leg in any Turkey win.
 
 ## The bet
+**PLACED** (O/7913296/0000302) · Win More token on Guler · **6.75/1 (7.75)** · £5 -> **£38.76**:
+- Turkey — Match Odds
+- Under 3.5 Goals — Over/Under 3.5 Goals
+- Arda Guler — Player To Have 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Kerem Akturkoglu — Anytime Goalscorer (Super Sub)
+
+Note vs the rec: this is the recommended Balanced-Best 4-leg exactly.
+
 Recommended (Balanced-Best): Turkey win + under 3.5 goals + Guler 1+ shot on
 target + Akturkoglu anytime, target 4.5–5.5, min 4.20, 2u. (If the 4-leg price
 comes up short, drop Akturkoglu and take the 3-leg at min 2.80.)

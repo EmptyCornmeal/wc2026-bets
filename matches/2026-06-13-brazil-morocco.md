@@ -2,13 +2,13 @@
 match: Brazil v Morocco
 kickoff: 2026-06-13 23:00
 stage: Group C
-bet_id:
+bet_id: O/7913296/0000304
 archetype: favourite control
 confidence: 5.5/10
 predicted_weakest_leg: Brazil to win
 min_odds_floor: 3.20
 est_win_prob: 0.25
-status: analysed
+status: placed
 ---
 
 # Brazil v Morocco
@@ -29,6 +29,15 @@ defences' weak points — Brazil's leaky left side vs Hakimi, Vinicius vs a doub
 Mazraoui. BTTS Yes (~2.1) is the value spine, not the unders.
 
 ## The bet
+**PLACED** (O/7913296/0000304) · Money Back token · **3.55/1 (4.55)** · £5 -> **£22.77**:
+- Brazil — Match Odds
+- Yes — Both Teams To Score
+- Raphinha — Player To Have 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over 1.5 Goals — Over/Under 1.5 Goals
+
+Note vs the rec: took the Balanced-Best 3-leg spine and added Over 1.5 goals as leg 4
+rather than the optional Vinicius anytime.
+
 Recommended (Balanced-Best): Brazil win + BTTS Yes + Raphinha 1+ shot on target,
 target 3.4–4.0, min 3.20, 1.5u — reduced unit, the win leg has real two-way risk.
 Optional leg 4: Vinicius anytime (only if combined ≥ 6.0; passes risk test —

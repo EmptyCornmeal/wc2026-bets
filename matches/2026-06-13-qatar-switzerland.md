@@ -2,13 +2,13 @@
 match: Qatar v Switzerland
 kickoff: 2026-06-13 20:00
 stage: Group B
-bet_id:
+bet_id: O/7913296/0000303
 archetype: favourite control
 confidence: 7/10
 predicted_weakest_leg: Embolo anytime
 min_odds_floor: 3.00
 est_win_prob: 0.30
-status: analysed
+status: placed
 ---
 
 # Qatar v Switzerland
@@ -30,6 +30,15 @@ flamboyance — win to nil priced just 3/4. The market mispricing: Qatar suppres
 legs are near-free; Swiss goal inflation (-2.5 AH etc.) is where books defend.
 
 ## The bet
+**PLACED** (O/7913296/0000303) · Power Up boost 2/1 -> **2.5/1 (3.50)** · £5 -> **£17.49**:
+- Switzerland — Match Odds
+- No — Both Teams To Score
+- Over 1.5 Cards — Home Team Total Cards 1.5 (Qatar)
+- Over — Away Team Over/Under 1.5 (Switzerland 2+)
+
+Note vs the rec: kept the suppression spine (Swiss win + BTTS No) + the optional Qatar
+cards leg, but swapped the recommended Embolo anytime for Switzerland over 1.5 team goals.
+
 Recommended (Balanced-Best): Switzerland win + BTTS No + Embolo anytime,
 target 3.0–3.6, min 3.00, 2u. Optional leg 4: Qatar over 1.5 cards (only if
 combined ≥ 4.2; passes the risk test — it shares the siege script and its kill

@@ -23,8 +23,9 @@ rich stats, a learnings vault, zero manual data entry.
    transferable, #tagged lesson.
 4. **Regenerate** after any data change:
    ```powershell
-   & 'C:\Python314\python.exe' dashboard.py
+   & 'C:\Python314\python.exe' dashboard.py   # Windows (local)
    ```
+   On Linux / the web execution environment use `python3 dashboard.py`.
    Output: `dashboard.html` (dark self-contained page, Chart.js CDN).
 5. **Publish** — commit and push after every data/match-file change. The repo is
    `EmptyCornmeal/wc2026-bets` (public); a GitHub Action rebuilds and deploys the
@@ -45,6 +46,12 @@ rich stats, a learnings vault, zero manual data entry.
   honour the #tagged rules (e.g. #clean-sheet-legs: never stack a
   team-scores-zero leg on match odds + match unders). The vault is the
   feedback loop — picks must get smarter as it grows.
+- **Run every candidate slip through the pre-flight gate in `STRATEGY.md`
+  before recommending it.** That file is the binding doctrine (House Rules v2):
+  suppression-first, ≤3 legs, no optional bolt-ons, ≤1 player prop (no
+  anytime-scorer as a load-bearing leg), no redundant legs, floor enforced at
+  the till. Any unchecked box → fix or drop the leg. "No bet" / a tighter
+  2-leg suppression slip is valid even with the bet-every-game goal.
 - Direct, opinionated tone; copy-paste-ready slips; no responsible-gambling filler.
 
 ## Data model (`data/`, parent/child keyed on bet_id)

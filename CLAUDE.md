@@ -130,9 +130,22 @@ fractional prices. For each fixture:
 - #min-odds-discipline: minimum odds floors only work if checked at the till
   (see USA, 13 Jun — placed at 3.90 vs a 4.00 floor).
 - #super-sub: goalscorer/shots legs with Super Sub get a free rescue lane —
-  mildly favourable, but see the settlement red-herring rule below.
+  mildly favourable, but a defensive replacement can't rescue an attacking
+  prop (USA, 13 Jun: Pulisic→Berhalter). And see the settlement red-herring
+  rule below.
 - #suppression-legs / #live-entry: after an early favourite goal, the value
   lives in opponent-suppression legs (BTTS No, team unders), not the ML.
+- #killer-is-never-the-result: across the first 3 losses the match-odds leg
+  has NEVER been the killer — losses come from goalscorer/shots/totals legs.
+  Weight the result leg as the safe anchor; scrutinise the others harder.
+- #prop-role-fit / #striker-roulette: price a player prop to the player's
+  ACTUAL job. A "2+ shots" line on a creator (Pulisic: 2 assists, rested at
+  half) or an anytime-scorer leg in a two-striker side (Canada: David
+  assisted, Larin scored) is worse than the price implies. Prefer "score or
+  assist", the team's shot/pen monopolist, or a 1+ line.
+- #named-kill-condition: if the pre-match read names a specific failure mode,
+  don't bet straight through it — anchor with double chance or cut confidence
+  (Canada & Korea both died on the exact set-piece risk we wrote down).
 
 ### 2. Log (user pastes open-bets screenshot)
 - Parse each slip → one row in `data/bets.csv` + one row per leg in

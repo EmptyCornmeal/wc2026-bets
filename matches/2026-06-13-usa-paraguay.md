@@ -7,7 +7,7 @@ archetype: cards & fouls
 confidence: 6.5/10
 predicted_weakest_leg: USA to win
 min_odds_floor: 4.00
-status: placed
+status: lost
 ---
 
 # USA v Paraguay
@@ -40,8 +40,32 @@ Weakest leg called: USA to win ("the leg with real two-way risk at EVS").
 What kills it: 0-0/1-1, or a freakishly clean deep block for an hour.
 
 ## Result
-_Pending._
+**USA 4-1 Paraguay.** LOST · £5 → £0.00 (P/L −£5.00).
+Balogun bagged two first-half goals, a Bobadilla OG and a late Reyna strike; Paraguay
+pulled one back through Mauricio (73'). Leg-by-leg:
+
+- USA — Match Odds → **W** (comfortable)
+- Paraguay Over 1.5 Cards → **W** (the cards/fouls read was spot on)
+- Christian Pulisic — 2+ Shots → **L** (kicked on the calf late in H1, hooked at HT)
+- Under 3.5 Goals → **L** (5 goals — a US men's WC scoring record)
 
 ## Learnings
-_Pending. Whatever the outcome, the price-discipline miss stands: minimum odds floors
-only work if they're enforced at the till. #min-odds-discipline_
+- **The match read was right and the wrong two legs were on the slip.** The two
+  legs the analysis *believed in* — USA win and Paraguay cards — both landed. The two
+  that lost were the **optional Under 3.5** and a **player-shots prop**, neither of
+  which was the core thesis. This is the Korea pattern exactly: the base read wins,
+  the bolt-ons lose. #optional-legs
+- **Predicted weakest leg was wrong, but for an instructive reason.** We flagged "USA
+  to win" as the two-way risk; it cruised. The real killers were a goals-line we
+  contradicted ourselves on (the pre-match script literally said "USA siege decided by
+  *one* moment, play for 0-0/1-0" — yet we backed Under 3.5 *and* it became a 4-1
+  rout) and a prop exposed to a single substitution. #read-vs-slip-mismatch
+- **#min-odds-discipline holds and now has a result attached:** the slip was placed at
+  3.90, below the analyst's own 4.00 floor *and* below the 3-leg minimum, with an
+  optional leg added against its own "5.5+ combined" qualifier. Discipline miss →
+  loss. Floors must be enforced at the till.
+- **#super-sub:** slip showed Pulisic ⇄ Berhalter; Pulisic was genuinely subbed (calf),
+  but the leg needed *Pulisic's* shot count, which fell short before HT — the sub did
+  not save it. Injury-risk on a single-player prop is a real, unmodelled failure mode.
+  Prefer team-level props (shots/cards) over a lone star who can be withdrawn.
+  #single-player-prop-risk

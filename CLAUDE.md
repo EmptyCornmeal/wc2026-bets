@@ -84,8 +84,9 @@ fractional prices. For each fixture:
    Aggressive**. Each builder defaults to **3 legs** built from the soft-market
    spine (see House rules leg-selection hierarchy + result-leg policy); a 4th
    leg is opt-in and must itself be a soft/process leg. Each with: legs, target
-   odds range, minimum odds floor, stake (units), confidence /10, why the legs
-   belong together, weakest leg, what kills it, and pre-match/live validity.
+   odds range, realistic landing % + honest EV read (true% vs implied price),
+   stake (units), confidence /10, why the legs belong together, weakest leg, what
+   kills it, and pre-match/live validity.
    Then an **Avoid** section, live adjustment rules, and a clean final card.
 7. Create `matches/<YYYY-MM-DD>-<home>-<away>.md` from `matches/TEMPLATE.md`
    with the pre-match read and frontmatter (confidence, predicted_weakest_leg,
@@ -131,9 +132,18 @@ fractional prices. For each fixture:
   default (#result-leg-can-kill).
 - Unit staking 1–10: 1u small, 2u decent, 3u strong, 5u+ exceptional only.
   Aggressive builders capped at 1u. State total per-day exposure (~7–10u).
-- Every rec carries a minimum odds floor; below it, "no builder at this
-  price". The floor is enforced AT PLACEMENT — if the user's slip prices
-  below the floor, say so before they place it.
+- **No hard min-odds floor** (revised 14 Jun — the floor was a blunt proxy that
+  blocked playable coverage bets; the user pushed back and is right). The project
+  bets EVERY game, so the gate is not a price threshold. The two real gates are:
+  (a) **no dead-weight leg** — drop any leg shorter than ~1.10 that only adds vig
+  without payout or a genuine correlation boost (e.g. Havertz 1+ SOT @ 1.07 vs
+  Curacao: adds 7% price for 7% bust-risk, ~neutral, cut it); and (b) an honest
+  **value/EV check** — state each slip's realistic LANDING % and whether we think
+  combined true prob beats the implied price (1/odds). If yes it's a value bet; if
+  not it's a coverage/fun bet, placed flat and small and LABELLED as such — never
+  dressed up as +EV. A "min target" price can still be quoted as guidance, but it
+  is not a hard block. The one genuinely good-value bet is a FREE BET (no stake at
+  risk) — always deploy it on the longest-priced slip.
 - A 4th leg is OPT-IN, not default: it must be another SOFT/PROCESS leg (never a
   lottery leg), share the one game script, clear its own combined-odds threshold,
   AND not introduce a failure mode named in the match's own "what kills it" notes.
@@ -164,8 +174,13 @@ fractional prices. For each fixture:
 - #optional-legs: an optional leg must pass a risk test, not just the
   combined-odds price test (see Korea, 12 Jun — base builder won, optional
   leg lost the slip).
-- #min-odds-discipline: minimum odds floors only work if checked at the till
-  (see USA, 13 Jun — placed at 3.90 vs a 4.00 floor).
+- #value-not-floor (supersedes #min-odds-discipline, 14 Jun): a bet "makes money"
+  only if true_prob × decimal_odds > 1. Stacking "certain" short legs does NOT
+  print — the book bakes a 15–30% builder hold into the price, so each near-certain
+  leg is priced at ~its true chance minus margin, and that margin COMPOUNDS per
+  leg. Short ≠ safe value. Judge a slip on (true % vs implied price) and
+  dead-weight legs, not a fixed floor. Free bets are the exception — house money,
+  can only win, so longer odds = more retained value.
 - #super-sub: goalscorer/shots legs with Super Sub get a free rescue lane —
   mildly favourable, but a defensive replacement can't rescue an attacking
   prop (USA, 13 Jun: Pulisic→Berhalter). And see the settlement red-herring

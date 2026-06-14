@@ -418,6 +418,9 @@ when results land (Settle step).
   them and report.
 - Don't edit a Pre-match read after kickoff.
 - Don't credit a Super Sub without match-data verification.
+- Don't auto-settle REAL bets from web data ahead of the user's settled-bets
+  screenshot — settlement is screenshot-driven by preference (decided 14 Jun).
+  Web data is for verification and for settling GHOSTS (which have no screenshot).
 - Don't include a dead-weight leg (a short pure-vig leg), and don't dress up a
   coverage bet as +EV — state the honest landing % and EV read (#value-not-floor).
 - Don't construct a ghost bet from legs that weren't in the pre-match read —

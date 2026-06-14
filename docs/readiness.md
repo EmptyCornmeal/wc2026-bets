@@ -35,13 +35,13 @@ Tick boxes as done; re-grade as priorities shift. Grades:
       and every future one-leg loss depend on it.
 
 ## P2 — decisions + non-blocking builds
-- [ ] **DECISION C8 — settlement autonomy**: settle from web match-data
-      provisionally (marked "unconfirmed"), then reconcile when the screenshot is
-      pasted — or keep waiting for the screenshot? The biggest "let it run" call.
-      *(Ghosts already settle from web data; only real bets wait.)*
-- [ ] **DECISION C9 — schedule a cloud agent**: if C8 = web-settle, set up a
-      `/schedule` routine to detect finished games → settle + settle ghosts →
-      regenerate → push overnight. Depends on C8.
+- [x] **DECISION C8 — settlement autonomy: MANUAL (decided 14 Jun).** Real bets
+      settle ONLY from the user's settled-bets screenshot (W/L markers are the
+      ground truth). Web data stays for VERIFICATION and for settling ghosts
+      (which have no screenshot). Do NOT provisionally web-settle reals ahead of
+      the screenshot.
+- [x] **DECISION C9 — scheduling: DROPPED** (depended on C8 = web-settle). Stays
+      screenshot-driven; no overnight cloud agent.
 - [ ] **DECISION C10 — knockout fixtures**: 25 placeholder rows (1A, W73, "3rd
       A/B"). Auto-resolve from web as the bracket fills, or manual on your word?
 - [ ] Ghost per-tier strike-rate trend chart (needs a few more days of data).

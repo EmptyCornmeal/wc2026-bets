@@ -12,15 +12,15 @@ Tick boxes as done; re-grade as priorities shift. Grades:
 ---
 
 ## P0 — do at go-live (blockers)
-- [ ] **Log the 4 current games' tiers as Open ghosts** (Germany / Netherlands /
-      Ivory Coast / Sweden — Safer + Aggressive). Step 8 has not run live yet
-      (0 rows in `ghost_bets.csv` for these). Zero-hindsight; settles tonight.
-- [ ] **Verify `matches/TEMPLATE.md` reflects the new method** (3-leg default,
-      `est_win_prob`, value-not-floor, ghost-logging note). If stale, every new
-      match file drifts back to the old 4-leg/floor methodology.
-- [ ] **PII sweep of the public repo** — one clean grep for emails / local paths
-      / account names before unattended running. (`.gitignore` already covers
-      `*.local.*` + scratch files.)
+- [x] **Log the 4 current games' tiers as Open ghosts** (Germany / Netherlands /
+      Ivory Coast / Sweden). Done 14 Jun — 8 Open ghosts added (Safer/Balanced/
+      Aggressive per file); settle blind when results land.
+- [x] **Verify `matches/TEMPLATE.md` reflects the new method** — done 14 Jun:
+      template now bakes in 3-leg soft spine, double-chance result leg, banned
+      lottery legs, value-not-floor, and the ghost-logging step.
+- [x] **PII sweep of the public repo** — done 14 Jun: clean. Only hit was the
+      standard GitHub Actions bot email in `odds-snapshot.yml`. `.gitignore`
+      covers `*.local.*` + scratch files.
 - [ ] **Settle the 4 open bets + their ghosts** when results land — first live
       test of the new method. *(recurring every matchday)*
 

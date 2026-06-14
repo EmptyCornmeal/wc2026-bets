@@ -48,8 +48,9 @@ fractional prices. For each fixture:
    authoritative anchor prices — never quote research-article odds for
    match-odds/BTTS legs when the board disagrees. Bet-builder leg prices
    (player props, cards, corners) are NOT in the API; those come from web
-   research or the user's board screenshot, and minimum-odds floors exist
-   precisely because they're estimates.
+   research or the user's board screenshot — they are ESTIMATES until the
+   user's slip confirms them, so the value/EV check (House rules) is enforced
+   at the board, not at estimate time (see #value-not-floor).
    Key: `odds-api.local.key` (gitignored — NEVER commit it; the repo is
    public) or `ODDS_API_KEY` env var (set as a repo Actions secret, also
    usable in cloud sessions). Quota discipline: free tier = 500
@@ -90,7 +91,14 @@ fractional prices. For each fixture:
    Then an **Avoid** section, live adjustment rules, and a clean final card.
 7. Create `matches/<YYYY-MM-DD>-<home>-<away>.md` from `matches/TEMPLATE.md`
    with the pre-match read and frontmatter (confidence, predicted_weakest_leg,
-   min_odds_floor, archetype, status: analysed).
+   archetype, est_win_prob, status: analysed). `min_odds_floor` is a LEGACY
+   field — keep as an optional guidance target, no longer a hard gate
+   (#value-not-floor).
+8. **Log every generated tier to the ghost ledger** (`data/ghost_bets.csv` +
+   `ghost_legs.csv`) as pre-registered ghosts with `status: Open` — the Safer /
+   Balanced-Best / Aggressive builds AND the one that gets placed. These are the
+   zero-hindsight gold standard; settle them blind when results land (Settle
+   step). Schema + integrity rule are in the Ghost ledger section.
 
 **Placement timing**
 - Never place the night before. Nothing is gained: anchors on short
@@ -104,8 +112,9 @@ fractional prices. For each fixture:
   fresh injury re-check. For overnight kickoffs the user will sleep
   through, either accept named-starter risk on near-nailed players only,
   or take the leg-reduced fallback shape stated on the card.
-- Every card must state its fallback (which leg to drop) if the slip
-  prices below the floor or a key starter is benched.
+- Every card must state its fallback (which leg to drop) if the slip prices
+  poorly (a dead-weight short leg, or combined below its guidance target) or a
+  key starter is benched.
 
 **House rules for builders**
 - **DEFAULT = 3 LEGS** (changed 14 Jun after 8 settled slips). The habitual 4th
@@ -216,9 +225,19 @@ fractional prices. For each fixture:
   `data/legs.csv` (schemas below).
 - Deposits convention: the user deposits £5 per game bet. Add a row to
   `data/deposits.csv` when they confirm (or batch rows by date).
-- Update the match file: fill "The bet" (legs, odds, stake, which analyst
-  tier was taken, whether floors/thresholds were respected), set
-  frontmatter `bet_id` and `status: placed`.
+- **Free bets** (e.g. Bet Builder Insurance refunds): log with `stake = 0.00`
+  (no OWN cash at risk) and `potential_return`/`actual_return` = the slip's
+  WINNINGS-ONLY figure (PP shows it; = notional × (odds − 1), no stake back). So
+  `profit_loss` is the full return on a win, 0 on a loss. Do NOT add a deposit
+  row for a free bet — it is not own money. Put "£X FREE BET" in `notes`. This
+  keeps `balance = deposits − staked + returns` honest (verified: a £5 free bet
+  must not subtract £5 of cash from the balance).
+- In the ghost ledger, the build that got placed was already logged as a ghost
+  at analysis time (Pick step 8) — leave the other tiers as Open ghosts to settle
+  later.
+- Update the match file: fill "The bet" (legs, odds, stake, which tier was
+  taken, whether the value/EV bar was respected), set frontmatter `bet_id` and
+  `status: placed`.
 
 ### 3. Settle (user pastes settled-bets screenshot)
 - Read per-leg green **W** / red **L** markers and the Returns figure.
@@ -227,6 +246,11 @@ fractional prices. For each fixture:
 - **Verify against real match data (web search)**: final score, scorers,
   player shot stats, cards, corners. Two reasons: (a) confirm leg readings,
   (b) the Super Sub red herring below.
+- **Settle the ghost ledger for this fixture too**: every Open ghost in
+  `ghost_bets.csv`/`ghost_legs.csv` settles BLIND from the same verified match
+  data — set each ghost leg `result`, then the ghost `status` / `actual_return`
+  / `profit_loss`. This is what makes the tier A/B compound. Estimate a ghost's
+  odds only where no board price existed, and FLAG it in the note.
 - Write "Result" and "Learnings" in the match file (`status: won|lost`).
   Learnings MUST state whether `predicted_weakest_leg` was the actual
   killer, and end with one transferable #tagged lesson. If a new rule
@@ -272,6 +296,20 @@ city` — all 104 fixtures; drives the coverage map and "needs a bet" panel.
 Knockout rows use placeholders (1A, W73, "3rd A/B/C/D") — **update them with
 real teams as the bracket resolves**.
 
+**ghost_bets.csv** (paper trades — NEVER affects real P/L or balance):
+`ghost_id,date_logged,kickoff,match,basis,builder_label,linked_bet_id,
+odds_decimal,notional_stake,status,actual_return,profit_loss,num_legs,note`
+- `ghost_id` = `G<betnum>-<tag>` (e.g. `G0304-SAF`, `G0301-NM`).
+- `builder_label` (keep EXACT — feeds the dashboard tier table): `Safer` /
+  `Balanced-Best rec` / `Aggressive` / `base 3-leg sans optional` /
+  `new-method 3-leg soft spine`.
+- `basis` = registration type, e.g. `pre-registered tier blind-settle` (gold
+  standard) or `retro-method ...` (flag any hindsight).
+- `notional_stake` = £5 paper; `odds_decimal` estimated where no board price.
+
+**ghost_legs.csv**: `ghost_id,leg_num,market_type,selection,result,note`
+(`result`: Open / Won / Lost / Void).
+
 Team-name matching uses the alias map in `dashboard.py` (`ALIASES`) — extend
 it if a bookmaker name doesn't match fixtures.csv (e.g. "Bosnia-Herzegovina"
 → "bosnia").
@@ -297,8 +335,9 @@ it if a bookmaker name doesn't match fixtures.csv (e.g. "Bosnia-Herzegovina"
 
 One file per fixture bet on: `YYYY-MM-DD-home-away.md` (lowercase,
 hyphenated, UK-date of kickoff). Frontmatter: match, kickoff, stage, bet_id,
-archetype, confidence (n/10), predicted_weakest_leg, min_odds_floor,
-status (analysed | placed | won | lost).
+archetype, confidence (n/10), predicted_weakest_leg, est_win_prob,
+min_odds_floor (legacy — see #value-not-floor), status (analysed | placed |
+won | lost).
 
 Sections: **Pre-match read** (written before kickoff, never edited after —
 it's the honest record), **The bet**, **Result**, **Learnings**.
@@ -349,8 +388,14 @@ real losses (Korea, Canada, Brazil via dropped-lottery + double-chance; USA with
 flagged hindsight leg) but still LOST 3 (Qatar — no winning soft 3rd leg; Haiti —
 McTominay 0 SOT; Australia — fav lost outright so even DC fails). Honest signal:
 the method change has real teeth but is NOT a silver bullet. Odds estimated, n=8,
-USA mildly hindsight-tainted — treat as suggestive, not proof. A dashboard panel
-(ghost record + paper P/L by basis, kept separate from real money) is the next build.
+USA mildly hindsight-tainted — treat as suggestive, not proof.
+
+**Dashboard panel is LIVE** ("Ghost ledger — unplaced builds"). Tier A/B across
+all 24 backfilled ghosts: **new-method soft spine 5/8, base-3-leg 2/4, Safer 1/4,
+Balanced-Best 0/4, Aggressive 0/4** — the new spine beats every old tier, and the
+builds we actually placed (Balanced-Best) went 0/4. The ledger now grows
+automatically: log each game's tiers at analysis (Pick step 8), settle them blind
+when results land (Settle step).
 
 ## Reference docs
 
@@ -371,7 +416,11 @@ USA mildly hindsight-tainted — treat as suggestive, not proof. A dashboard pan
   them and report.
 - Don't edit a Pre-match read after kickoff.
 - Don't credit a Super Sub without match-data verification.
-- Don't recommend a slip below its minimum odds floor without flagging it.
+- Don't include a dead-weight leg (a short pure-vig leg), and don't dress up a
+  coverage bet as +EV — state the honest landing % and EV read (#value-not-floor).
+- Don't construct a ghost bet from legs that weren't in the pre-match read —
+  hindsight makes the data worthless. Settle ghosts blind from match data.
+- Don't log a free bet with a cash stake — `stake = 0.00`, winnings-only return.
 - Don't add optional legs that fail the risk test, whatever the price.
 - Don't pip-install anything for dashboard.py — it's stdlib only by design.
 - Don't draw conclusions from tiny samples without saying so (n is small

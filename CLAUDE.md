@@ -405,6 +405,8 @@ when results land (Settle step).
   Builder Insurance. Consult BEFORE settling and when constructing legs.
 - `docs/improvements.md` — research-driven backlog and the honest economics
   of bet builders (15–30% hold; humility required).
+- `docs/readiness.md` — graded go-live checklist (P0 blockers → P3 monitors).
+  Check it at the start of an autonomous/maintenance session; tick items as done.
 - `docs/community-findings.md` — Reddit/forum lived experience (soft markets:
   corners, early props; PP quirks; tilt rules) and the tracked-LLM-betting
   evidence that motivates the de-vig prior, devil's-advocate pass, and

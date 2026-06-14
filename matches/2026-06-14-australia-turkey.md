@@ -8,7 +8,7 @@ confidence: 6/10
 predicted_weakest_leg: Turkey to win
 min_odds_floor: 4.20
 est_win_prob: 0.18
-status: placed
+status: lost
 ---
 
 # Australia v Turkey
@@ -56,7 +56,34 @@ _Vault-rule check: deliberately did NOT pair win-to-nil with match unders
 exactly the set-piece failure mode that rule exists for._
 
 ## Result
-_Pending._
+**Australia 2-0 Türkiye — LOST (£5 stake, £0 return).** Irankunda 27', Metcalfe
+75' — a full Socceroos upset, Türkiye's 8-game unbeaten run ended. Leg-by-leg:
+- Türkiye match odds — **LOST** (Australia won outright).
+- Under 3.5 goals — **WON** (2 goals).
+- Guler 1+ SOT — **WON** (3 shots on goal: 27', 57', 89' — won on his own merit;
+  Super Sub / Win More display cosmetic, no rescue needed).
+- Akturkoglu anytime — **LOST** (Türkiye scored 0; Akturkoglu was subbed off and
+  the Super Sub rolled to Deniz Gul, but no Türkiye player scored, so the leg
+  loses either way — SS trigger was real but outcome-irrelevant).
+Two losing legs (result + goalscorer); not eligible for Bet Builder Insurance
+(needs exactly one). Lineup note: Kenan Yildiz, flagged a "MAJOR doubt" pre-match,
+actually started and played the first half before being subbed at HT — the
+absence read was wrong, though Yildiz wasn't in our slip.
 
 ## Learnings
-_Pending._
+`predicted_weakest_leg: Turkey to win` was correct — it was a killer (alongside
+the Akturkoglu lottery). Fourth straight settlement where the weakest-leg call
+was on the money. The two **process legs landed** (under 3.5, Guler SOT — the
+"near-free correlation leg" the read identified at ~1.55), and the two
+**outcome/lottery legs failed** (Türkiye to win, Akturkoglu to score). This is
+the exact shape of the whole 13–14 Jun slate: process legs (SOT, unders, cards,
+corners, BTTS) bank; result and anytime-goalscorer legs are the liability.
+The named kill condition ("a single Souttar set-piece header → 1-1") didn't
+occur — the actual kill was a clean 2-0 Australia win, a bigger upset than the
+draw script feared, on a 1.75 favourite (reinforces #result-leg-can-kill: short
+favourites are not safe anchors). **#goalscorer-lottery:** an anytime-scorer leg
+on a clutch player (Akturkoglu, decisive in both playoffs) is still a coin-flip
+gated behind the team scoring at all — it needs Türkiye to score, which they
+didn't. Reserve anytime-scorer legs for the team's genuine monopolist in games
+where that team is heavily fancied to score 2+, not as a +200 garnish that turns
+a 3-leg process slip into a 4-leg lottery.

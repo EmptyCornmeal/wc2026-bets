@@ -8,7 +8,7 @@ confidence: 7/10
 predicted_weakest_leg: Embolo anytime
 min_odds_floor: 3.00
 est_win_prob: 0.30
-status: placed
+status: lost
 ---
 
 # Qatar v Switzerland
@@ -55,7 +55,26 @@ _Vault-rule check: BTTS No used WITHOUT match-total unders (no #clean-sheet-legs
 stack); optional cards leg passes #optional-legs risk test._
 
 ## Result
-_Pending._
+**Qatar 1-1 Switzerland — LOST (£5 stake, £0 return).** Embolo penalty 17',
+Khoukhi header 90+5' — Qatar's first ever World Cup point. Leg-by-leg:
+- Switzerland match odds — **LOST** (draw).
+- BTTS No — **LOST** (both scored).
+- Qatar over 1.5 cards — **WON** (2 YC: Abunada 16', Gaber 23').
+- Switzerland over 1.5 team goals — **LOST** (Swiss scored 1).
+Three of four legs died to a single 95th-minute Qatari goal. No Super Sub
+in play. Card-happy ref read (Saíd Martínez) was correct — the one leg that won.
 
 ## Learnings
-_Pending._
+The siege thesis was directionally right (Swiss territorial control, Qatar
+bunker, the cards leg landed exactly as written) but the slip was built on the
+score line never moving the wrong way, and ONE late goal collapsed three legs
+at once — the classic correlated-downside of stacking match-odds + BTTS No +
+team-goals-over on the same favourite. `predicted_weakest_leg` was Embolo
+anytime, but Embolo was swapped out pre-placement for Switzerland over 1.5
+goals, so the named weak leg never ran; the actual killer was the result
+itself (a 1.21 favourite failing to win). Second match-odds-as-killer of the
+night (see Brazil) — the old #killer-is-never-the-result rule is now broken.
+**#single-goal-collapse:** counting BTTS No + team-unders/win on the same side
+means one opposition goal can void multiple legs simultaneously — price the
+joint failure mode, not each leg in isolation. A 90+ equaliser is variance, but
+stacking three legs that all depend on Qatar not scoring is a choice.

@@ -8,7 +8,7 @@ confidence: 5.5/10
 predicted_weakest_leg: Brazil to win
 min_odds_floor: 3.20
 est_win_prob: 0.25
-status: placed
+status: lost
 ---
 
 # Brazil v Morocco
@@ -54,7 +54,31 @@ What kills the best builder: Morocco's block holding + one counter = the classic
 Weakest leg: Brazil to win.
 
 ## Result
-_Pending._
+**Brazil 1-1 Morocco — LOST (£5 stake, £0 return).** Saibari (MAR), Vinicius
+Júnior 32' (BRA). Leg-by-leg:
+- Brazil match odds — **LOST** (draw). **SOLE KILLER — the only losing leg.**
+- BTTS Yes — **WON** (both scored).
+- Raphinha 1+ SOT — **WON** (1 SOT; Raphinha started and landed it himself —
+  Super Sub / Win More display cosmetic, not a rescue).
+- Over 1.5 goals — **WON** (2 goals).
+**Bet Builder Insurance applies:** exactly one leg of a 4-leg builder lost →
+money back as a **£5 free bet** (Money Back token was on this slip). Cash P/L
+is −£5; the free bet is a separate credit to deploy.
 
 ## Learnings
-_Pending._
+The read was excellent and the three "skill" legs all landed: BTTS Yes was
+explicitly called the value spine, Raphinha's SOT and over 1.5 both hit. The
+ONLY leg that failed was the one flagged in the frontmatter — `predicted_weakest_leg:
+Brazil to win` — which is a clean calibration win for the pre-match process
+(weakest leg correctly identified) but a loss on the slip. This is the first
+time across all settled bets that **the match-odds leg was the SOLE killer**,
+which breaks #killer-is-never-the-result. A 1.64 favourite with one clean sheet
+in seven, drawing an elite-defence opener, is exactly the profile where the
+result leg is the liability — not the safe anchor.
+**#result-leg-can-kill (supersedes #killer-is-never-the-result):** on
+low-conviction short favourites (sub-~1.7) in genuinely two-way games, the
+match-odds leg is the most likely killer, not the props. The recommended fix is
+in this very file's Safer line — **double chance** on the result leg — which
+would have converted a textbook "everything-but-the-win" slip into a winner.
+On open games with an est_win_prob ≤ 0.30, default the result leg to double
+chance unless there's a concrete reason the favourite wins outright.

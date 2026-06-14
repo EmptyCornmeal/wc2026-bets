@@ -8,7 +8,7 @@ confidence: 6.5/10
 predicted_weakest_leg: Shankland anytime
 min_odds_floor: 4.00
 est_win_prob: 0.22
-status: placed
+status: lost
 ---
 
 # Haiti v Scotland
@@ -55,7 +55,30 @@ sloppiness vs CONCACAF sides = 1-0 grind (kills over 2.5) or Shankland subbed
 in a rotation. Weakest leg: Shankland anytime.
 
 ## Result
-_Pending._
+**Scotland 1-0 Haiti — LOST (£5 stake, £0 return).** McGinn 28' (deflected off
+a defender past Placide) — Scotland's only goal. Leg-by-leg:
+- Scotland match odds — **WON** (1-0).
+- Over 2.5 goals — **LOST** (1 goal).
+- Shankland to score or assist — **LOST** (0 G/A; shots 4' & 32' off target).
+  Super Sub rolled to Kenny McLean — cosmetic: McLean also recorded no goal or
+  assist (McGinn's was the only goal, no assist credited on the deflection).
+- Scotland over 1.5 team goals — **LOST** (Scotland scored 1).
 
 ## Learnings
-_Pending._
+The "GOALS game, not a grind" thesis was wrong: Scotland's historic sloppiness
+vs the Americas (winless in 9 going in) showed up as a 1-0 grind — the exact
+kill condition written in the pre-match read ("a packed Haiti block + Scotland's
+sloppiness vs CONCACAF sides = 1-0 grind (kills over 2.5)"). Three of four legs
+all depended on a high-scoring Scotland win and died together to one deflected
+goal. `predicted_weakest_leg: Shankland anytime` did lose, but it was not the
+sole killer — the over 2.5 and Scotland-2+ legs died to the same low-scoring
+script. **#named-kill-condition validated again** (Canada, Korea, now Haiti —
+when the read names a specific failure mode and we bet straight through it, it
+recurs). The deeper miss: the slip was three correlated goals-volume legs on a
+side known to under-deliver against this opponent type. The Safer line in this
+file (Scotland win + McTominay 1+ SOT + over 3.5 corners) sidesteps the
+goals-volume dependency entirely — corners and a single SOT accrue even in a
+1-0 — and would likely have won. **#correlated-volume-trap:** stacking over 2.5
++ team-over-1.5 + a goalscorer leg is one bet on scoreline volume wearing three
+hats; when the read itself flags a grind risk, swap volume legs for
+process legs (corners, SOT, cards) that bank in a low-scoring win.

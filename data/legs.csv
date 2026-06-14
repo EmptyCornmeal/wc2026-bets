@@ -19,15 +19,15 @@ O/7913296/0000302,1,Match Odds,Match Odds,Turkey,Open,no,
 O/7913296/0000302,2,Total Goals O/U,Over/Under 3.5 Goals,Under,Open,no,
 O/7913296/0000302,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Arda Guler,Open,yes,Win More token; Super Sub badge
 O/7913296/0000302,4,Goalscorer,Anytime Goalscorer,Kerem Akturkoglu,Open,yes,Super Sub badge
-O/7913296/0000303,1,Match Odds,Match Odds,Switzerland,Open,no,
-O/7913296/0000303,2,BTTS,Both Teams To Score,No,Open,no,
-O/7913296/0000303,3,Cards,Home Team Total Cards 1.5,Over,Open,no,Qatar (home) over 1.5 cards
-O/7913296/0000303,4,Team Goals O/U,Away Team Over/Under 1.5,Over,Open,no,Switzerland (away) over 1.5 goals
-O/7913296/0000304,1,Match Odds,Match Odds,Brazil,Open,no,
-O/7913296/0000304,2,BTTS,Both Teams To Score,Yes,Open,no,
-O/7913296/0000304,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raphinha,Open,yes,Win More token; Super Sub badge
-O/7913296/0000304,4,Total Goals O/U,Over/Under 1.5 Goals,Over,Open,no,
-O/7913296/0000305,1,Match Odds,Match Odds,Scotland,Open,no,
-O/7913296/0000305,2,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,
-O/7913296/0000305,3,Goalscorer,To Score Or Assist,Lawrence Shankland,Open,yes,Super Sub badge
-O/7913296/0000305,4,Team Goals O/U,Away Team Over/Under 1.5,Over,Open,no,Scotland (away) over 1.5 goals
+O/7913296/0000303,1,Match Odds,Match Odds,Switzerland,Lost,no,1-1 draw
+O/7913296/0000303,2,BTTS,Both Teams To Score,No,Lost,no,Both scored: Embolo 17' pen / Khoukhi 90+5 header
+O/7913296/0000303,3,Cards,Home Team Total Cards 1.5,Over,Won,no,Qatar 2 YC: Abunada 16' Gaber 23'
+O/7913296/0000303,4,Team Goals O/U,Away Team Over/Under 1.5,Over,Lost,no,Switzerland 1 goal only
+O/7913296/0000304,1,Match Odds,Match Odds,Brazil,Lost,no,1-1 draw; SOLE KILLER (only losing leg) -> Bet Builder Insurance free bet
+O/7913296/0000304,2,BTTS,Both Teams To Score,Yes,Won,no,Vinicius 32' (BRA) / Saibari (MAR)
+O/7913296/0000304,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raphinha,Won,yes,Raphinha 1 SOT himself; SS/Win More display cosmetic
+O/7913296/0000304,4,Total Goals O/U,Over/Under 1.5 Goals,Over,Won,no,2 goals
+O/7913296/0000305,1,Match Odds,Match Odds,Scotland,Won,no,Scotland 1-0 (McGinn 28' deflected)
+O/7913296/0000305,2,Total Goals O/U,Over/Under 2.5 Goals,Over,Lost,no,Only 1 goal
+O/7913296/0000305,3,Goalscorer,To Score Or Assist,Lawrence Shankland,Lost,yes,Shankland 0 G/A (shots 4' & 32' off); SS roll to McLean cosmetic, McLean no G/A either
+O/7913296/0000305,4,Team Goals O/U,Away Team Over/Under 1.5,Over,Lost,no,Scotland 1 goal only

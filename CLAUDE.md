@@ -135,9 +135,21 @@ fractional prices. For each fixture:
   rule below.
 - #suppression-legs / #live-entry: after an early favourite goal, the value
   lives in opponent-suppression legs (BTTS No, team unders), not the ML.
-- #killer-is-never-the-result: across the first 3 losses the match-odds leg
-  has NEVER been the killer — losses come from goalscorer/shots/totals legs.
-  Weight the result leg as the safe anchor; scrutinise the others harder.
+- #result-leg-can-kill (SUPERSEDES the old #killer-is-never-the-result): the
+  match-odds leg held through the first 3 losses, but on 13 Jun it killed twice
+  in one night — Brazil (1-1, SOLE killer on a 1.64 favourite) and Qatar (1-1).
+  Do NOT treat the result leg as a free anchor. On low-conviction short
+  favourites (sub-~1.7) in genuinely two-way games, or any slip with
+  est_win_prob ≤ 0.30, default the result leg to DOUBLE CHANCE unless there is a
+  concrete reason the favourite wins outright (the non-result legs all landed in
+  Brazil — the win leg was the liability).
+- #single-goal-collapse / #correlated-volume-trap: stacking legs that all depend
+  on the same scoreline (match-odds + BTTS No + team-goals-over, or over 2.5 +
+  team-over-1.5 + a goalscorer leg) is ONE bet wearing multiple hats — a single
+  goal (Qatar 90+5) or a single grind (Haiti 1-0) voids them together. Both 13
+  Jun multi-leg losses died this way. When the read names a grind/low-scoring
+  risk, swap volume legs for PROCESS legs (corners, SOT, cards) that bank even
+  in a 1-0 win — the Safer lines in both match files would have won.
 - #prop-role-fit / #striker-roulette: price a player prop to the player's
   ACTUAL job. A "2+ shots" line on a creator (Pulisic: 2 assists, rested at
   half) or an anytime-scorer leg in a two-striker side (Canada: David

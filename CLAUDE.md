@@ -319,6 +319,39 @@ it's the honest record), **The bet**, **Result**, **Learnings**.
 
 ---
 
+## Ghost ledger (paper trades for data) — `data/ghost_bets.csv` + `ghost_legs.csv`
+
+We place one real bet per game but generate several builders. The ghost ledger
+records the builders we DIDN'T place (other tiers, alternative methods) and
+settles them on paper — multiplying the sample for analysis without risking money.
+Separate files; NEVER touches bets.csv / balance / real P/L.
+
+**The integrity rule (non-negotiable — without it the data is worthless):**
+- A ghost's legs must be **PRE-REGISTERED** — they appear in the match file's
+  Pre-match read (locked before kickoff) and are settled **BLIND**. Constructing a
+  "build that would've won" after seeing the result is curve-fitting, the exact
+  self-deception docs/community-findings.md warns about. Don't do it.
+- Retrospective ghosts may only use selections present in that game's pre-match
+  read. Any leg-choice influenced by knowing the result, or any odds that are
+  estimated (no board price), gets FLAGGED in the note. Flagged ghosts don't count
+  toward headline edge stats.
+- Settle ghost legs from the same verified match data used for real settlement.
+
+**Going forward:** when analysing a game, log every tier generated (Safer /
+Balanced / Aggressive + the placed build) to the ghost ledger as pre-registered
+ghosts. The placed one is also a real bet; the rest stay ghosts. This is the gold
+standard — zero hindsight — and it's how the ledger should mainly grow.
+
+**First backfill (14 Jun) — retro-method A/B on the 8 settled games:** the
+new-method 3-leg soft-spine build (pre-registered legs, blind-settled) went **5–3
+(~+£43 paper at estimated odds) vs the actual 1–7 (−£22.29)**. It rescued 4 of 7
+real losses (Korea, Canada, Brazil via dropped-lottery + double-chance; USA with a
+flagged hindsight leg) but still LOST 3 (Qatar — no winning soft 3rd leg; Haiti —
+McTominay 0 SOT; Australia — fav lost outright so even DC fails). Honest signal:
+the method change has real teeth but is NOT a silver bullet. Odds estimated, n=8,
+USA mildly hindsight-tainted — treat as suggestive, not proof. A dashboard panel
+(ghost record + paper P/L by basis, kept separate from real money) is the next build.
+
 ## Reference docs
 
 - `docs/paddy-rules.md` — Paddy Power settlement rules: void vs lose for

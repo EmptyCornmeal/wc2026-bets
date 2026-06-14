@@ -1,0 +1,25 @@
+ghost_id,leg_num,market_type,selection,result,note
+G0297-NM,1,Match Odds,Mexico Double Chance,Won,demoted from straight ML
+G0297-NM,2,BTTS,No,Won,
+G0297-NM,3,Team Goals O/U,Mexico Over 1.5,Won,pre-registered soft leg (Mexico 2-0)
+G0298-NM,1,Match Odds,South Korea Double Chance,Won,Korea won 2-1
+G0298-NM,2,Total Goals O/U,Under 3.5,Won,2-1 = 3 goals
+G0298-NM,3,Player Shots,Son 1+ SOT,Won,confirmed Son 1 SOT before sub
+G0300-NM,1,Match Odds,Canada Double Chance 1X,Won,1-1 draw banked by DC
+G0300-NM,2,Total Goals O/U,Under 4.5,Won,2 goals
+G0300-NM,3,Corners,Canada Over 4.5 corners,Won,Canada 9 corners
+G0301-NM,1,Match Odds,USA,Won,USA won 4-1
+G0301-NM,2,Cards,Paraguay Over 1.5 cards,Won,Paraguay 3 yellows
+G0301-NM,3,Player Shots,Balogun 1+ SOT,Won,scored 2 - HINDSIGHT: blind pick was Pulisic SOT (unconfirmed)
+G0302-NM,1,Match Odds,Turkey Double Chance,Lost,Australia won 2-0 outright - DC fails
+G0302-NM,2,Total Goals O/U,Under 3.5,Won,2 goals
+G0302-NM,3,Player Shots,Guler 1+ SOT,Won,3 SOT
+G0303-NM,1,Match Odds,Switzerland Double Chance,Won,1-1 draw banked by DC
+G0303-NM,2,Cards,Qatar Over 1.5 cards,Won,Qatar 2 yellows
+G0303-NM,3,BTTS,No,Lost,both scored - only pre-registered 3rd soft leg available and it lost
+G0304-NM,1,BTTS,Yes,Won,both scored
+G0304-NM,2,Player Shots,Raphinha 1+ SOT,Won,1 SOT
+G0304-NM,3,Total Goals O/U,Over 1.5,Won,2 goals
+G0305-NM,1,Match Odds,Scotland,Won,Scotland 1-0
+G0305-NM,2,Player Shots,McTominay 1+ SOT,Lost,0 SOT confirmed - this leg sank the build
+G0305-NM,3,Corners,Scotland Over 3.5 corners,Void,moot - slip already dead on McTominay leg

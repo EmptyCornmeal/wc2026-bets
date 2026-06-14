@@ -81,10 +81,12 @@ fractional prices. For each fixture:
    docs/community-findings.md — LLM picks lose at the vig without these
    disciplines; calibration, not accuracy, is what pays.
 6. **Output 2–4 builders per match**, tiered **Safer / Balanced-Best /
-   Aggressive**, each with: legs, target odds range, minimum odds floor,
-   stake (units), confidence /10, why the legs belong together, weakest leg,
-   what kills it, and pre-match/live validity. Then an **Avoid** section,
-   live adjustment rules, and a clean final card.
+   Aggressive**. Each builder defaults to **3 legs** built from the soft-market
+   spine (see House rules leg-selection hierarchy + result-leg policy); a 4th
+   leg is opt-in and must itself be a soft/process leg. Each with: legs, target
+   odds range, minimum odds floor, stake (units), confidence /10, why the legs
+   belong together, weakest leg, what kills it, and pre-match/live validity.
+   Then an **Avoid** section, live adjustment rules, and a clean final card.
 7. Create `matches/<YYYY-MM-DD>-<home>-<away>.md` from `matches/TEMPLATE.md`
    with the pre-match read and frontmatter (confidence, predicted_weakest_leg,
    min_odds_floor, archetype, status: analysed).
@@ -105,15 +107,37 @@ fractional prices. For each fixture:
   prices below the floor or a key starter is benched.
 
 **House rules for builders**
-- One game script per slip — correlated legs only; never pay for
-  uncorrelated lottery legs.
+- **DEFAULT = 3 LEGS** (changed 14 Jun after 8 settled slips). The habitual 4th
+  leg was a failure-mode adder, not filler: across 7 losses, EVERY killer leg was
+  an "outcome" leg, while "soft/process" legs went 11–2 (85%). A 4th leg is now
+  the exception, not the rule — see the leg-count threshold bullet below.
+- **Leg-selection hierarchy** (from the 8-bet leg scoreboard — soft markets win,
+  outcome markets lose; mirrors docs/community-findings.md). Build the script
+  from the TOP of this list down, not the bottom up:
+  1. SOFT / PROCESS legs — the spine: cards (2–0), 1+ shots ON TARGET (3–0),
+     corners (1–0), unders that fit the read (3–1), BTTS where the read supports
+     it (2–1). These accrue even in a grind and don't depend on who wins.
+  2. RESULT leg — see result-leg policy below; demoted, not a free anchor.
+  3. BANNED as default legs (lottery / book-defended): anytime goalscorer (1–3),
+     "team to score 2+" / team-over-1.5 (1–3, the lone win was a blowout),
+     "2+ shots" non-SOT lines (0–1). If an attacking leg is wanted, use **1+ SOT**
+     or "score-or-assist for the team's genuine shot/pen monopolist" — never a
+     +200 anytime-scorer garnish (#goalscorer-lottery).
+- **Result-leg policy** (match odds went 4–4 and killed 4 of 7 losses): include
+  straight match-odds ONLY when the favourite is genuinely strong — roughly
+  sub-1.6 AND not a two-way game. Otherwise take **double chance**, or DROP the
+  result leg and build a pure soft-market script (Brazil proves it: its 3
+  non-result legs all won). Any slip with est_win_prob ≤ 0.30 → double chance by
+  default (#result-leg-can-kill).
 - Unit staking 1–10: 1u small, 2u decent, 3u strong, 5u+ exceptional only.
   Aggressive builders capped at 1u. State total per-day exposure (~7–10u).
 - Every rec carries a minimum odds floor; below it, "no builder at this
   price". The floor is enforced AT PLACEMENT — if the user's slip prices
   below the floor, say so before they place it.
-- Optional 4th/5th legs carry their own combined-odds threshold AND must not
-  introduce a failure mode named in the match's own "what kills it" notes.
+- A 4th leg is OPT-IN, not default: it must be another SOFT/PROCESS leg (never a
+  lottery leg), share the one game script, clear its own combined-odds threshold,
+  AND not introduce a failure mode named in the match's own "what kills it" notes.
+  If the only available 4th leg is an outcome/lottery leg, stay at 3.
 - Archetypes (also the `archetype` column): favourite control, cagey unders,
   cards & fouls, corners pressure, siege script.
 - Live adjustment defaults: 0-0 after 15' → unders/pressure legs strengthen;
@@ -122,6 +146,19 @@ fractional prices. For each fixture:
   priced; early red card → tear up all pre-match assumptions.
 
 **Vault rules in force (keep this list updated when new learnings land)**
+- #process-over-outcome (THE headline rule, 14 Jun, n=8 slips / 32 legs): soft /
+  process legs (cards, corners, 1+ SOT, unders, BTTS) went 11–2 (85%); outcome
+  legs (match odds, anytime scorer, team-2+, 2+ shots) went 7–12 (37%). In all 7
+  losses, every killer was an outcome leg. Build the spine from soft markets;
+  treat result + attacking legs as premium legs that must earn their place, not
+  defaults. (Small sample, but matches docs/community-findings.md's prior — soft
+  markets are where the book is laziest.) Drives the 3-leg default, the
+  leg-selection hierarchy, and the result-leg policy in House rules above.
+- #goalscorer-lottery: anytime-goalscorer / "2+ shots" props are coin-flips
+  gated behind the team scoring at all (David, Pulisic, Akturkoglu, Shankland all
+  lost; the only winner, Jimenez, was in the one slip where everything won). 1+
+  SOT props went 3–0. Use 1+ SOT or score-or-assist for the monopolist — never a
+  +200 anytime garnish.
 - #clean-sheet-legs / #leg-redundancy: never stack a team-scores-zero leg on
   top of match odds + match unders — tiny price boost, huge new failure mode.
 - #optional-legs: an optional leg must pass a risk test, not just the

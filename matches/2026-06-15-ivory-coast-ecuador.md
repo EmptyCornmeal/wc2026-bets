@@ -7,7 +7,8 @@ confidence: 7/10
 predicted_weakest_leg: total cards over (line unconfirmed) — though ref strongly supports it
 min_odds_floor: 3.50
 est_win_prob: 0.30
-status: analysed
+bet_id: O/7913296/0000308
+status: placed
 ---
 
 # Ivory Coast v Ecuador
@@ -37,8 +38,14 @@ goal that could dent the unders. Published: Under 2.5 ~1.40–1.55 (US books Und
 match-total CARDS line found — must price it on the PP board.
 
 ## The bet
-**NOT YET PLACED — recommended below.** New-methodology build: pure cards-and-
-unders process slip, no result leg.
+**PLACED** (O/7913296/0000308) · **3.53/1 (4.53)** · £5 → **£22.64**:
+- Under 2.5 Goals
+- Over 4.5 Cards (total match)
+- No — Both Teams To Score
+
+Recommended Balanced-Best exactly; no result leg (pick'em). The Over 4.5 cards
+(5+) leg is the ~1-in-3 swing — the price driver, not a banker. Original
+recommendation below.
 
 **Recommended (Balanced-Best, cards & unders) — target 4.0–4.8, floor 3.50:**
 - Under 2.5 goals (~1.45)

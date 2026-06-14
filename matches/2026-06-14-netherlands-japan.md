@@ -7,7 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: total cards over (line unconfirmed) / NL territorial dominance
 min_odds_floor: 2.80
 est_win_prob: 0.35
-status: analysed
+bet_id: O/7913296/0000307
+status: placed
 ---
 
 # Netherlands v Japan
@@ -35,8 +36,13 @@ Published: Gakpo 1+ SOT @ 1.36, Malen 1+ SOT @ 1.40, Summerville 1.75; Under 2.5
 @ 1.83 / Over 2.5 @ 1.94; BTTS Yes 1.74 / No 1.98.
 
 ## The bet
-**NOT YET PLACED — recommended below.** New-methodology build: demoted result
-leg + NL territorial-control soft legs, NOT a goals-at-both-ends bet.
+**PLACED** (O/7913296/0000307) · **1.87/1 (2.87)** · £5 → **£14.34**:
+- Netherlands And Draw — Double Chance
+- Cody Gakpo — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Total Corners 4.5 (Netherlands 5+)
+
+Recommended Balanced-Best exactly: demoted result leg (DC), no goals-at-both-ends
+exposure. Original recommendation below.
 
 **Recommended (Balanced-Best) — target 3.0–3.8, floor 2.80:**
 - Netherlands double chance (1X) (~1.30) — demoted result leg; a draw is fine

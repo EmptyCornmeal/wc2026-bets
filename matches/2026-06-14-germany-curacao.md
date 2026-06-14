@@ -7,7 +7,8 @@ confidence: 7/10
 predicted_weakest_leg: total corners over (siege stalls if Germany coast)
 min_odds_floor: 4.00
 est_win_prob: 0.28
-status: analysed
+bet_id: O/7913296/0000306
+status: placed
 ---
 
 # Germany v Curacao
@@ -33,8 +34,15 @@ Over 10.5 @ 2.30; Havertz SOT O2.5 @ 2.35 (so 1+ SOT ~1.25). Referee Jalal Jiyed
 (MAR) ~3.8 YC/g — mid; most card risk sits on Curacao fouling under siege.
 
 ## The bet
-**NOT YET PLACED — recommended below.** New-methodology build: soft-market siege
-spine, no 1.04 result leg.
+**PLACED** (O/7913296/0000306) · £5 **FREE BET** (Brazil insurance, winnings-only) ·
+**2.99/1 (3.99)** → **£14.93**:
+- Over 4.5 Goals
+- Over 10.5 Corners (total match)
+- Kai Havertz — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+
+Bumped Over 3.5 → Over 4.5 for the free bet (house money, longer = more value).
+Cash out unavailable (cash-out value < free-bet stake). Logged at stake £0 own
+cash — the £5 was the Brazil insurance free bet. Original recommendation below.
 
 **Recommended (Balanced-Best, siege) — target 4.5–5.5, floor 4.00:**
 - Over 3.5 match goals (~1.65)

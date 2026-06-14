@@ -7,7 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: total cards over (line unconfirmed) — though ref strongly supports it
 min_odds_floor: 2.80
 est_win_prob: 0.33
-status: analysed
+bet_id: O/7913296/0000309
+status: placed
 ---
 
 # Sweden v Tunisia
@@ -36,8 +37,14 @@ Under 2.5 ~1.62 / Over 2.5 ~2.20; Gyökeres O1.5 SOT @ 2.38 (so 1+ SOT ~1.45–1
 Elanga 1+ SOT 1.76; BTTS No ~1.75–1.85. No corners/cards line published — price on board.
 
 ## The bet
-**NOT YET PLACED — recommended below.** New-methodology build: demoted result leg
-+ Sweden's nailed shot threat + a ref-driven cards leg.
+**PLACED** (O/7913296/0000309) · **3.52/1 (4.52)** · £5 → **£22.59**:
+- Sweden And Draw — Double Chance
+- Viktor Gyokeres — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over 4.5 Cards (total match)
+
+Recommended Balanced-Best exactly. Demoted result leg (DC); the Over 4.5 cards
+leg is the swing (ref Falcon Perez 5.3 YC/g, 2nd-strictest at the WC, supports it).
+Original recommendation below.
 
 **Recommended (Balanced-Best) — target 3.0–3.8, floor 2.80:**
 - Sweden double chance (1X) (~1.25) — demoted result leg; Tunisia's drought makes it safe

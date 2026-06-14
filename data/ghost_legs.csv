@@ -23,3 +23,59 @@ G0304-NM,3,Total Goals O/U,Over 1.5,Won,2 goals
 G0305-NM,1,Match Odds,Scotland,Won,Scotland 1-0
 G0305-NM,2,Player Shots,McTominay 1+ SOT,Lost,0 SOT confirmed - this leg sank the build
 G0305-NM,3,Corners,Scotland Over 3.5 corners,Void,moot - slip already dead on McTominay leg
+G0297-BASE,1,Match Odds,Mexico,Won,
+G0297-BASE,2,BTTS,No,Won,
+G0297-BASE,3,Team Goals O/U,Mexico Over 1.5,Won,
+G0298-BASE,1,Match Odds,South Korea,Won,Korea won 2-1
+G0298-BASE,2,Total Goals O/U,Under 3.5,Won,3 goals
+G0298-BASE,3,Player Shots,Son 1+ SOT,Won,
+G0300-BASE,1,Match Odds,Canada,Lost,1-1 draw
+G0300-BASE,2,Goalscorer,Jonathan David anytime,Lost,assisted not scored
+G0300-BASE,3,Total Goals O/U,Under 4.5,Won,2 goals
+G0301-BASE,1,Match Odds,USA,Won,4-1
+G0301-BASE,2,Cards,Paraguay Over 1.5 cards,Won,3 yellows
+G0301-BASE,3,Player Shots,Pulisic 2+ shots,Lost,2 assists not shots then rested
+G0303-SAF,1,Match Odds,Switzerland,Lost,1-1 draw
+G0303-SAF,2,Team Goals O/U,Switzerland Over 1.5,Lost,Swiss scored 1
+G0303-SAF,3,BTTS,No,Lost,both scored
+G0303-BAL,1,Match Odds,Switzerland,Lost,1-1 draw
+G0303-BAL,2,BTTS,No,Lost,both scored
+G0303-BAL,3,Goalscorer,Embolo anytime,Won,scored the penalty
+G0303-AGG,1,Match Odds,Switzerland,Lost,1-1 draw
+G0303-AGG,2,BTTS,No,Lost,both scored
+G0303-AGG,3,Team Goals O/U,Switzerland Over 2.5,Lost,Swiss scored 1
+G0303-AGG,4,Goalscorer,Embolo anytime,Won,scored the penalty
+G0303-AGG,5,Cards,Qatar Over 1.5 cards,Won,2 yellows
+G0304-SAF,1,Match Odds,Brazil Double Chance,Won,draw banked
+G0304-SAF,2,Total Goals O/U,Over 1.5,Won,2 goals
+G0304-SAF,3,Player Shots,Raphinha 1+ SOT,Won,
+G0304-BAL,1,Match Odds,Brazil,Lost,1-1 draw
+G0304-BAL,2,BTTS,Yes,Won,
+G0304-BAL,3,Player Shots,Raphinha 1+ SOT,Won,
+G0304-AGG,1,Match Odds,Brazil,Lost,1-1 draw
+G0304-AGG,2,BTTS,Yes,Won,
+G0304-AGG,3,Goalscorer,Vinicius anytime,Won,scored 32'
+G0304-AGG,4,Cards,Mazraoui carded,Void,unknown - moot (slip already lost)
+G0305-SAF,1,Match Odds,Scotland,Won,1-0
+G0305-SAF,2,Player Shots,McTominay 1+ SOT,Lost,0 SOT confirmed
+G0305-SAF,3,Corners,Scotland Over 3.5 corners,Void,moot - slip already lost
+G0305-BAL,1,Match Odds,Scotland,Won,1-0
+G0305-BAL,2,Goalscorer,Shankland anytime,Lost,0 goals/assists
+G0305-BAL,3,Total Goals O/U,Over 2.5,Lost,1 goal
+G0305-AGG,1,Match Odds,Scotland,Won,1-0
+G0305-AGG,2,Goalscorer,Shankland anytime,Lost,0 goals/assists
+G0305-AGG,3,Player Shots,McTominay 1+ SOT,Lost,0 SOT
+G0305-AGG,4,Cards,Arcus carded,Void,unknown - moot
+G0305-AGG,5,Corners,Over 8.5 match corners,Void,unknown - moot
+G0302-SAF,1,Match Odds,Turkey,Lost,Australia won 2-0
+G0302-SAF,2,Total Goals O/U,Under 4.5,Won,2 goals
+G0302-SAF,3,Player Shots,Guler 1+ SOT,Won,3 SOT
+G0302-BAL,1,Match Odds,Turkey,Lost,Australia won 2-0
+G0302-BAL,2,Total Goals O/U,Under 3.5,Won,2 goals
+G0302-BAL,3,Player Shots,Guler 1+ SOT,Won,3 SOT
+G0302-BAL,4,Goalscorer,Akturkoglu anytime,Lost,Turkey scored 0
+G0302-AGG,1,Match Odds,Turkey,Lost,Australia won 2-0
+G0302-AGG,2,Total Goals O/U,Under 3.5,Won,2 goals
+G0302-AGG,3,Goalscorer,Akturkoglu anytime,Lost,Turkey scored 0
+G0302-AGG,4,Cards,Yuksek carded,Void,unknown - moot
+G0302-AGG,5,Cards,Turkey Over 1.5 cards,Void,unknown - moot

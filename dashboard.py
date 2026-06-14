@@ -332,6 +332,42 @@ def main():
     coverage_panel = (f'<section><h2>Tournament coverage — all {len(fixtures)} games</h2>'
                       f'<div class="panel">{coverage_html}</div></section>') if fixtures else ""
 
+    # ---- Ghost ledger (paper trades; never touches real money) ----
+    ghost_bets = read_csv("ghost_bets.csv")
+    ghost_panel = ""
+    if ghost_bets:
+        for g in ghost_bets:
+            g["pl_f"] = float(g["profit_loss"]) if g["profit_loss"] else 0.0
+            g["stake_f"] = float(g["notional_stake"]) if g.get("notional_stake") else 0.0
+        g_set = [g for g in ghost_bets if g["status"] in ("Won", "Lost")]
+        g_won = [g for g in g_set if g["status"] == "Won"]
+        g_pl = sum(g["pl_f"] for g in g_set)
+        g_stake = sum(g["stake_f"] for g in g_set)
+        g_strike = len(g_won) / len(g_set) if g_set else 0
+        tier_stats = {}
+        for g in g_set:
+            s = tier_stats.setdefault(g["builder_label"], dict(n=0, won=0, pl=0.0))
+            s["n"] += 1
+            s["won"] += 1 if g["status"] == "Won" else 0
+            s["pl"] += g["pl_f"]
+        tier_order = ["new-method 3-leg soft spine", "base 3-leg sans optional",
+                      "Safer", "Balanced-Best rec", "Aggressive"]
+        order_key = lambda kv: tier_order.index(kv[0]) if kv[0] in tier_order else 99
+        ghost_tier_rows = "".join(
+            f'<tr><td>{html.escape(t)}</td><td class="num">{s["won"]}/{s["n"]}</td>'
+            f'<td class="num">{s["won"]/s["n"]:.0%}</td>'
+            f'<td class="num {"pos" if s["pl"] >= 0 else "neg"}">{money(s["pl"])}</td></tr>'
+            for t, s in sorted(tier_stats.items(), key=order_key))
+        ghost_panel = (
+            f'<section><h2>Ghost ledger — unplaced builds (paper)</h2><div class="panel">'
+            f'<p class="note">Pre-registered builds from each pre-match read, settled BLIND on paper — '
+            f'not real money, pure A/B data. Overall <b class="num">{len(g_won)}–{len(g_set) - len(g_won)}</b> '
+            f'(strike {g_strike:.0%}), paper P/L <b class="num {"pos" if g_pl >= 0 else "neg"}">{money(g_pl)}</b> '
+            f'on £{g_stake:.0f} notional. The comparison that matters is by build type below — the new-method '
+            f'spine leads every old tier. Odds estimated where no board price; n is small.</p>'
+            f'<div class="tw"><table><tr><th>Build type</th><th>Won</th><th>Strike</th><th>Paper P/L</th></tr>'
+            f'{ghost_tier_rows}</table></div></div></section>')
+
     page = f"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -516,6 +552,8 @@ def main():
 </div>
 
 {coverage_panel}
+
+{ghost_panel}
 
 <div class="grid2">
   <section><h2>Leg analysis — what's killing me</h2><div class="panel">

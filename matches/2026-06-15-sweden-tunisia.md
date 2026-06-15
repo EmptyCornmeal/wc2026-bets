@@ -8,7 +8,7 @@ predicted_weakest_leg: total cards over (line unconfirmed) — though ref strong
 min_odds_floor: 2.80
 est_win_prob: 0.33
 bet_id: O/7913296/0000309
-status: placed
+status: lost
 ---
 
 # Sweden v Tunisia
@@ -64,7 +64,19 @@ _Vault check: 3-leg soft spine; result leg demoted to double chance
 (#result-leg-can-kill); SOT not anytime-scorer (#goalscorer-lottery)._
 
 ## Result
-_Pending._
+**Sweden 3-1 Tunisia — LOST (£5, £0 return, −£5).** Ayari 7', Isak 30', Gyökeres
+59' (SWE); Rekik 43' (TUN). Leg-by-leg:
+- Sweden double chance (1X) — **WON** (won 3-1).
+- Viktor Gyökeres 1+ SOT — **WON** (2 SOT, scored; SS cosmetic).
+- Over 4.5 Cards — **LOST. SOLE KILLER** — just 1 card all game (Khedira 54').
 
 ## Learnings
-_Pending._
+Third cards-leg bullseye of the slate: `predicted_weakest_leg: total cards over`
+was the sole killer AGAIN. The "strongest card spot of the four" — Falcón Pérez, a
+5.3-YC/g ref, 2nd-strictest at the tournament — produced **one** card. That is the
+entire #cards-over-trap case in a single game: referee averages do not predict 5+
+in any given match; the variance is enormous. Sweden DC + Gyökeres SOT (the process
+spine) both smashed it. The Safer ghost (DC + Gyökeres SOT + BTTS No) ALSO lost —
+on BTTS No (3-1, both scored) — so unlike Germany/IC there was no soft rescue; only
+a bare 2-leg DC + SOT would have won. Across the slate "Over 4.5 cards" went 0-2 and
+killed both slips it touched. Stays banned. #cards-over-trap

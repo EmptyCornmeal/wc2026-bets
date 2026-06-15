@@ -8,7 +8,7 @@ predicted_weakest_leg: total cards over (line unconfirmed) — though ref strong
 min_odds_floor: 3.50
 est_win_prob: 0.30
 bet_id: O/7913296/0000308
-status: placed
+status: lost
 ---
 
 # Ivory Coast v Ecuador
@@ -69,7 +69,20 @@ suppression legs are justified by conviction, paired with an independent cards
 leg to avoid pure #single-goal-collapse._
 
 ## Result
-_Pending._
+**Ivory Coast 1-0 Ecuador — LOST (£5, £0 return, −£5).** Amad Diallo 90' (sub —
+the only goal). Leg-by-leg:
+- Under 2.5 Goals — **WON** (1 goal).
+- Over 4.5 Cards — **LOST. SOLE KILLER** — only 4 cards, all yellow.
+- BTTS No — **WON** (Ecuador 0; they hit the woodwork three times).
+The cagey-grind read was perfect — a 1-0 between two elite defences. Died on the
+one swing leg.
 
 ## Learnings
-_Pending._
+`predicted_weakest_leg: total cards over` was the **sole killer** — second bullseye
+of the night. Two misses behind it: (1) the referee was **Michael Oliver, NOT
+Letexier** as the pre-match research had it (the injury-swap intel was wrong) —
+Oliver is far less card-happy (~3.5 vs 4.4–4.8/g), and the game had 4 cards, one
+shy. VERIFY THE REF NEAR KICKOFF. (2) "Over 4.5 cards" (5+) is a swing, not a soft
+banker. **The Safer ghost — Under 2.5 + BTTS No, cards dropped — WON.** The
+unders/BTTS-No core was gold; the appended cards leg sank it. We named the kill
+condition and bet through it anyway. #cards-over-trap #named-kill-condition

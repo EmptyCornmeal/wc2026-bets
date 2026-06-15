@@ -8,7 +8,7 @@ predicted_weakest_leg: total corners over (siege stalls if Germany coast)
 min_odds_floor: 4.00
 est_win_prob: 0.28
 bet_id: O/7913296/0000306
-status: placed
+status: lost
 ---
 
 # Germany v Curacao
@@ -63,7 +63,20 @@ _Vault check: 3-leg soft spine; result leg dropped (#process-over-outcome); over
 3.5 is a totals leg, not a banned "team to score 2+"._
 
 ## Result
-_Pending._
+**Germany 7-1 Curaçao — LOST (£5 FREE BET, £0 own cash, £0 return).** Nmecha 6',
+Schlotterbeck 38', Havertz 45+5' pen, Musiala 47', Brown 68', Undav 78', Havertz
+88'; Comenencia 21' for Curaçao. Leg-by-leg:
+- Over 4.5 Goals — **WON** (8 goals).
+- Over 10.5 Corners — **LOST. SOLE KILLER** — only 9 corners (Germany 8, Curaçao 1).
+- Kai Havertz 1+ SOT — **WON** (2 goals = 2 SOT himself; Super Sub cosmetic).
+Free bet, so no cash lost.
 
 ## Learnings
-_Pending._
+`predicted_weakest_leg: total corners over` was the **sole killer** — a bullseye.
+Germany battered Curaçao 7-1 on 65% possession and 26 shots, yet won only 9
+corners — a dominant side converts pressure to goals, not corners, and once well
+ahead they cruised (the exact "coasts, corners stall" note). The two soft legs
+(goals, Havertz SOT) smashed it; the long O10.5 (11+) corners line was the swing.
+**The Safer ghost — same build but Over 8.5 corners — WON** (9 ≥ 8.5): the lower
+line was right. Rule: against a heavy favourite take the LOWER corners line
+(O8.5/O9.5), not O10.5+. #corners-line-swing

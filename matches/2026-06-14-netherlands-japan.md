@@ -8,7 +8,7 @@ predicted_weakest_leg: total cards over (line unconfirmed) / NL territorial domi
 min_odds_floor: 2.80
 est_win_prob: 0.35
 bet_id: O/7913296/0000307
-status: placed
+status: won
 ---
 
 # Netherlands v Japan
@@ -62,7 +62,20 @@ _Vault check: 3-leg soft spine; result leg demoted to double chance
 (#result-leg-can-kill); no goalscorer/2+-shots legs; not betting both teams to score._
 
 ## Result
-_Pending._
+**Netherlands 2-2 Japan — WON £14.34 (+£9.34).** Van Dijk 51', Summerville 64'
+(NED); Nakamura 57', Kamada 89' (JPN). Leg-by-leg:
+- Netherlands double chance (1X) — **WON** (draw).
+- Cody Gakpo 1+ SOT — **WON** (1 SOT himself; SS to Brobbey cosmetic).
+- Netherlands Over 4.5 corners — **WON** (5 corners, exactly on the line).
+**The first win under the new method — a pure soft-market spine, zero outcome/
+lottery legs.**
 
 ## Learnings
-_Pending._
+The new method's maiden win, and it validates the whole thesis: a demoted result
+leg (double chance banked the late 2-2), a nailed SOT, and territorial corners —
+not one anytime-scorer or straight result bet in sight. Kamada's 89th-minute
+equaliser would have KILLED a Netherlands-win leg; double chance is the only
+reason this won (#result-leg-can-kill). The corners landed on exactly the line (5)
+— the one nervy leg, flagged pre-match. The **Aggressive ghost (added BTTS Yes +
+Ueda 1+ SOT) LOST** — Ueda had 0 SOT — confirming the 4th lottery-ish leg is a
+failure-mode adder, not value. Clean #process-over-outcome.

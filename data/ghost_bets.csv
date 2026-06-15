@@ -23,11 +23,11 @@ G0305-AGG,2026-06-14,2026-06-14 02:00,Haiti v Scotland,pre-registered tier blind
 G0302-SAF,2026-06-14,2026-06-14 05:00,Australia v Turkey,pre-registered tier blind-settle,Safer,O/7913296/0000302,2.40,5.00,Lost,0.00,-5.00,3,died on Turkey win (Australia won 2-0)
 G0302-BAL,2026-06-14,2026-06-14 05:00,Australia v Turkey,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000302,7.75,5.00,Lost,0.00,-5.00,4,identical to placed slip 0302 - logged for tier comparison
 G0302-AGG,2026-06-14,2026-06-14 05:00,Australia v Turkey,pre-registered tier blind-settle,Aggressive,O/7913296/0000302,16.00,5.00,Lost,0.00,-5.00,5,died on Turkey win + Akturkoglu
-G0306-BAL,2026-06-14,2026-06-14 18:00,Germany v Curacao,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000306,5.00,5.00,Open,,,3,Over 3.5 + corners O10.5 + Germany starter SOT (placed was Over 4.5 free-bet variant)
-G0306-SAF,2026-06-14,2026-06-14 18:00,Germany v Curacao,pre-registered tier blind-settle,Safer,O/7913296/0000306,2.50,5.00,Open,,,3,Over 2.5 + Germany SOT + corners O8.5
-G0307-BAL,2026-06-14,2026-06-14 21:00,Netherlands v Japan,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000307,2.87,5.00,Open,,,3,= placed real bet 0307
-G0307-AGG,2026-06-14,2026-06-14 21:00,Netherlands v Japan,pre-registered tier blind-settle,Aggressive,O/7913296/0000307,5.00,5.00,Open,,,4,NL DC + Gakpo SOT + BTTS Yes + Ueda SOT
-G0308-BAL,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000308,4.53,5.00,Open,,,3,= placed real bet 0308
-G0308-SAF,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier blind-settle,Safer,O/7913296/0000308,2.20,5.00,Open,,,2,Under 2.5 + BTTS No only (drop cards)
-G0309-BAL,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000309,4.52,5.00,Open,,,3,= placed real bet 0309
-G0309-SAF,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Safer,O/7913296/0000309,2.00,5.00,Open,,,3,Sweden DC + Gyokeres SOT + BTTS No
+G0306-BAL,2026-06-14,2026-06-14 18:00,Germany v Curacao,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000306,5.00,5.00,Lost,0.00,-5.00,3,LOST on corners O10.5 (only 9 corners) - same killer as placed
+G0306-SAF,2026-06-14,2026-06-14 18:00,Germany v Curacao,pre-registered tier blind-settle,Safer,O/7913296/0000306,2.50,5.00,Won,12.50,7.50,3,RESCUE: corners O8.5 won at 9 - the lower corners line was right
+G0307-BAL,2026-06-14,2026-06-14 21:00,Netherlands v Japan,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000307,2.87,5.00,Won,14.35,9.35,3,= placed real bet 0307 (WON)
+G0307-AGG,2026-06-14,2026-06-14 21:00,Netherlands v Japan,pre-registered tier blind-settle,Aggressive,O/7913296/0000307,5.00,5.00,Lost,0.00,-5.00,4,LOST: Ueda 0 SOT - the 4th lottery leg killed it
+G0308-BAL,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000308,4.53,5.00,Lost,0.00,-5.00,3,= placed real bet 0308 (LOST on cards)
+G0308-SAF,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier blind-settle,Safer,O/7913296/0000308,2.20,5.00,Won,11.00,6.00,2,RESCUE: Under 2.5 + BTTS No both won - dropping cards saved it
+G0309-BAL,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000309,4.52,5.00,Lost,0.00,-5.00,3,= placed real bet 0309 (LOST on cards - 1 card)
+G0309-SAF,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Safer,O/7913296/0000309,2.00,5.00,Lost,0.00,-5.00,3,NOT rescued: lost on BTTS No (both scored 3-1)

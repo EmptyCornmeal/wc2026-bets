@@ -178,6 +178,18 @@ fractional prices. For each fixture:
   lost; the only winner, Jimenez, was in the one slip where everything won). 1+
   SOT props went 3–0. Use 1+ SOT or score-or-assist for the monopolist — never a
   +200 anytime garnish.
+- #cards-over-trap (15 Jun, n=2 same night): "Over 4.5 total cards" (5+) is a SWING
+  leg, NOT a soft banker — it was the SOLE KILLER of both slips it was in (Ivory
+  Coast 4 cards under Oliver; Sweden just 1 card under Falcón Pérez, a 5.3-YC/g
+  ref). Referee YC/game averages do NOT imply 5+ cards every game — counts are
+  high-variance and ours came in low. The card legs that have WON were "one team
+  over 1.5 cards" (2+ from the carded side), short and high-prob — use that, never
+  total-5+. Also VERIFY THE REF near kickoff: the IC ref was Oliver, not Letexier
+  as researched — a materially less strict whistle that the pre-match read missed.
+- #corners-line-swing (15 Jun): against a heavy favourite take the LOWER corners
+  line (O8.5/O9.5), not O10.5+. Germany won the corner count 8–1 but only 9 total
+  and the O10.5 (11+) leg was the sole killer; the O8.5 ghost won. Dominant sides
+  convert pressure into goals, not corners, and coast once ahead.
 - #clean-sheet-legs / #leg-redundancy: never stack a team-scores-zero leg on
   top of match odds + match unders — tiny price boost, huge new failure mode.
 - #optional-legs: an optional leg must pass a risk test, not just the

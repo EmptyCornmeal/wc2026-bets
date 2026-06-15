@@ -7,7 +7,8 @@ confidence: 6/10
 predicted_weakest_leg: Saudi over 1.5 cards (swing) / Uruguay win (draw risk)
 est_win_prob: 0.28
 min_odds_floor: 3.20
-status: analysed
+bet_id: O/7913296/0000310
+status: placed
 ---
 
 # Saudi Arabia v Uruguay
@@ -26,7 +27,12 @@ better team-cards side — **Abdulhamid is a card magnet** (5Y+1R in 20 Ligue 1
 starts, carded 27/10). TEAM-1.5 cards only (#cards-over-trap), never total-over.
 
 ## The bet
-**NOT YET PLACED — recommended below.** Uruguay-control soft spine.
+**PLACED** (O/7913296/0000310) · Power Up 25% (2.32 → **2.65**) · £5 → **£13.27**:
+- Uruguay — Match Odds
+- Darwin Núñez — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Team Total Cards 1.5 (Saudi 2+)
+
+Recommended Balanced-Best exactly, with the 25% boost applied. Original below.
 
 **Recommended (Balanced-Best) — target 3.5–4.0:**
 - Uruguay to win (1.44) — strong sub-1.6 favourite vs a toothless side

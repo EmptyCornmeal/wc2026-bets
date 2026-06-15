@@ -7,7 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Under 2.5 goals (or Taremi smothered by the block)
 est_win_prob: 0.36
 min_odds_floor: 2.20
-status: analysed
+bet_id: O/7913296/0000311
+status: placed
 ---
 
 # Iran v New Zealand
@@ -27,7 +28,12 @@ tighter at World Cups (2.33/g) — don't overweight; NZ (Stamenic, 12 bookings l
 season) is the cards side. TEAM-1.5 cards only if used (#cards-over-trap).
 
 ## The bet
-**NOT YET PLACED — recommended below.** Cagey two-way control spine.
+**PLACED** (O/7913296/0000311) · **1.45/1 (2.45)** · £5 → **£12.25**:
+- Iran And Draw — Double Chance
+- Under 2.5 Goals
+- Mehdi Taremi — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+
+Recommended Balanced-Best exactly. Original below.
 
 **Recommended (Balanced-Best) — target 2.4–2.8:**
 - Iran double chance (1X) (~1.25) — demoted result leg; the draw is live

@@ -7,7 +7,8 @@ confidence: 7/10
 predicted_weakest_leg: Over 2.5 goals (Spain could win a tidy 2-0)
 est_win_prob: 0.42
 min_odds_floor: 2.30
-status: analysed
+bet_id: O/7913296/0000312
+status: placed
 ---
 
 # Spain v Cape Verde
@@ -26,8 +27,15 @@ Spain clean sheets) — so a goals-over leg is the contrarian side; keep the lin
 modest (Over 2.5, not 3.5). Corners: take a LOW Spain team line (#corners-line-swing).
 
 ## The bet
-**NOT YET PLACED — recommended below.** Soft siege spine, no 1.06 result leg, no
-total-cards-over (#cards-over-trap).
+**PLACED** (O/7913296/0000312) · **2/1 (3.00)** · £5 → **£15.01**:
+- Over 3.5 Goals
+- Over 1.5 Cards — Away Team Total Cards 1.5 (Cape Verde)
+- Mikel Oyarzabal — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+
+Value-reshape: the original Balanced (Over 2.5 + Spain O4.5 corners + Oyarzabal)
+priced at just 1.62 — two near-dead-weight legs (1.10/1.11) — so swapped to Over
+3.5 + Cape Verde over 1.5 cards for real payout (#value-not-floor). No Power Up.
+Original recommendation below.
 
 **Recommended (Balanced-Best, siege) — target 2.4–2.8:**
 - Oyarzabal 1+ shot on target (~1.30, monopolist + pens)

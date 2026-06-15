@@ -7,7 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Belgium to win (26% draw risk, Salah counter)
 est_win_prob: 0.30
 min_odds_floor: 2.80
-status: analysed
+bet_id: O/7913296/0000313
+status: placed
 ---
 
 # Belgium v Egypt
@@ -27,7 +28,14 @@ better team-cards-over side (fouling to contain Doku), though they trend under 4
 total — so a TEAM-1.5 Egypt cards leg only, never total-over (#cards-over-trap).
 
 ## The bet
-**NOT YET PLACED — recommended below.** Belgium-control soft spine.
+**PLACED** (O/7913296/0000313) · **3.36/1 (4.36)** · £5 → **£21.80**:
+- Belgium — Match Odds
+- Leandro Trossard — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Total Corners 5.5 (Belgium team)
+
+The recommended Balanced-Best, after fixing the corners leg to the real Belgium
+team line (1.85, not the dead 1.07 total) and dropping the opt-in 4th cards leg
+for strike rate. No Power Up. Original recommendation below.
 
 **Recommended (Balanced-Best) — target 3.2–3.8:**
 - Belgium to win (1.57) — strong sub-1.6 favourite, Egypt weak + Salah unfit

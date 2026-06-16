@@ -31,15 +31,15 @@ G0308-BAL,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier 
 G0308-SAF,2026-06-14,2026-06-15 00:00,Ivory Coast v Ecuador,pre-registered tier blind-settle,Safer,O/7913296/0000308,2.20,5.00,Won,11.00,6.00,2,RESCUE: Under 2.5 + BTTS No both won - dropping cards saved it
 G0309-BAL,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000309,4.52,5.00,Lost,0.00,-5.00,3,= placed real bet 0309 (LOST on cards - 1 card)
 G0309-SAF,2026-06-14,2026-06-15 03:00,Sweden v Tunisia,pre-registered tier blind-settle,Safer,O/7913296/0000309,2.00,5.00,Lost,0.00,-5.00,3,NOT rescued: lost on BTTS No (both scored 3-1)
-GSPACV-BAL,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Balanced-Best rec,,2.50,5.00,Open,,,3,Oyarzabal SOT + Spain O4.5 corners + Over 2.5
-GSPACV-SAF,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Safer,,1.85,5.00,Open,,,2,Oyarzabal SOT + Spain O4.5 corners
-GSPACV-AGG,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Aggressive,,5.50,5.00,Open,,,4,+ Cape Verde over 1.5 cards + Over 3.5
-GBELEGY-BAL,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000313,4.36,5.00,Open,,,3,= placed real bet 0313
-GBELEGY-SAF,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Safer,,2.55,5.00,Open,,,3,Belgium DC + Trossard SOT + Belgium O5.5 corners
-GBELEGY-AGG,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Aggressive,,6.00,5.00,Open,,,4,Belgium win + Doku SOT + Trossard SOT + Egypt over 1.5 cards
-GSAUURU-BAL,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000310,2.65,5.00,Open,,,3,= placed real bet 0310 (Power Up boosted 2.65)
-GSAUURU-SAF,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Safer,,2.50,5.00,Open,,,3,Uruguay DC + Nunez SOT + Under 2.5
-GSAUURU-AGG,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Aggressive,,7.00,5.00,Open,,,4,Uruguay win + Nunez over 1.5 SOT + Saudi over 1.5 cards + Under 2.5
-GIRNNZ-BAL,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000311,2.45,5.00,Open,,,3,= placed real bet 0311
-GIRNNZ-SAF,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Safer,,1.95,5.00,Open,,,2,Iran DC + Under 2.5
-GIRNNZ-AGG,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Aggressive,,5.00,5.00,Open,,,4,Iran win + Under 2.5 + Taremi SOT + NZ over 1.5 cards
+GSPACV-BAL,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Balanced-Best rec,,2.50,5.00,Lost,0.00,-5.00,3,Oyarzabal SOT + Spain O4.5 corners + Over 2.5 - LOST on Over 2.5 (0-0)
+GSPACV-SAF,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Safer,,1.85,5.00,Won,9.25,4.25,2,Oyarzabal SOT + Spain O4.5 corners - BOTH WON (Oyarzabal saved by keeper; Spain 10+ corners); Safer tier landed again
+GSPACV-AGG,2026-06-15,2026-06-15 17:00,Spain v Cape Verde,pre-registered tier blind-settle,Aggressive,,5.50,5.00,Lost,0.00,-5.00,4,+ Cape Verde over 1.5 cards + Over 3.5 - LOST on CV cards (0) + Over 3.5 (0-0)
+GBELEGY-BAL,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000313,4.36,5.00,Lost,0.00,-5.00,3,= placed real bet 0313 - LOST (all 3 legs)
+GBELEGY-SAF,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Safer,,2.55,5.00,Lost,0.00,-5.00,3,Belgium DC + Trossard SOT + Belgium O5.5 corners - DC won (draw) but LOST Trossard SOT + corners
+GBELEGY-AGG,2026-06-15,2026-06-15 20:00,Belgium v Egypt,pre-registered tier blind-settle,Aggressive,,6.00,5.00,Lost,0.00,-5.00,4,Belgium win + Doku SOT + Trossard SOT + Egypt over 1.5 cards - LOST Belgium win (draw) + Trossard SOT
+GSAUURU-BAL,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000310,2.65,5.00,Lost,0.00,-5.00,3,= placed real bet 0310 (Power Up boosted 2.65) - LOST (all 3 legs)
+GSAUURU-SAF,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Safer,,2.50,5.00,Lost,0.00,-5.00,3,Uruguay DC + Nunez SOT + Under 2.5 - DC won (draw) + Under won (2 goals) but LOST Nunez SOT (0 SOT)
+GSAUURU-AGG,2026-06-15,2026-06-15 23:00,Saudi Arabia v Uruguay,pre-registered tier blind-settle,Aggressive,,7.00,5.00,Lost,0.00,-5.00,4,Uruguay win + Nunez over 1.5 SOT + Saudi over 1.5 cards + Under 2.5 - LOST Uruguay win/Nunez/cards; only Under won
+GIRNNZ-BAL,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Balanced-Best rec,O/7913296/0000311,2.45,5.00,Lost,0.00,-5.00,3,= placed real bet 0311 - LOST on Under 2.5 (4 goals); DC + Taremi won
+GIRNNZ-SAF,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Safer,,1.95,5.00,Lost,0.00,-5.00,2,Iran DC + Under 2.5 - DC won (draw) but LOST Under 2.5 (4 goals)
+GIRNNZ-AGG,2026-06-15,2026-06-16 02:00,Iran v New Zealand,pre-registered tier blind-settle,Aggressive,,5.00,5.00,Lost,0.00,-5.00,4,Iran win + Under 2.5 + Taremi SOT + NZ over 1.5 cards - LOST Iran win (draw) + Under 2.5

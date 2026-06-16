@@ -8,7 +8,7 @@ predicted_weakest_leg: Belgium to win (26% draw risk, Salah counter)
 est_win_prob: 0.30
 min_odds_floor: 2.80
 bet_id: O/7913296/0000313
-status: placed
+status: lost
 ---
 
 # Belgium v Egypt
@@ -51,7 +51,28 @@ Avoid: BTTS No as a "safe" leg (Egypt ~50% to score); any Salah attacking leg
 NL lesson — DC banked a late equaliser). Confirm Lukaku vs De Ketelaere at XI drop.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Belgium 1-1 Egypt (Emam Ashour 19/21' 20-yard screamer
+past Courtois; Mohamed Hany OG 66', forced by Lukaku 22 seconds after coming on).
+Belgium 15 shots/xG 1.31 but **0 SOT in the first half**; Egypt denied a first-ever
+WC win. All three legs lost:
+- Belgium Match Odds — **LOST** (1-1 draw).
+- Leandro Trossard 1+ SOT — **LOST** (3 first-half shots, none on target; Belgium
+  registered 0 SOT before the break. SS cosmetic).
+- Belgium over 5.5 team corners — **LOST** (under 5.5).
 
 ## Learnings
-_Pending._
+Predicted weakest leg ("Belgium to win, 26% draw risk") was **the killer** — a nervy
+1-1, exactly the scenario flagged. Same process violation as Saudi: `est_win_prob`
+was **0.30** (the threshold), so under #result-leg-can-kill / #est-prob-gate-violated
+the result leg should have been **double chance** — and indeed the Safer ghost's
+Belgium-DC leg WON. But unlike a one-leg miss, this slip was a **whole-team flat
+night**: Trossard's three shots all missed the target and Belgium couldn't even rack
+6 corners against a side they dominated for possession. DC alone wouldn't have saved
+it (Trossard + corners still lost) — when all three legs fail, the read mispriced the
+performance, not just the result.
+
+Note the corners leg: a possession-dominant favourite that can't beat the block does
+NOT auto-generate corners (echoes #corners-line-swing — pressure ≠ corners when the
+opponent defends compactly and breaks the rhythm). Reinforces **#est-prob-gate-violated**:
+two slips in one slate placed straight match-odds at est ≤ 0.30; both result legs lost.
+Going forward, the gate is mechanical — est ≤ 0.30 ⇒ double chance, no exceptions.

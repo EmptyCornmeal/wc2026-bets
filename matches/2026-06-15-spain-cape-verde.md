@@ -8,7 +8,7 @@ predicted_weakest_leg: Over 2.5 goals (Spain could win a tidy 2-0)
 est_win_prob: 0.42
 min_odds_floor: 2.30
 bet_id: O/7913296/0000312
-status: placed
+status: lost
 ---
 
 # Spain v Cape Verde
@@ -51,7 +51,30 @@ Yamal/Nico Williams leg (bench risk); anytime-scorer garnish beyond the monopoli
 **Weakest leg: Over 2.5** — a tidy Spain 2-0 kills it; fallback is the 2-leg Safer.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Spain 0-0 Cape Verde — the shock of the tournament so
+far. Spain had **27 shots** (joint-most on WC record without scoring since 1966), 7
+on target, xG 2.29; 40-year-old debutant keeper Vozinha made all 7 saves. Cape Verde
+committed just **1 foul all game** (fewest on WC record). Result:
+- Over 3.5 Goals — **LOST** (0-0).
+- Cape Verde over 1.5 cards — **LOST** (CV's 1 foul all match meant ~0 cards).
+- Mikel Oyarzabal 1+ SOT — **WON** (efforts saved by Vozinha = on target; SS cosmetic).
 
 ## Learnings
-_Pending._
+Predicted weakest leg ("Over 2.5 — Spain could win a tidy 2-0") was right that a
+goals-over leg would sink it — but **wildly under-shot the scenario**: not a 2-0, a
+historic 0-0 behind a perfect keeper display. The **value-reshape was the unforced
+error** — we swapped the original siege legs (corners + Over 2.5) for **Over 3.5 +
+Cape Verde cards** chasing payout under #value-not-floor, and both new legs were
+exactly the wrong side of a damage-limitation block: a parked bus that fouls almost
+never (1 foul!) gives no cards, and 27 shots can still yield zero goals.
+
+The **Safer ghost (Oyarzabal SOT + Spain O4.5 corners) WON** — the two pure siege
+process legs both banked (Oyarzabal on target, Spain 10+ corners) while the
+goals/cards reshape we actually placed lost. Cleanest #process-over-outcome
+confirmation yet, and a caution on #value-not-floor: chasing a longer price by
+trading siege legs for outcome/volume legs is how you turn a winning shape into a loser.
+
+**#parked-bus-goals-trap** — vs a deep damage-limitation block, NEVER anchor on
+goals-over or opponent-cards legs (a bus that doesn't foul gives neither goals nor
+cards). The soft markets that bank are the favourite's OWN process: shots on target
+and team corners. Shot volume ≠ goals when the keeper stands on his head.

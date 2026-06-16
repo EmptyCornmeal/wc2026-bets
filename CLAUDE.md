@@ -231,6 +231,27 @@ fractional prices. For each fixture:
 - #named-kill-condition: if the pre-match read names a specific failure mode,
   don't bet straight through it — anchor with double chance or cut confidence
   (Canada & Korea both died on the exact set-piece risk we wrote down).
+- #est-prob-gate-violated (15 Jun, 0/4 night): the est_win_prob ≤ 0.30 ⇒ double-chance
+  rule (#result-leg-can-kill) is MECHANICAL, not advisory. On 15 Jun we placed straight
+  match-odds in BOTH Saudi (est 0.28) and Belgium (est 0.30) builds despite logging
+  estimates at/under the gate — and both result legs lost (Uruguay 1-1, Belgium 1-1).
+  Three sub-1.6 favourites (Uruguay, Belgium, Spain) all failed to win on the same
+  slate. If est_win_prob ≤ 0.30, the placed build's result leg MUST be double chance,
+  no "but it's a 1.44 favourite" exception — that exception IS the trap.
+- #parked-bus-goals-trap (15 Jun, Spain 0-0 Cape Verde): vs a deep damage-limitation
+  block, NEVER anchor on goals-over or opponent-cards legs. A bus that barely fouls
+  (CV: 1 foul ALL GAME, a WC record) gives no cards, and 27 shots can yield zero goals
+  when the keeper is inspired. The soft markets that bank are the favourite's OWN
+  process — shots on target and team corners. The Safer ghost (Oyarzabal SOT + Spain
+  O4.5 corners) WON; our value-reshape INTO Over 3.5 + CV cards lost. Caution on
+  #value-not-floor: chasing a longer price by trading siege legs for outcome/volume
+  legs turns a winning shape into a loser. Shot volume ≠ goals.
+- #unders-need-two-blunt-attacks (16 Jun, Iran 2-2 NZ): an Under 2.5 leg requires BOTH
+  sides to be low-output. "NZ fail to score in 6 of 9" was not cover when NZ's Just
+  scored a clean brace; the unders thesis (Iran blunt vs blocks + NZ toothless) needed
+  to suppress BOTH attacks and only addressed one. Pair unders only when the read can
+  realistically silence both teams — otherwise demote to a team-unders or a process leg.
+  (The correctly-demoted Iran DC + Taremi SOT both won; the total was the sole killer.)
 
 ### 2. Log (user pastes open-bets screenshot)
 - Parse each slip → one row in `data/bets.csv` + one row per leg in

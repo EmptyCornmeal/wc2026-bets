@@ -43,15 +43,15 @@ O/7913296/0000308,3,BTTS,Both Teams To Score,No,Won,no,Ecuador failed to score
 O/7913296/0000309,1,Match Odds,Double Chance,Sweden And Draw,Won,no,Sweden won 3-1
 O/7913296/0000309,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Viktor Gyokeres,Won,yes,Gyokeres 2 SOT + scored; SS cosmetic
 O/7913296/0000309,3,Cards,Cards Over/Under 4.5,Over,Lost,no,SOLE KILLER - only 1 card all game (Khedira 54')
-O/7913296/0000310,1,Match Odds,Match Odds,Uruguay,Open,no,
-O/7913296/0000310,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Darwin Nunez,Open,yes,Super Sub + Win More badges
-O/7913296/0000310,3,Cards,Home Team Total Cards 1.5,Over,Open,no,Saudi (home) over 1.5 cards
-O/7913296/0000311,1,Match Odds,Double Chance,Iran And Draw,Open,no,demoted result leg (two-way)
-O/7913296/0000311,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,
-O/7913296/0000311,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mehdi Taremi,Open,yes,Super Sub + Win More badges
-O/7913296/0000312,1,Total Goals O/U,Over/Under 3.5 Goals,Over,Open,no,
-O/7913296/0000312,2,Cards,Away Team Total Cards 1.5,Over,Open,no,Cape Verde over 1.5 cards
-O/7913296/0000312,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mikel Oyarzabal,Open,yes,Super Sub + Win More badges
-O/7913296/0000313,1,Match Odds,Match Odds,Belgium,Open,no,
-O/7913296/0000313,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Leandro Trossard,Open,yes,Super Sub + Win More badges
-O/7913296/0000313,3,Corners,Home Total Corners 5.5,Over,Open,no,Belgium (home) over 5.5 team corners
+O/7913296/0000310,1,Match Odds,Match Odds,Uruguay,Lost,no,1-1 draw - Uruguay did not win
+O/7913296/0000310,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Darwin Nunez,Lost,yes,Nunez headed wide 0 SOT; SS Canobbio display cosmetic - no rescue
+O/7913296/0000310,3,Cards,Home Team Total Cards 1.5,Over,Lost,no,Saudi (home) over 1.5 cards - Saudi only 1 card (Al-Amri 43')
+O/7913296/0000311,1,Match Odds,Double Chance,Iran And Draw,Won,no,demoted result leg - 2-2 draw, Iran-and-draw landed
+O/7913296/0000311,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Lost,no,SOLE KILLER - 4 goals (Just x2, Rezaeian, Mohebbi)
+O/7913296/0000311,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mehdi Taremi,Won,yes,Taremi SOT landed; SS Hosseinzadeh display cosmetic
+O/7913296/0000312,1,Total Goals O/U,Over/Under 3.5 Goals,Over,Lost,no,0-0 draw - 0 goals
+O/7913296/0000312,2,Cards,Away Team Total Cards 1.5,Over,Lost,no,Cape Verde over 1.5 cards - CV only 1 foul all game, 0 cards
+O/7913296/0000312,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mikel Oyarzabal,Won,yes,Oyarzabal effort saved by Vozinha = on target; SS display cosmetic
+O/7913296/0000313,1,Match Odds,Match Odds,Belgium,Lost,no,1-1 draw - Belgium did not win
+O/7913296/0000313,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Leandro Trossard,Lost,yes,3 first-half shots none on target; BEL 0 SOT in 1st half; SS display cosmetic
+O/7913296/0000313,3,Corners,Home Total Corners 5.5,Over,Lost,no,Belgium (home) over 5.5 team corners - under 5.5

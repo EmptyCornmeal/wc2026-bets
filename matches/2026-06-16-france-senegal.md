@@ -7,8 +7,8 @@ confidence: 6/10
 predicted_weakest_leg: France to win (Senegal genuinely dangerous, draw live)
 est_win_prob: 0.38
 min_odds_floor: 2.40
-bet_id:
-status: analysed
+bet_id: O/7913296/0000314
+status: placed
 ---
 
 # France v Senegal
@@ -37,7 +37,14 @@ totals). Watch #parked-bus-goals-trap loosely: Senegal will counter (not a pure
 bus), so corners are fair but don't over-rate them if France score early.
 
 ## The bet
-_Pending placement (~1h before 20:00 KO, after France XI confirms Mbappé starts)._
+**PLACED** (O/7913296/0000314) · Power Up boost (2.23 → **2.53**) · £5 → **£12.67**:
+- France — Match Odds
+- Kylian Mbappé — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Total Corners 4.5 (France team)
+
+The Balanced-Best exactly — soft-spine shape (result + monopolist SOT + low-line
+corners), with the Power Up applied. Took France win (est 0.40 > 0.30 gate, so the
+straight result leg is permitted). Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.6–2.9:**
 - France to win (~1.44) — strong sub-1.6 favourite, deep squad

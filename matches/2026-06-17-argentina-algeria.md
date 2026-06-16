@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Argentina to win (Algeria can frustrate; low-scoring read)
 est_win_prob: 0.40
 min_odds_floor: 2.50
-bet_id:
-status: analysed
+bet_id: O/7913296/0000316
+status: placed
 ---
 
 # Argentina v Algeria
@@ -33,7 +33,13 @@ gate) but Algeria can nick a draw, so DC is the fallback after the 15 Jun
 favourite-draw cluster.
 
 ## The bet
-_Pending placement (~1h before 02:00 KO; OVERNIGHT — see timing note). Lautaro nailed._
+**PLACED** (O/7913296/0000316) · **2.43** · £5 → **£12.14**:
+- Argentina — Match Odds
+- Lautaro Martínez — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Total Corners 4.5 (Argentina team)
+
+The Balanced-Best exactly — used Lautaro (nailed monopolist) not Messi (hamstring/
+sub risk). Placed pre-bed accepting named-starter risk on Lautaro. Original below.
 
 **Recommended (Balanced-Best) — target ~2.8–3.0:**
 - Argentina to win (~1.36)

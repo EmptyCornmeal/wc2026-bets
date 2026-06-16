@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Over 2.5 goals (Iraq park-the-bus 1-0 risk)
 est_win_prob: 0.37
 min_odds_floor: 2.50
-bet_id:
-status: analysed
+bet_id: O/7913296/0000315
+status: placed
 ---
 
 # Iraq v Norway
@@ -38,7 +38,14 @@ Norway 1.17 win is near-dead-weight (adds ~17% price for ~84% prob — #value-no
 so it's demoted off the Balanced; it belongs only in the Aggressive for payout.
 
 ## The bet
-_Pending placement (~1h before 23:00 KO, after Haaland confirmed starting)._
+**PLACED** (O/7913296/0000315) · Power Up boost (2.08 → **2.35**) · £5 → **£11.74**:
+- Erling Haaland — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Over/Under 2.5 Goals
+- Over — Away Total Corners 4.5 (Norway team)
+
+The Balanced-Best exactly, with the Power Up applied. Weakest leg remains Over 2.5
+(deep-block 1-0 risk, #parked-bus-goals-trap) — but Norway's 4+/game profile and the
+market (O2.5 ~1.55) back it. Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.8–3.0:**
 - Haaland 1+ shot on target (~1.30)

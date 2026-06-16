@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Over 2.5 goals (Jordan deep block, 1-0 grind risk)
 est_win_prob: 0.40
 min_odds_floor: 2.40
-bet_id:
-status: analysed
+bet_id: O/7913296/0000317
+status: placed
 ---
 
 # Austria v Jordan
@@ -33,7 +33,15 @@ high-strike third leg for an overnight slip the user sleeps through. BTTS No is 
 safe to stack as filler — keep the shape simple.
 
 ## The bet
-_Pending placement (~1h before 05:00 KO; OVERNIGHT — see timing note)._
+**PLACED** (O/7913296/0000317) · **2.22** · £5 → **£11.11**:
+- Austria — Match Odds
+- Marko Arnautović — 1+ Shots On Target Incl Woodwork (Super Sub, Win More)
+- Over — Home Total Corners 4.5 (Austria team)
+
+The Balanced-Best exactly. Took Austria win as the third leg (kept Over 2.5 off the
+slip given Jordan's deep block, #parked-bus-goals-trap). Overnight — Arnautović start
+is predicted not nailed; if he's benched entirely the SOT leg voids (reprices, does
+not lose). Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.5–2.8:**
 - Arnautović 1+ shot on target (~1.50, the monopolist)

@@ -141,3 +141,22 @@ GIRNNZ-AGG,1,Match Odds,Iran,Lost,2-2 draw - Iran did not win
 GIRNNZ-AGG,2,Total Goals O/U,Under 2.5,Lost,4 goals
 GIRNNZ-AGG,3,Player Shots,Taremi 1+ SOT,Won,Taremi SOT landed
 GIRNNZ-AGG,4,Cards,New Zealand over 1.5 cards,Lost,FLAG no confirmed NZ 2+ cards in match data; estimated
+GFRASEN-SAF,1,Match Odds,France Double Chance,Open,
+GFRASEN-SAF,2,Player Shots,Mbappe 1+ SOT,Open,
+GFRASEN-SAF,3,Corners,France over 4.5 corners,Open,
+GFRASEN-BAL,1,Match Odds,France,Open,
+GFRASEN-BAL,2,Player Shots,Mbappe 1+ SOT,Open,
+GFRASEN-BAL,3,Corners,France over 4.5 corners,Open,
+GFRASEN-AGG,1,Match Odds,France,Open,
+GFRASEN-AGG,2,Player Shots,Mbappe 1+ SOT,Open,
+GFRASEN-AGG,3,Corners,France over 4.5 corners,Open,
+GFRASEN-AGG,4,Cards,Senegal over 1.5 cards,Open,
+GIRQNOR-SAF,1,Player Shots,Haaland 1+ SOT,Open,
+GIRQNOR-SAF,2,Corners,Norway over 4.5 corners,Open,
+GIRQNOR-BAL,1,Player Shots,Haaland 1+ SOT,Open,
+GIRQNOR-BAL,2,Corners,Norway over 4.5 corners,Open,
+GIRQNOR-BAL,3,Total Goals O/U,Over 2.5,Open,
+GIRQNOR-AGG,1,Match Odds,Norway,Open,
+GIRQNOR-AGG,2,Player Shots,Haaland 1+ SOT,Open,
+GIRQNOR-AGG,3,Corners,Norway over 5.5 corners,Open,
+GIRQNOR-AGG,4,Total Goals O/U,Over 3.5,Open,

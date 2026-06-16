@@ -8,7 +8,7 @@ predicted_weakest_leg: France to win (Senegal genuinely dangerous, draw live)
 est_win_prob: 0.38
 min_odds_floor: 2.40
 bet_id: O/7913296/0000314
-status: placed
+status: won
 ---
 
 # France v Senegal
@@ -61,7 +61,31 @@ double chance** if you want to sidestep the draw — that's the disciplined call
 last night's favourite-draw cluster.
 
 ## Result
-_Pending._
+**WON · £5 → £12.67 (+£7.67).** France 3-1 Senegal (Mbappé 66' and a 90+6'
+screamer for his brace; Barcola 82'; Ibrahim Mbaye 90+5' for Senegal). All three
+legs landed:
+- France — Match Odds: **WON** (3-1).
+- Mbappé 1+ SOT: **WON** (scored twice — on his own merit; SS cosmetic). Note: he
+  was anonymous for ~65 min then forced a Mendy save and scored — the leg banked
+  off one moment, as monopolist SOT legs tend to.
+- France over 4.5 corners: **WON** (6 corners).
+
+Final stats: France 10 shots / 7 SOT / 6 corners; Senegal 1 SOT, **0 cards** (7
+fouls but no bookings).
 
 ## Learnings
-_Pending._
+First placed-slip win since Netherlands (0307), and the cleanest validation of the
+soft-spine method yet. **The predicted weakest leg (France to win) was indeed the
+tightest** — it was 0-0 until the 66th and a one-goal game until 82' — but it landed,
+and crucially the slip never depended on it alone: **the SOT and corners legs were
+effectively home by ~68'** (Mbappé's saved shot + the 5th corner), so the late drama
+(Senegal's 90+5 goal) was irrelevant to us. Because we carried NO suppression leg
+(no BTTS-No, no clean sheet, no unders), Senegal scoring late cost us nothing — a
+live example of why not stacking correlated suppression legs protects the slip
+(#single-goal-collapse, inverted: we had no leg to collapse).
+
+est_win_prob 0.40 → won; result-leg gate (>0.30) was respected and vindicated this
+time. The one tier that lost was the Aggressive ghost, killed by **Senegal over 1.5
+cards (0 cards all game)** — a reminder that even a "foul-heavy" side under a lenient
+whistle produces no bookings; team-cards legs remain swingy (#cards-over-trap), and
+the disciplined 3-leg build that left the card leg off was the right shape.

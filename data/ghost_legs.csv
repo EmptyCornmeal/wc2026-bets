@@ -141,16 +141,16 @@ GIRNNZ-AGG,1,Match Odds,Iran,Lost,2-2 draw - Iran did not win
 GIRNNZ-AGG,2,Total Goals O/U,Under 2.5,Lost,4 goals
 GIRNNZ-AGG,3,Player Shots,Taremi 1+ SOT,Won,Taremi SOT landed
 GIRNNZ-AGG,4,Cards,New Zealand over 1.5 cards,Lost,FLAG no confirmed NZ 2+ cards in match data; estimated
-GFRASEN-SAF,1,Match Odds,France Double Chance,Open,
-GFRASEN-SAF,2,Player Shots,Mbappe 1+ SOT,Open,
-GFRASEN-SAF,3,Corners,France over 4.5 corners,Open,
-GFRASEN-BAL,1,Match Odds,France,Open,
-GFRASEN-BAL,2,Player Shots,Mbappe 1+ SOT,Open,
-GFRASEN-BAL,3,Corners,France over 4.5 corners,Open,
-GFRASEN-AGG,1,Match Odds,France,Open,
-GFRASEN-AGG,2,Player Shots,Mbappe 1+ SOT,Open,
-GFRASEN-AGG,3,Corners,France over 4.5 corners,Open,
-GFRASEN-AGG,4,Cards,Senegal over 1.5 cards,Open,
+GFRASEN-SAF,1,Match Odds,France Double Chance,Won,France won 3-1
+GFRASEN-SAF,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-SAF,3,Corners,France over 4.5 corners,Won,France 6 corners
+GFRASEN-BAL,1,Match Odds,France,Won,France won 3-1
+GFRASEN-BAL,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-BAL,3,Corners,France over 4.5 corners,Won,France 6 corners
+GFRASEN-AGG,1,Match Odds,France,Won,France won 3-1
+GFRASEN-AGG,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-AGG,3,Corners,France over 4.5 corners,Won,France 6 corners (also clears O5.5)
+GFRASEN-AGG,4,Cards,Senegal over 1.5 cards,Lost,Senegal 0 cards (7 fouls but no bookings) - killer
 GIRQNOR-SAF,1,Player Shots,Haaland 1+ SOT,Open,
 GIRQNOR-SAF,2,Corners,Norway over 4.5 corners,Open,
 GIRQNOR-BAL,1,Player Shots,Haaland 1+ SOT,Open,

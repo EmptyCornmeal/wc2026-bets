@@ -151,30 +151,30 @@ GFRASEN-AGG,1,Match Odds,France,Won,France won 3-1
 GFRASEN-AGG,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
 GFRASEN-AGG,3,Corners,France over 4.5 corners,Won,France 6 corners (also clears O5.5)
 GFRASEN-AGG,4,Cards,Senegal over 1.5 cards,Lost,Senegal 0 cards (7 fouls but no bookings) - killer
-GIRQNOR-SAF,1,Player Shots,Haaland 1+ SOT,Open,
-GIRQNOR-SAF,2,Corners,Norway over 4.5 corners,Open,
-GIRQNOR-BAL,1,Player Shots,Haaland 1+ SOT,Open,
-GIRQNOR-BAL,2,Corners,Norway over 4.5 corners,Open,
-GIRQNOR-BAL,3,Total Goals O/U,Over 2.5,Open,
-GIRQNOR-AGG,1,Match Odds,Norway,Open,
-GIRQNOR-AGG,2,Player Shots,Haaland 1+ SOT,Open,
-GIRQNOR-AGG,3,Corners,Norway over 5.5 corners,Open,
-GIRQNOR-AGG,4,Total Goals O/U,Over 3.5,Open,
-GARGALG-SAF,1,Player Shots,Lautaro 1+ SOT,Open,
-GARGALG-SAF,2,Corners,Argentina over 4.5 corners,Open,
-GARGALG-BAL,1,Match Odds,Argentina,Open,
-GARGALG-BAL,2,Player Shots,Lautaro 1+ SOT,Open,
-GARGALG-BAL,3,Corners,Argentina over 4.5 corners,Open,
-GARGALG-AGG,1,Match Odds,Argentina,Open,
-GARGALG-AGG,2,Player Shots,Lautaro 1+ SOT,Open,
-GARGALG-AGG,3,Corners,Argentina over 5.5 corners,Open,
-GARGALG-AGG,4,Cards,Algeria over 1.5 cards,Open,
-GAUTJOR-SAF,1,Player Shots,Arnautovic 1+ SOT,Open,
-GAUTJOR-SAF,2,Corners,Austria over 4.5 corners,Open,
-GAUTJOR-BAL,1,Player Shots,Arnautovic 1+ SOT,Open,
-GAUTJOR-BAL,2,Corners,Austria over 4.5 corners,Open,
-GAUTJOR-BAL,3,Match Odds,Austria,Open,
-GAUTJOR-AGG,1,Player Shots,Arnautovic 1+ SOT,Open,
-GAUTJOR-AGG,2,Corners,Austria over 4.5 corners,Open,
-GAUTJOR-AGG,3,Total Goals O/U,Over 2.5,Open,
-GAUTJOR-AGG,4,Cards,Jordan over 1.5 cards,Open,
+GIRQNOR-SAF,1,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-SAF,2,Corners,Norway over 4.5 corners,Won,Norway 5+ corners
+GIRQNOR-BAL,1,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-BAL,2,Corners,Norway over 4.5 corners,Won,Norway 5+ corners
+GIRQNOR-BAL,3,Total Goals O/U,Over 2.5,Won,5 goals
+GIRQNOR-AGG,1,Match Odds,Norway,Won,Norway won 4-1
+GIRQNOR-AGG,2,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-AGG,3,Corners,Norway over 5.5 corners,Lost,FLAG unverified - 5+ confirmed but could not confirm 6+; conservative settle
+GIRQNOR-AGG,4,Total Goals O/U,Over 3.5,Won,5 goals
+GARGALG-SAF,1,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-SAF,2,Corners,Argentina over 4.5 corners,Lost,Argentina <5 corners - killer
+GARGALG-BAL,1,Match Odds,Argentina,Won,Argentina won 3-0
+GARGALG-BAL,2,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-BAL,3,Corners,Argentina over 4.5 corners,Lost,Argentina <5 corners - killer
+GARGALG-AGG,1,Match Odds,Argentina,Won,Argentina won 3-0
+GARGALG-AGG,2,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-AGG,3,Corners,Argentina over 5.5 corners,Lost,Argentina <5 corners
+GARGALG-AGG,4,Cards,Algeria over 1.5 cards,Void,unknown - moot (slip already lost on corners)
+GAUTJOR-SAF,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-SAF,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-BAL,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-BAL,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-BAL,3,Match Odds,Austria,Won,Austria won 2-1
+GAUTJOR-AGG,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-AGG,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-AGG,3,Total Goals O/U,Over 2.5,Won,3 goals (2-1)
+GAUTJOR-AGG,4,Cards,Jordan over 1.5 cards,Void,unknown - moot (slip already lost on corners)

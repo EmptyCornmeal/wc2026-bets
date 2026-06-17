@@ -252,6 +252,18 @@ fractional prices. For each fixture:
   to suppress BOTH attacks and only addressed one. Pair unders only when the read can
   realistically silence both teams — otherwise demote to a team-unders or a process leg.
   (The correctly-demoted Iran DC + Taremi SOT both won; the total was the sole killer.)
+- #corners-not-a-banker (16-17 Jun, n=4 same slate): the LOW-line O4.5 *team* corners
+  leg is a SWING, not the reliable spine anchor I'd treated it as. It went 2-4 across
+  the night and was the SOLE KILLER of both losses — Argentina (3-0 win, ≤4 corners)
+  and Austria (2-1, just 3 corners) — while landing for France (6, chased until 66')
+  and Norway (5+, 4-1 rout). The mechanism extends #corners-line-swing: **a heavy
+  favourite that scores early and coasts manages the game instead of generating
+  corners; a deep block doesn't auto-concede them either.** Corners need sustained
+  pressure (a rout still chasing, or a team behind). Same night, 1+ SOT went 4-4 and
+  match-odds 4-4 — so the reliable spine is 1+ SOT (elite) + result-leg-for-strong-favs;
+  corners should be treated as the swing leg, not a banker. (Counterweight to the
+  "drop the result leg" audit thesis — tonight all favs won and the soft corners leg
+  was the villain; sample-dependent, don't over-fit either way.)
 
 ### 2. Log (user pastes open-bets screenshot)
 - Parse each slip → one row in `data/bets.csv` + one row per leg in

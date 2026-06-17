@@ -8,7 +8,7 @@ predicted_weakest_leg: Over 2.5 goals (Iraq park-the-bus 1-0 risk)
 est_win_prob: 0.37
 min_odds_floor: 2.50
 bet_id: O/7913296/0000315
-status: placed
+status: won
 ---
 
 # Iraq v Norway
@@ -64,7 +64,20 @@ total-cards-over; stacking Over 2.5 + Over 3.5 + a scorer (#correlated-volume-tr
 entirely and is the soft spine we trust most.
 
 ## Result
-_Pending._
+**WON · £5 → £11.74 (+£6.74).** Iraq 1-4 Norway (Haaland 29' & 43', Ostigård 76'
+off an Ødegaard corner, Hussein OG 90+6'; Iraq's Aymen Hussein 39'). Norway 57%
+possession, 5 SOT to 1. All three legs landed:
+- Haaland 1+ SOT: **WON** (brace — own merit, SS cosmetic).
+- Over 2.5 Goals: **WON** (5 goals).
+- Norway over 4.5 team corners: **WON** (5+, incl. the corner that led to Ostigård's
+  goal).
 
 ## Learnings
-_Pending._
+The strongest slip on the card delivered, and it's the textbook siege: the favourite's
+OWN output (Haaland SOT + corners) plus a goals leg, no result-leg dependence. The
+#parked-bus-goals-trap fear (Over 2.5 dying to a 1-0 grind) never materialised because
+Norway are clinical, not a possession side grinding a bus — exactly the distinction
+drawn pre-match vs the Spain 0-0 case. This is the cleanest example of the soft-spine
+working as designed, and the one corners leg that landed among tonight's heavy
+favourites — because Norway kept attacking in a 4-1 rout rather than coasting on a
+single-goal lead (contrast Argentina/Austria, same night, below).

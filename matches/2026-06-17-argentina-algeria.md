@@ -8,7 +8,7 @@ predicted_weakest_leg: Argentina to win (Algeria can frustrate; low-scoring read
 est_win_prob: 0.40
 min_odds_floor: 2.50
 bet_id: O/7913296/0000316
-status: placed
+status: lost
 ---
 
 # Argentina v Algeria
@@ -58,7 +58,22 @@ Argentina double chance**, or drop to the 2-leg Safer for the overnight.
 (nailed); if you'd rather not, the 2-leg Safer minimises XI dependence.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Argentina 3-0 Algeria (Messi hat-trick). Two legs won,
+one killed it:
+- Argentina — Match Odds: **WON** (3-0).
+- Lautaro 1+ SOT: **WON** (slip confirmed; SS Julián Álvarez cosmetic).
+- Argentina over 4.5 team corners: **LOST** — the SOLE KILLER. Argentina won
+  comfortably with an early goal and never needed to pile on corners (≤4).
 
 ## Learnings
-_Pending._
+Predicted weakest leg was the result (the low-scoring/draw worry); the result was
+actually fine (3-0) and **the corners leg — which I'd treated as a reliable
+soft-spine anchor — was the sole killer.** This is #corners-line-swing in a new guise:
+even the LOW O4.5 *team* line isn't safe when a heavy favourite scores early and
+coasts — they manage the game rather than chase corners. Argentina (early Messi goal,
+3-0) and Austria (Schmid 20', then game-managed) BOTH died on O4.5 corners the same
+night, while Norway (4-1 rout, kept attacking) and France (chasing until 66') cleared
+it. The pattern: **corners need sustained second-half pressure; a favourite cruising
+on an early lead doesn't generate them.** The SOT + result legs both won — a two-SOT
+build (Lautaro + Messi/Julián) or SOT + result would have landed. Corners are a
+SWING leg, not a banker (#corners-not-a-banker).

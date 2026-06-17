@@ -58,12 +58,12 @@ O/7913296/0000313,3,Corners,Home Total Corners 5.5,Over,Lost,no,Belgium (home) o
 O/7913296/0000314,1,Match Odds,Match Odds,France,Won,no,France won 3-1
 O/7913296/0000314,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Kylian Mbappe,Won,yes,Mbappe scored twice (66', 90+6') = SOT; won on own merit, SS cosmetic
 O/7913296/0000314,3,Corners,Home Total Corners 4.5,Over,Won,no,France 6 corners (O4.5 landed)
-O/7913296/0000315,1,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Erling Haaland,Open,yes,Super Sub + Win More badges
-O/7913296/0000315,2,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,
-O/7913296/0000315,3,Corners,Away Total Corners 4.5,Over,Open,no,Norway (away) over 4.5 team corners - LOW line
-O/7913296/0000316,1,Match Odds,Match Odds,Argentina,Open,no,
-O/7913296/0000316,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Lautaro Martinez,Open,yes,Super Sub + Win More badges
-O/7913296/0000316,3,Corners,Home Total Corners 4.5,Over,Open,no,Argentina (home) over 4.5 team corners - LOW line
-O/7913296/0000317,1,Match Odds,Match Odds,Austria,Open,no,
-O/7913296/0000317,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marko Arnautovic,Open,yes,Super Sub + Win More badges
-O/7913296/0000317,3,Corners,Home Total Corners 4.5,Over,Open,no,Austria (home) over 4.5 team corners - LOW line
+O/7913296/0000315,1,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Erling Haaland,Won,yes,Haaland scored twice (29',43') = SOT; own merit, SS cosmetic
+O/7913296/0000315,2,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,5 goals (1-4)
+O/7913296/0000315,3,Corners,Away Total Corners 4.5,Over,Won,no,Norway 5+ corners (Ostigard scored off a corner 76')
+O/7913296/0000316,1,Match Odds,Match Odds,Argentina,Won,no,Argentina won 3-0 (Messi hat-trick)
+O/7913296/0000316,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Lautaro Martinez,Won,yes,Lautaro 1+ SOT confirmed (slip W); SS Julian Alvarez cosmetic
+O/7913296/0000316,3,Corners,Home Total Corners 4.5,Over,Lost,no,SOLE KILLER - Argentina only 4 or fewer corners; scored early and coasted
+O/7913296/0000317,1,Match Odds,Match Odds,Austria,Won,no,Austria won 2-1
+O/7913296/0000317,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marko Arnautovic,Won,yes,Arnautovic 1+ SOT confirmed (slip W; also had a goal disallowed); SS cosmetic
+O/7913296/0000317,3,Corners,Home Total Corners 4.5,Over,Lost,no,SOLE KILLER - Austria only 3 corners (Sabitzer 17',67',76')

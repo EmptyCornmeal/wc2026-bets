@@ -8,7 +8,7 @@ predicted_weakest_leg: Over 2.5 goals (Jordan deep block, 1-0 grind risk)
 est_win_prob: 0.40
 min_odds_floor: 2.40
 bet_id: O/7913296/0000317
-status: placed
+status: lost
 ---
 
 # Austria v Jordan
@@ -61,7 +61,22 @@ rotation vs a minnow) — if benched entirely the leg VOIDS (reprices, doesn't l
 the real risk is a bench cameo. The 2-leg Safer is the lowest-XI-dependence shape.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Austria 2-1 Jordan (Schmid 20', Alarab OG 76'; Jordan's
+Olwan 50'). Two legs won, one killed it:
+- Austria — Match Odds: **WON** (2-1).
+- Arnautović 1+ SOT: **WON** (slip confirmed; also had a goal disallowed; SS cosmetic).
+- Austria over 4.5 team corners: **LOST** — the SOLE KILLER. Austria took just **3
+  corners** (Sabitzer 17', 67', 76').
 
 ## Learnings
-_Pending._
+Same killer as Argentina the same night: **O4.5 team corners**, with the result and
+SOT legs both winning. Austria scored early (20'), got pegged back, but still only
+managed 3 corners against a deep Jordan block — a deep block doesn't automatically
+concede corners (Jordan cleared to safety / Austria shot from range). This is the
+second confirmation tonight that the low-line corners leg is a SWING, not a banker
+(#corners-not-a-banker): it went 2-4 on the night and was the sole killer of both
+losses, while 1+ SOT went 4-4 and match-odds 4-4. The honest read: I over-weighted
+corners in the spine. The reliable spine legs are **1+ SOT** (elite) and the
+**result leg for genuinely strong favourites** — tonight both favourites won; it was
+the "soft" corners leg that let us down, a useful counterweight to the
+"drop the result leg" audit thesis (sample-dependent — don't over-fit either way).

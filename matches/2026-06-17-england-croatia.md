@@ -7,8 +7,8 @@ confidence: 6/10
 predicted_weakest_leg: Under 2.5 goals (England break it open late)
 est_win_prob: 0.38
 min_odds_floor: 2.50
-bet_id:
-status: analysed
+bet_id: O/7913296/0000319 (+ O/7913296/0000322 free-bet 4-leg)
+status: placed
 ---
 
 # England v Croatia
@@ -30,7 +30,20 @@ are containable (Croatia toothless lately, England methodical). Corners demoted
 favourite-draw trap that's burned us.
 
 ## The bet
-_Pending placement (~1h before 21:00 KO; confirm Kane starts)._
+**PLACED #1 — the recommended build** (O/7913296/0000319) · Power Up (2.41 → **2.76**)
+· £5 cash → **£13.80**:
+- England And Draw — Double Chance
+- Harry Kane — 1+ SOT (Super Sub, Win More)
+- Under 2.5 Goals
+
+**PLACED #2 — additional FREE-BET build** (O/7913296/0000322) · **4.48** · £5 FREE BET
+→ **£17.39** (winnings-only):
+- Kane / Rashford / Saka / Bellingham — each 1+ SOT (4-leg all-SOT)
+
+User added #2 to deploy the £5 free bet (the recommended slips weren't free-bet
+eligible — min-odds). A long all-SOT build on house money is a sound free-bet home
+(our 4/4 leg type), though 4 legs add failure modes and Rashford/Saka starts aren't
+nailed (a non-starter leg voids, doesn't lose). Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.9–3.2:**
 - England Double Chance (1X) (~1.25)

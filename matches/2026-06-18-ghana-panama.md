@@ -7,8 +7,8 @@ confidence: 5/10
 predicted_weakest_leg: Ghana DC / Semenyo SOT (gutted attack vs deep block)
 est_win_prob: 0.32
 min_odds_floor: 2.60
-bet_id:
-status: analysed
+bet_id: O/7913296/0000318
+status: placed
 ---
 
 # Ghana v Panama
@@ -28,7 +28,14 @@ monopolist is **Semenyo** (captain, shoots) or Iñaki Williams (pace). Result le
 this is the weakest of tonight's four.
 
 ## The bet
-_Pending placement (~1h before 00:00 KO; confirm Semenyo starts as the shot outlet)._
+**PLACED** (O/7913296/0000318) · **2.90** · £4 FREE BET + £1 cash → **£10.51**:
+- Ghana And Draw — Double Chance
+- Antoine Semenyo — 1+ SOT (Super Sub, Win More)
+- Under 2.5 Goals
+
+The Balanced-Best. Smart deployment: the weakest pick (gutted attack) put largely on
+FREE-BET house money (£4 free + £1 cash), so minimal own cash at risk on the
+coin-flip. Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~3.3–3.6:**
 - Ghana Double Chance (1X) (~1.45)

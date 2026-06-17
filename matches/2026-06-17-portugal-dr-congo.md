@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Ronaldo 1+ SOT (age/sub risk at 41)
 est_win_prob: 0.43
 min_odds_floor: 2.40
-bet_id:
-status: analysed
+bet_id: O/7913296/0000321
+status: placed
 ---
 
 # Portugal v DR Congo
@@ -29,7 +29,14 @@ leg justified (1.29, genuinely strong, not two-way). Avoid anytime-scorer garnis
 (#goalscorer-lottery) and corners-as-banker.
 
 ## The bet
-_Pending placement (~1h before 18:00 KO; confirm Ronaldo & Bruno start)._
+**PLACED** (O/7913296/0000321) · **1.76** · £5 cash → **£8.82**:
+- Portugal — Match Odds
+- Cristiano Ronaldo — 1+ SOT (Super Sub, Win More)
+- Bruno Fernandes — 1+ SOT (Super Sub, Win More)
+
+The Balanced-Best (two-SOT spine + strong-fav result). NOTE: priced short at 1.76 —
+the SOT legs came in near dead-weight (Ronaldo 1.08) — so this is a coverage bet, not
+value (#value-not-floor). Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.5–2.7:**
 - Portugal to win (~1.29)

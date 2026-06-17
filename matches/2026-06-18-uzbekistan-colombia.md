@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: Suárez 1+ SOT (secondary to Díaz) / altitude variance
 est_win_prob: 0.42
 min_odds_floor: 2.50
-bet_id:
-status: analysed
+bet_id: O/7913296/0000320
+status: placed
 ---
 
 # Uzbekistan v Colombia
@@ -28,7 +28,14 @@ not two-way). Altitude is the wildcard — it argues mildly for goals late but m
 adds variance, so no goals-over banker. Avoid anytime garnish (#goalscorer-lottery).
 
 ## The bet
-_Pending placement (~1h before 03:00 KO; OVERNIGHT — Díaz/Suárez nailed)._
+**PLACED** (O/7913296/0000320) · **1.65** · £5 cash → **£8.25**:
+- Colombia — Match Odds
+- Luis Díaz — 1+ SOT (Super Sub, Win More)
+- Luis Suárez — 1+ SOT (Super Sub, Win More)
+
+The Balanced-Best (two-SOT spine + strong-fav result). NOTE: short at 1.65 — SOT legs
+near dead-weight (Díaz 1.11, Suárez 1.14) — coverage bet, not value (#value-not-floor).
+Original recommendation below.
 
 **Recommended (Balanced-Best) — target ~2.9–3.1:**
 - Colombia to win (~1.33)

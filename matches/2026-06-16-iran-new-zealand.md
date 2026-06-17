@@ -8,7 +8,7 @@ predicted_weakest_leg: Under 2.5 goals (or Taremi smothered by the block)
 est_win_prob: 0.36
 min_odds_floor: 2.20
 bet_id: O/7913296/0000311
-status: placed
+status: lost
 ---
 
 # Iran v New Zealand
@@ -49,7 +49,26 @@ Avoid: straight Iran win as the anchor (two-way, blunt vs blocks); any Azmoun le
 swap Taremi for BTTS No if his price is too short.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Iran 2-2 New Zealand (NZ: Elijah Just 7', 54'; Iran:
+Ramin Rezaeian 33', Mohammad Mohebbi 64'). A pulsating four-goal draw at SoFi —
+nothing like the attritional 0-0 the read leaned toward:
+- Iran And Draw (Double Chance) — **WON** (2-2 draw).
+- Under 2.5 Goals — **LOST** (sole killer — 4 goals).
+- Mehdi Taremi 1+ SOT — **WON** (landed; SS Hosseinzadeh cosmetic).
 
 ## Learnings
-_Pending._
+**Predicted weakest leg was the exact sole killer** — "Under 2.5 (an Iran 2-1 or NZ
+smash-and-grab opens it)" — and NZ duly grabbed twice. The two soft/process legs (the
+correctly-demoted Iran DC and Taremi 1+ SOT) both WON; the unders thesis is what
+broke. The read leaned hard on "Iran blunt vs low blocks (back-to-back 0-0s) + NZ
+fail to score in 6 of 9" — and **both attacks fired anyway**. The right call inside a
+wrong slip: the fallback ("swap Taremi for BTTS No") would have made it WORSE (both
+teams scored). Resisting that swap was correct.
+
+This is the value-of-process night in miniature: when only the outcome-style volume
+leg (the total) is wrong, the result is still a loss, but the spine held. Best
+ghost outcome of the night was Spain's Safer; here even the Safer ghost (Iran DC +
+Under 2.5) lost to the same Under. **#unders-need-two-blunt-attacks** — an Under 2.5
+leg requires BOTH sides to be low-output; one team's "fails to score" record is not
+enough cover when the opponent can score (NZ's Just had a clean brace). Pair unders
+only when the read can suppress both attacks, not just one.

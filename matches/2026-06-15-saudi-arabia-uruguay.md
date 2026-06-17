@@ -8,7 +8,7 @@ predicted_weakest_leg: Saudi over 1.5 cards (swing) / Uruguay win (draw risk)
 est_win_prob: 0.28
 min_odds_floor: 3.20
 bet_id: O/7913296/0000310
-status: placed
+status: lost
 ---
 
 # Saudi Arabia v Uruguay
@@ -49,7 +49,28 @@ Under 2.5 goals** in its place if cards prices poorly. Uruguay-win draw risk (25
 is the other soft spot → double chance if you want the Safer shape.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Saudi Arabia 1-1 Uruguay (Al-Amri 43'; Maxi Araújo 90'
+equaliser). Uruguay had 67% possession — their highest on WC record — but a 1.44
+favourite couldn't beat the group's weakest side. All three legs lost:
+- Uruguay Match Odds — **LOST** (1-1 draw, Uruguay did not win).
+- Darwin Núñez 1+ SOT — **LOST** (headed wide from a promising position pre-half; 0
+  shots on target. Super Sub Canobbio display cosmetic — no rescue).
+- Saudi over 1.5 cards — **LOST** (Saudi only 1 card, Al-Amri 43').
 
 ## Learnings
-_Pending._
+Predicted weakest leg called **two of the three killers**: "Saudi over 1.5 cards
+(swing) / Uruguay win (draw risk)" — both lost. But the slip didn't even need them:
+the supposedly clean attacking anchor, **Núñez 1+ SOT, also blanked** — a 1.44
+favourite contained to a draw drags its shot-monopolist's prop down with it (the
+legs were more correlated than priced).
+
+The avoidable error is a **process violation**: `est_win_prob` was logged at **0.28**
+(≤ 0.30) — under #result-leg-can-kill the result leg should have defaulted to
+**double chance**, but we placed straight Uruguay win. The Safer ghost (Uruguay DC +
+Núñez SOT + Under 2.5) had its DC and Under legs WIN; only Núñez sank it. DC wouldn't
+have rescued this exact slip (Núñez was the common killer), but stacking a straight-win
+leg we'd already flagged below our own gate is undisciplined.
+
+**#est-prob-gate-violated** — if `est_win_prob ≤ 0.30`, the result leg MUST be double
+chance. Quoting a 1.44 favourite's straight win in the placed build when our own
+estimate said 28% is exactly the trap #result-leg-can-kill warns against.

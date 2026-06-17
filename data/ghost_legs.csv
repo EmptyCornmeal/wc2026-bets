@@ -103,41 +103,114 @@ G0309-BAL,3,Cards,Total cards Over 4.5,Lost,1 card - killer
 G0309-SAF,1,Match Odds,Sweden Double Chance,Won,Sweden won 3-1
 G0309-SAF,2,Player Shots,Gyokeres 1+ SOT,Won,2 SOT
 G0309-SAF,3,BTTS,No,Lost,both scored - killer
-GSPACV-BAL,1,Player Shots,Oyarzabal 1+ SOT,Open,
-GSPACV-BAL,2,Corners,Spain over 4.5 corners,Open,
-GSPACV-BAL,3,Total Goals O/U,Over 2.5,Open,
-GSPACV-SAF,1,Player Shots,Oyarzabal 1+ SOT,Open,
-GSPACV-SAF,2,Corners,Spain over 4.5 corners,Open,
-GSPACV-AGG,1,Player Shots,Oyarzabal 1+ SOT,Open,
-GSPACV-AGG,2,Corners,Spain over 4.5 corners,Open,
-GSPACV-AGG,3,Cards,Cape Verde over 1.5 cards,Open,
-GSPACV-AGG,4,Total Goals O/U,Over 3.5,Open,
-GBELEGY-BAL,1,Match Odds,Belgium,Open,
-GBELEGY-BAL,2,Player Shots,Trossard 1+ SOT,Open,
-GBELEGY-BAL,3,Corners,Belgium over 5.5 corners,Open,
-GBELEGY-SAF,1,Match Odds,Belgium Double Chance,Open,
-GBELEGY-SAF,2,Player Shots,Trossard 1+ SOT,Open,
-GBELEGY-SAF,3,Corners,Belgium over 5.5 corners,Open,
-GBELEGY-AGG,1,Match Odds,Belgium,Open,
-GBELEGY-AGG,2,Player Shots,Doku 1+ SOT,Open,
-GBELEGY-AGG,3,Player Shots,Trossard 1+ SOT,Open,
-GBELEGY-AGG,4,Cards,Egypt over 1.5 cards,Open,
-GSAUURU-BAL,1,Match Odds,Uruguay,Open,
-GSAUURU-BAL,2,Player Shots,Nunez 1+ SOT,Open,
-GSAUURU-BAL,3,Cards,Saudi over 1.5 cards,Open,
-GSAUURU-SAF,1,Match Odds,Uruguay Double Chance,Open,
-GSAUURU-SAF,2,Player Shots,Nunez 1+ SOT,Open,
-GSAUURU-SAF,3,Total Goals O/U,Under 2.5,Open,
-GSAUURU-AGG,1,Match Odds,Uruguay,Open,
-GSAUURU-AGG,2,Player Shots,Nunez over 1.5 SOT,Open,
-GSAUURU-AGG,3,Cards,Saudi over 1.5 cards,Open,
-GSAUURU-AGG,4,Total Goals O/U,Under 2.5,Open,
-GIRNNZ-BAL,1,Match Odds,Iran Double Chance,Open,
-GIRNNZ-BAL,2,Total Goals O/U,Under 2.5,Open,
-GIRNNZ-BAL,3,Player Shots,Taremi 1+ SOT,Open,
-GIRNNZ-SAF,1,Match Odds,Iran Double Chance,Open,
-GIRNNZ-SAF,2,Total Goals O/U,Under 2.5,Open,
-GIRNNZ-AGG,1,Match Odds,Iran,Open,
-GIRNNZ-AGG,2,Total Goals O/U,Under 2.5,Open,
-GIRNNZ-AGG,3,Player Shots,Taremi 1+ SOT,Open,
-GIRNNZ-AGG,4,Cards,New Zealand over 1.5 cards,Open,
+GSPACV-BAL,1,Player Shots,Oyarzabal 1+ SOT,Won,effort saved by Vozinha = on target
+GSPACV-BAL,2,Corners,Spain over 4.5 corners,Won,Spain 10+ corners
+GSPACV-BAL,3,Total Goals O/U,Over 2.5,Lost,0-0
+GSPACV-SAF,1,Player Shots,Oyarzabal 1+ SOT,Won,effort saved by Vozinha = on target
+GSPACV-SAF,2,Corners,Spain over 4.5 corners,Won,Spain 10+ corners
+GSPACV-AGG,1,Player Shots,Oyarzabal 1+ SOT,Won,effort saved by Vozinha = on target
+GSPACV-AGG,2,Corners,Spain over 4.5 corners,Won,Spain 10+ corners
+GSPACV-AGG,3,Cards,Cape Verde over 1.5 cards,Lost,CV only 1 foul all game - 0 cards
+GSPACV-AGG,4,Total Goals O/U,Over 3.5,Lost,0-0
+GBELEGY-BAL,1,Match Odds,Belgium,Lost,1-1 draw
+GBELEGY-BAL,2,Player Shots,Trossard 1+ SOT,Lost,3 first-half shots none on target
+GBELEGY-BAL,3,Corners,Belgium over 5.5 corners,Lost,under 5.5
+GBELEGY-SAF,1,Match Odds,Belgium Double Chance,Won,1-1 draw
+GBELEGY-SAF,2,Player Shots,Trossard 1+ SOT,Lost,3 first-half shots none on target
+GBELEGY-SAF,3,Corners,Belgium over 5.5 corners,Lost,under 5.5
+GBELEGY-AGG,1,Match Odds,Belgium,Lost,1-1 draw
+GBELEGY-AGG,2,Player Shots,Doku 1+ SOT,Lost,FLAG no confirmed SOT in match data (played 85min); estimated
+GBELEGY-AGG,3,Player Shots,Trossard 1+ SOT,Lost,3 first-half shots none on target
+GBELEGY-AGG,4,Cards,Egypt over 1.5 cards,Won,Egypt 2+ yellows (Attia + Fotouh)
+GSAUURU-BAL,1,Match Odds,Uruguay,Lost,1-1 draw - Uruguay did not win
+GSAUURU-BAL,2,Player Shots,Nunez 1+ SOT,Lost,Nunez headed wide 0 SOT
+GSAUURU-BAL,3,Cards,Saudi over 1.5 cards,Lost,Saudi only 1 card (Al-Amri 43')
+GSAUURU-SAF,1,Match Odds,Uruguay Double Chance,Won,1-1 draw
+GSAUURU-SAF,2,Player Shots,Nunez 1+ SOT,Lost,Nunez headed wide 0 SOT
+GSAUURU-SAF,3,Total Goals O/U,Under 2.5,Won,2 goals
+GSAUURU-AGG,1,Match Odds,Uruguay,Lost,1-1 draw - Uruguay did not win
+GSAUURU-AGG,2,Player Shots,Nunez over 1.5 SOT,Lost,Nunez 0 SOT
+GSAUURU-AGG,3,Cards,Saudi over 1.5 cards,Lost,Saudi only 1 card
+GSAUURU-AGG,4,Total Goals O/U,Under 2.5,Won,2 goals
+GIRNNZ-BAL,1,Match Odds,Iran Double Chance,Won,2-2 draw
+GIRNNZ-BAL,2,Total Goals O/U,Under 2.5,Lost,4 goals
+GIRNNZ-BAL,3,Player Shots,Taremi 1+ SOT,Won,Taremi SOT landed
+GIRNNZ-SAF,1,Match Odds,Iran Double Chance,Won,2-2 draw
+GIRNNZ-SAF,2,Total Goals O/U,Under 2.5,Lost,4 goals
+GIRNNZ-AGG,1,Match Odds,Iran,Lost,2-2 draw - Iran did not win
+GIRNNZ-AGG,2,Total Goals O/U,Under 2.5,Lost,4 goals
+GIRNNZ-AGG,3,Player Shots,Taremi 1+ SOT,Won,Taremi SOT landed
+GIRNNZ-AGG,4,Cards,New Zealand over 1.5 cards,Lost,FLAG no confirmed NZ 2+ cards in match data; estimated
+GFRASEN-SAF,1,Match Odds,France Double Chance,Won,France won 3-1
+GFRASEN-SAF,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-SAF,3,Corners,France over 4.5 corners,Won,France 6 corners
+GFRASEN-BAL,1,Match Odds,France,Won,France won 3-1
+GFRASEN-BAL,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-BAL,3,Corners,France over 4.5 corners,Won,France 6 corners
+GFRASEN-AGG,1,Match Odds,France,Won,France won 3-1
+GFRASEN-AGG,2,Player Shots,Mbappe 1+ SOT,Won,Mbappe brace
+GFRASEN-AGG,3,Corners,France over 4.5 corners,Won,France 6 corners (also clears O5.5)
+GFRASEN-AGG,4,Cards,Senegal over 1.5 cards,Lost,Senegal 0 cards (7 fouls but no bookings) - killer
+GIRQNOR-SAF,1,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-SAF,2,Corners,Norway over 4.5 corners,Won,Norway 5+ corners
+GIRQNOR-BAL,1,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-BAL,2,Corners,Norway over 4.5 corners,Won,Norway 5+ corners
+GIRQNOR-BAL,3,Total Goals O/U,Over 2.5,Won,5 goals
+GIRQNOR-AGG,1,Match Odds,Norway,Won,Norway won 4-1
+GIRQNOR-AGG,2,Player Shots,Haaland 1+ SOT,Won,Haaland brace
+GIRQNOR-AGG,3,Corners,Norway over 5.5 corners,Lost,FLAG unverified - 5+ confirmed but could not confirm 6+; conservative settle
+GIRQNOR-AGG,4,Total Goals O/U,Over 3.5,Won,5 goals
+GARGALG-SAF,1,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-SAF,2,Corners,Argentina over 4.5 corners,Lost,Argentina <5 corners - killer
+GARGALG-BAL,1,Match Odds,Argentina,Won,Argentina won 3-0
+GARGALG-BAL,2,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-BAL,3,Corners,Argentina over 4.5 corners,Lost,Argentina <5 corners - killer
+GARGALG-AGG,1,Match Odds,Argentina,Won,Argentina won 3-0
+GARGALG-AGG,2,Player Shots,Lautaro 1+ SOT,Won,Lautaro SOT (slip W)
+GARGALG-AGG,3,Corners,Argentina over 5.5 corners,Lost,Argentina <5 corners
+GARGALG-AGG,4,Cards,Algeria over 1.5 cards,Void,unknown - moot (slip already lost on corners)
+GAUTJOR-SAF,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-SAF,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-BAL,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-BAL,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-BAL,3,Match Odds,Austria,Won,Austria won 2-1
+GAUTJOR-AGG,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
+GAUTJOR-AGG,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
+GAUTJOR-AGG,3,Total Goals O/U,Over 2.5,Won,3 goals (2-1)
+GAUTJOR-AGG,4,Cards,Jordan over 1.5 cards,Void,unknown - moot (slip already lost on corners)
+GPORDRC-SAF,1,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-SAF,2,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-BAL,1,Match Odds,Portugal,Lost,1-1 draw
+GPORDRC-BAL,2,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-BAL,3,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-AGG,1,Match Odds,Portugal,Lost,1-1 draw
+GPORDRC-AGG,2,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-AGG,3,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-AGG,4,Total Goals O/U,Over 2.5,Lost,2 goals (1-1)
+GENGCRO-SAF,1,Match Odds,England Double Chance,Open,
+GENGCRO-SAF,2,Player Shots,Kane 1+ SOT,Open,
+GENGCRO-BAL,1,Match Odds,England Double Chance,Open,
+GENGCRO-BAL,2,Player Shots,Kane 1+ SOT,Open,
+GENGCRO-BAL,3,Total Goals O/U,Under 2.5,Open,
+GENGCRO-AGG,1,Match Odds,England Double Chance,Open,
+GENGCRO-AGG,2,Player Shots,Kane 1+ SOT,Open,
+GENGCRO-AGG,3,Total Goals O/U,Under 2.5,Open,
+GENGCRO-AGG,4,Cards,Croatia over 1.5 cards,Open,
+GGHAPAN-SAF,1,Match Odds,Ghana Double Chance,Open,
+GGHAPAN-SAF,2,Player Shots,Semenyo 1+ SOT,Open,
+GGHAPAN-BAL,1,Match Odds,Ghana Double Chance,Open,
+GGHAPAN-BAL,2,Player Shots,Semenyo 1+ SOT,Open,
+GGHAPAN-BAL,3,Total Goals O/U,Under 2.5,Open,
+GGHAPAN-AGG,1,Match Odds,Ghana Double Chance,Open,
+GGHAPAN-AGG,2,Player Shots,Semenyo 1+ SOT,Open,
+GGHAPAN-AGG,3,Total Goals O/U,Under 2.5,Open,
+GGHAPAN-AGG,4,Cards,Panama over 1.5 cards,Open,
+GUZBCOL-SAF,1,Player Shots,Diaz 1+ SOT,Open,
+GUZBCOL-SAF,2,Player Shots,Suarez 1+ SOT,Open,
+GUZBCOL-BAL,1,Match Odds,Colombia,Open,
+GUZBCOL-BAL,2,Player Shots,Diaz 1+ SOT,Open,
+GUZBCOL-BAL,3,Player Shots,Suarez 1+ SOT,Open,
+GUZBCOL-AGG,1,Match Odds,Colombia,Open,
+GUZBCOL-AGG,2,Player Shots,Diaz 1+ SOT,Open,
+GUZBCOL-AGG,3,Player Shots,Suarez 1+ SOT,Open,
+GUZBCOL-AGG,4,Total Goals O/U,Over 2.5,Open,

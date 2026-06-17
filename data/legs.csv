@@ -43,15 +43,43 @@ O/7913296/0000308,3,BTTS,Both Teams To Score,No,Won,no,Ecuador failed to score
 O/7913296/0000309,1,Match Odds,Double Chance,Sweden And Draw,Won,no,Sweden won 3-1
 O/7913296/0000309,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Viktor Gyokeres,Won,yes,Gyokeres 2 SOT + scored; SS cosmetic
 O/7913296/0000309,3,Cards,Cards Over/Under 4.5,Over,Lost,no,SOLE KILLER - only 1 card all game (Khedira 54')
-O/7913296/0000310,1,Match Odds,Match Odds,Uruguay,Open,no,
-O/7913296/0000310,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Darwin Nunez,Open,yes,Super Sub + Win More badges
-O/7913296/0000310,3,Cards,Home Team Total Cards 1.5,Over,Open,no,Saudi (home) over 1.5 cards
-O/7913296/0000311,1,Match Odds,Double Chance,Iran And Draw,Open,no,demoted result leg (two-way)
-O/7913296/0000311,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,
-O/7913296/0000311,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mehdi Taremi,Open,yes,Super Sub + Win More badges
-O/7913296/0000312,1,Total Goals O/U,Over/Under 3.5 Goals,Over,Open,no,
-O/7913296/0000312,2,Cards,Away Team Total Cards 1.5,Over,Open,no,Cape Verde over 1.5 cards
-O/7913296/0000312,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mikel Oyarzabal,Open,yes,Super Sub + Win More badges
-O/7913296/0000313,1,Match Odds,Match Odds,Belgium,Open,no,
-O/7913296/0000313,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Leandro Trossard,Open,yes,Super Sub + Win More badges
-O/7913296/0000313,3,Corners,Home Total Corners 5.5,Over,Open,no,Belgium (home) over 5.5 team corners
+O/7913296/0000310,1,Match Odds,Match Odds,Uruguay,Lost,no,1-1 draw - Uruguay did not win
+O/7913296/0000310,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Darwin Nunez,Lost,yes,Nunez headed wide 0 SOT; SS Canobbio display cosmetic - no rescue
+O/7913296/0000310,3,Cards,Home Team Total Cards 1.5,Over,Lost,no,Saudi (home) over 1.5 cards - Saudi only 1 card (Al-Amri 43')
+O/7913296/0000311,1,Match Odds,Double Chance,Iran And Draw,Won,no,demoted result leg - 2-2 draw, Iran-and-draw landed
+O/7913296/0000311,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Lost,no,SOLE KILLER - 4 goals (Just x2, Rezaeian, Mohebbi)
+O/7913296/0000311,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mehdi Taremi,Won,yes,Taremi SOT landed; SS Hosseinzadeh display cosmetic
+O/7913296/0000312,1,Total Goals O/U,Over/Under 3.5 Goals,Over,Lost,no,0-0 draw - 0 goals
+O/7913296/0000312,2,Cards,Away Team Total Cards 1.5,Over,Lost,no,Cape Verde over 1.5 cards - CV only 1 foul all game, 0 cards
+O/7913296/0000312,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mikel Oyarzabal,Won,yes,Oyarzabal effort saved by Vozinha = on target; SS display cosmetic
+O/7913296/0000313,1,Match Odds,Match Odds,Belgium,Lost,no,1-1 draw - Belgium did not win
+O/7913296/0000313,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Leandro Trossard,Lost,yes,3 first-half shots none on target; BEL 0 SOT in 1st half; SS display cosmetic
+O/7913296/0000313,3,Corners,Home Total Corners 5.5,Over,Lost,no,Belgium (home) over 5.5 team corners - under 5.5
+O/7913296/0000314,1,Match Odds,Match Odds,France,Won,no,France won 3-1
+O/7913296/0000314,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Kylian Mbappe,Won,yes,Mbappe scored twice (66', 90+6') = SOT; won on own merit, SS cosmetic
+O/7913296/0000314,3,Corners,Home Total Corners 4.5,Over,Won,no,France 6 corners (O4.5 landed)
+O/7913296/0000315,1,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Erling Haaland,Won,yes,Haaland scored twice (29',43') = SOT; own merit, SS cosmetic
+O/7913296/0000315,2,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,5 goals (1-4)
+O/7913296/0000315,3,Corners,Away Total Corners 4.5,Over,Won,no,Norway 5+ corners (Ostigard scored off a corner 76')
+O/7913296/0000316,1,Match Odds,Match Odds,Argentina,Won,no,Argentina won 3-0 (Messi hat-trick)
+O/7913296/0000316,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Lautaro Martinez,Won,yes,Lautaro 1+ SOT confirmed (slip W); SS Julian Alvarez cosmetic
+O/7913296/0000316,3,Corners,Home Total Corners 4.5,Over,Lost,no,SOLE KILLER - Argentina only 4 or fewer corners; scored early and coasted
+O/7913296/0000317,1,Match Odds,Match Odds,Austria,Won,no,Austria won 2-1
+O/7913296/0000317,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marko Arnautovic,Won,yes,Arnautovic 1+ SOT confirmed (slip W; also had a goal disallowed); SS cosmetic
+O/7913296/0000317,3,Corners,Home Total Corners 4.5,Over,Lost,no,SOLE KILLER - Austria only 3 corners (Sabitzer 17',67',76')
+O/7913296/0000318,1,Match Odds,Double Chance,Ghana And Draw,Open,no,demoted result leg (coin-flip)
+O/7913296/0000318,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Antoine Semenyo,Open,yes,Super Sub + Win More; Ghana shot outlet (Kudus out)
+O/7913296/0000318,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,
+O/7913296/0000319,1,Match Odds,Double Chance,England And Draw,Open,no,demoted result leg (two-way 1.70)
+O/7913296/0000319,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Harry Kane,Open,yes,Super Sub + Win More badges
+O/7913296/0000319,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,
+O/7913296/0000320,1,Match Odds,Match Odds,Colombia,Open,no,
+O/7913296/0000320,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Luis Diaz,Open,yes,Super Sub + Win More; the monopolist
+O/7913296/0000320,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Luis Suarez,Open,yes,Super Sub + Win More; striker
+O/7913296/0000321,1,Match Odds,Match Odds,Portugal,Lost,no,1-1 draw - Portugal did not win
+O/7913296/0000321,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Cristiano Ronaldo,Lost,yes,Ronaldo 0 SOT (poor display); SS cosmetic
+O/7913296/0000321,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Bruno Fernandes,Lost,yes,Bruno 0 SOT; SS cosmetic - the supposedly safe SOT leg also blanked
+O/7913296/0000322,1,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Harry Kane,Open,yes,FREE BET build; Super Sub + Win More
+O/7913296/0000322,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marcus Rashford,Open,yes,FREE BET build; start not nailed
+O/7913296/0000322,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Bukayo Saka,Open,yes,FREE BET build
+O/7913296/0000322,4,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Jude Bellingham,Open,yes,FREE BET build

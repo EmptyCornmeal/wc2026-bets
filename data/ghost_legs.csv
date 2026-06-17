@@ -178,15 +178,15 @@ GAUTJOR-AGG,1,Player Shots,Arnautovic 1+ SOT,Won,Arnautovic SOT (slip W)
 GAUTJOR-AGG,2,Corners,Austria over 4.5 corners,Lost,Austria only 3 corners - killer
 GAUTJOR-AGG,3,Total Goals O/U,Over 2.5,Won,3 goals (2-1)
 GAUTJOR-AGG,4,Cards,Jordan over 1.5 cards,Void,unknown - moot (slip already lost on corners)
-GPORDRC-SAF,1,Player Shots,Bruno Fernandes 1+ SOT,Open,
-GPORDRC-SAF,2,Player Shots,Ronaldo 1+ SOT,Open,
-GPORDRC-BAL,1,Match Odds,Portugal,Open,
-GPORDRC-BAL,2,Player Shots,Bruno Fernandes 1+ SOT,Open,
-GPORDRC-BAL,3,Player Shots,Ronaldo 1+ SOT,Open,
-GPORDRC-AGG,1,Match Odds,Portugal,Open,
-GPORDRC-AGG,2,Player Shots,Bruno Fernandes 1+ SOT,Open,
-GPORDRC-AGG,3,Player Shots,Ronaldo 1+ SOT,Open,
-GPORDRC-AGG,4,Total Goals O/U,Over 2.5,Open,
+GPORDRC-SAF,1,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-SAF,2,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-BAL,1,Match Odds,Portugal,Lost,1-1 draw
+GPORDRC-BAL,2,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-BAL,3,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-AGG,1,Match Odds,Portugal,Lost,1-1 draw
+GPORDRC-AGG,2,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
+GPORDRC-AGG,3,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
+GPORDRC-AGG,4,Total Goals O/U,Over 2.5,Lost,2 goals (1-1)
 GENGCRO-SAF,1,Match Odds,England Double Chance,Open,
 GENGCRO-SAF,2,Player Shots,Kane 1+ SOT,Open,
 GENGCRO-BAL,1,Match Odds,England Double Chance,Open,

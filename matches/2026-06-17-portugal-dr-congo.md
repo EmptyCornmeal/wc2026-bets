@@ -8,7 +8,7 @@ predicted_weakest_leg: Ronaldo 1+ SOT (age/sub risk at 41)
 est_win_prob: 0.43
 min_odds_floor: 2.40
 bet_id: O/7913296/0000321
-status: placed
+status: lost
 ---
 
 # Portugal v DR Congo
@@ -52,7 +52,23 @@ Avoid: corners as a banker (#corners-not-a-banker); Ronaldo anytime (#goalscorer
 Neto 1+ SOT, or drop to the 2-leg Safer.
 
 ## Result
-_Pending._
+**LOST · £5 → £0.00 (−£5).** Portugal 1-1 DR Congo (João Neves 6'; DRC equalised in
+first-half stoppage; Cancelo's 55' overhead ruled out by VAR for offside). ALL three
+legs lost:
+- Portugal — Match Odds: **LOST** (1-1 draw).
+- Ronaldo 1+ SOT: **LOST** (0 SOT, poor display).
+- Bruno Fernandes 1+ SOT: **LOST** (0 SOT — the "safest SOT" leg blanked too).
 
 ## Learnings
-_Pending._
+A 1.29 favourite drawing its opener — the favourite-draw trap that has run through this
+whole project (Uruguay, Belgium, Spain, now Portugal). Predicted weakest leg was
+Ronaldo (age/sub), but **the more important miss is that the two-SOT spine was NOT
+bulletproof: both Ronaldo AND Bruno registered 0 SOT** in a blunt Portugal display.
+The night before, two-SOT would have saved Argentina/Austria (corners killed those);
+tonight it would NOT have saved Portugal (both SOT blanked). The honest synthesis: no
+single soft leg is a banker — corners swing, result legs swing, and even monopolist
+SOT legs blank ~20% of the time (12-3 overall ≈ 80%, so a two-SOT slip still busts
+~1-in-3 just on the SOT legs). The only real protection is (a) demoting the result leg
+to DC on non-huge favourites, and (b) accepting these are coverage bets. This slip was
+flagged SHORT/coverage at placement (1.76, Ronaldo 1.08 near dead-weight) — the price
+told the truth. Reinforces: short ≠ safe (#value-not-floor).

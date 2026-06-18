@@ -8,7 +8,7 @@ predicted_weakest_leg: Ghana DC / Semenyo SOT (gutted attack vs deep block)
 est_win_prob: 0.32
 min_odds_floor: 2.60
 bet_id: O/7913296/0000318
-status: placed
+status: lost
 ---
 
 # Ghana v Panama
@@ -53,7 +53,16 @@ Williams 1+ SOT if Semenyo is rotated, or 2-leg Safer. Honestly the most skippab
 slip of the night if you trim the card.
 
 ## Result
-_Pending._
+**LOST · −£1 cash** (£4 free + £1 cash; only £1 own money). Ghana 1-0 Panama (Caleb
+Yirenkyi 90+5'). Ghana DC **WON**, Under 2.5 **WON** (1 goal) — but **Semenyo 1+ SOT
+LOST** (sole killer), and the free-bet portion means just −£1 cash.
 
 ## Learnings
-_Pending._
+Predicted weakest leg was exactly right: "Semenyo 1+ SOT (one outlet vs a packed box)."
+With Kudus and Partey out, Semenyo was the lone shot outlet of a gutted attack against
+a deep Panama block — and he blanked while Ghana ground out a 90+5 winner. The two
+*process* legs (DC + Under) both landed; the attacking leg on a weakened team's sole
+outlet was the bust. Lesson reinforced: **a 1+ SOT leg is only as good as the player's
+role AND the team's attacking health** (#prop-role-fit) — Semenyo as the forced lone
+option in a Kudus-less side was a much weaker SOT than his price implied. Smart staking
+saved it: the weakest pick was 80% free-bet money, so a £5-feeling loss cost £1.

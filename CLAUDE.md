@@ -264,6 +264,23 @@ fractional prices. For each fixture:
   corners should be treated as the swing leg, not a banker. (Counterweight to the
   "drop the result leg" audit thesis — tonight all favs won and the soft corners leg
   was the villain; sample-dependent, don't over-fit either way.)
+- #two-sot-doubles-risk (17 Jun, 0/5 night): the "two 1+ SOT legs" spine I introduced to
+  replace corners BUSTED on the second SOT leg in BOTH games it was used — Suárez (2nd
+  striker, Colombia, killer) and Bruno/Ronaldo (blunt Portugal, both blanked). Stacking
+  two SOT legs does NOT de-risk; it MULTIPLIES exposure (≈0.78² ≈ 60%), and the second
+  player (secondary striker, sub, or a weakened team's lone outlet) is usually the worse
+  bet. The PRIMARY monopolist SOT is elite (Kane brace, Díaz scored, Rashford+Bellingham
+  scored — all won the same night); the MARGINAL SOT is the bust (Suárez, Semenyo of a
+  Kudus-less Ghana, Saka off the bench — all lost). Robust shape: ONE primary-monopolist
+  1+ SOT + a result/process leg, NOT two SOT. Also #prop-role-fit: a 1+ SOT leg is only
+  as good as the player's role AND the team's attacking health.
+- #read-dependent-third-leg (17 Jun): across the 0/5 night the placed builds repeatedly
+  won their two trusted legs (DC + monopolist SOT) and died on the READ leg — England
+  Under 2.5 (4-2 thriller, read was "cautious XI = low-scoring", wrong). The England
+  Safer ghost (DC + Kane, no Under) WON, as did several past Safer ghosts. Pattern over
+  weeks: the 2-leg "DC + primary SOT" spine keeps cashing while the speculative 3rd leg
+  (Under/corners/2nd-SOT) keeps killing. Strongly suggests the PLACED default should be
+  the 2-leg Safer spine — flagged for the methodology review (do WITH user at keyboard).
 
 ### 2. Log (user pastes open-bets screenshot)
 - Parse each slip → one row in `data/bets.csv` + one row per leg in

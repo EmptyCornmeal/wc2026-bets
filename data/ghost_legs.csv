@@ -187,30 +187,30 @@ GPORDRC-AGG,1,Match Odds,Portugal,Lost,1-1 draw
 GPORDRC-AGG,2,Player Shots,Bruno Fernandes 1+ SOT,Lost,Bruno 0 SOT
 GPORDRC-AGG,3,Player Shots,Ronaldo 1+ SOT,Lost,Ronaldo 0 SOT
 GPORDRC-AGG,4,Total Goals O/U,Over 2.5,Lost,2 goals (1-1)
-GENGCRO-SAF,1,Match Odds,England Double Chance,Open,
-GENGCRO-SAF,2,Player Shots,Kane 1+ SOT,Open,
-GENGCRO-BAL,1,Match Odds,England Double Chance,Open,
-GENGCRO-BAL,2,Player Shots,Kane 1+ SOT,Open,
-GENGCRO-BAL,3,Total Goals O/U,Under 2.5,Open,
-GENGCRO-AGG,1,Match Odds,England Double Chance,Open,
-GENGCRO-AGG,2,Player Shots,Kane 1+ SOT,Open,
-GENGCRO-AGG,3,Total Goals O/U,Under 2.5,Open,
-GENGCRO-AGG,4,Cards,Croatia over 1.5 cards,Open,
-GGHAPAN-SAF,1,Match Odds,Ghana Double Chance,Open,
-GGHAPAN-SAF,2,Player Shots,Semenyo 1+ SOT,Open,
-GGHAPAN-BAL,1,Match Odds,Ghana Double Chance,Open,
-GGHAPAN-BAL,2,Player Shots,Semenyo 1+ SOT,Open,
-GGHAPAN-BAL,3,Total Goals O/U,Under 2.5,Open,
-GGHAPAN-AGG,1,Match Odds,Ghana Double Chance,Open,
-GGHAPAN-AGG,2,Player Shots,Semenyo 1+ SOT,Open,
-GGHAPAN-AGG,3,Total Goals O/U,Under 2.5,Open,
-GGHAPAN-AGG,4,Cards,Panama over 1.5 cards,Open,
-GUZBCOL-SAF,1,Player Shots,Diaz 1+ SOT,Open,
-GUZBCOL-SAF,2,Player Shots,Suarez 1+ SOT,Open,
-GUZBCOL-BAL,1,Match Odds,Colombia,Open,
-GUZBCOL-BAL,2,Player Shots,Diaz 1+ SOT,Open,
-GUZBCOL-BAL,3,Player Shots,Suarez 1+ SOT,Open,
-GUZBCOL-AGG,1,Match Odds,Colombia,Open,
-GUZBCOL-AGG,2,Player Shots,Diaz 1+ SOT,Open,
-GUZBCOL-AGG,3,Player Shots,Suarez 1+ SOT,Open,
-GUZBCOL-AGG,4,Total Goals O/U,Over 2.5,Open,
+GENGCRO-SAF,1,Match Odds,England Double Chance,Won,England won 4-2
+GENGCRO-SAF,2,Player Shots,Kane 1+ SOT,Won,Kane brace
+GENGCRO-BAL,1,Match Odds,England Double Chance,Won,England won 4-2
+GENGCRO-BAL,2,Player Shots,Kane 1+ SOT,Won,Kane brace
+GENGCRO-BAL,3,Total Goals O/U,Under 2.5,Lost,6 goals - killer
+GENGCRO-AGG,1,Match Odds,England Double Chance,Won,England won 4-2
+GENGCRO-AGG,2,Player Shots,Kane 1+ SOT,Won,Kane brace
+GENGCRO-AGG,3,Total Goals O/U,Under 2.5,Lost,6 goals - killer
+GENGCRO-AGG,4,Cards,Croatia over 1.5 cards,Void,moot - slip already lost on Under
+GGHAPAN-SAF,1,Match Odds,Ghana Double Chance,Won,Ghana won 1-0
+GGHAPAN-SAF,2,Player Shots,Semenyo 1+ SOT,Lost,Semenyo 0 SOT - killer
+GGHAPAN-BAL,1,Match Odds,Ghana Double Chance,Won,Ghana won 1-0
+GGHAPAN-BAL,2,Player Shots,Semenyo 1+ SOT,Lost,Semenyo 0 SOT - killer
+GGHAPAN-BAL,3,Total Goals O/U,Under 2.5,Won,1 goal
+GGHAPAN-AGG,1,Match Odds,Ghana Double Chance,Won,Ghana won 1-0
+GGHAPAN-AGG,2,Player Shots,Semenyo 1+ SOT,Lost,Semenyo 0 SOT - killer
+GGHAPAN-AGG,3,Total Goals O/U,Under 2.5,Won,1 goal
+GGHAPAN-AGG,4,Cards,Panama over 1.5 cards,Void,unknown - moot (slip already lost)
+GUZBCOL-SAF,1,Player Shots,Diaz 1+ SOT,Won,Diaz scored
+GUZBCOL-SAF,2,Player Shots,Suarez 1+ SOT,Lost,Suarez 0 SOT - killer
+GUZBCOL-BAL,1,Match Odds,Colombia,Won,Colombia won 3-1
+GUZBCOL-BAL,2,Player Shots,Diaz 1+ SOT,Won,Diaz scored
+GUZBCOL-BAL,3,Player Shots,Suarez 1+ SOT,Lost,Suarez 0 SOT - killer
+GUZBCOL-AGG,1,Match Odds,Colombia,Won,Colombia won 3-1
+GUZBCOL-AGG,2,Player Shots,Diaz 1+ SOT,Won,Diaz scored
+GUZBCOL-AGG,3,Player Shots,Suarez 1+ SOT,Lost,Suarez 0 SOT - killer
+GUZBCOL-AGG,4,Total Goals O/U,Over 2.5,Won,4 goals

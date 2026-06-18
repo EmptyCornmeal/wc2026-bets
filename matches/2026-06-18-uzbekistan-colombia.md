@@ -8,7 +8,7 @@ predicted_weakest_leg: Suárez 1+ SOT (secondary to Díaz) / altitude variance
 est_win_prob: 0.42
 min_odds_floor: 2.50
 bet_id: O/7913296/0000320
-status: placed
+status: lost
 ---
 
 # Uzbekistan v Colombia
@@ -51,7 +51,16 @@ Avoid: corners as a banker (#corners-not-a-banker); Díaz/Suárez anytime
 swap Suárez → James Rodríguez 1+ SOT, or 2-leg Safer for the overnight.
 
 ## Result
-_Pending._
+**LOST · −£5.** Uzbekistan 1-3 Colombia (Díaz, Campaz, Muñoz). Colombia win **WON**,
+Luis Díaz 1+ SOT **WON** (scored) — but **Suárez 1+ SOT LOST** (sole killer).
 
 ## Learnings
-_Pending._
+Predicted weakest leg called it: "Suárez 1+ SOT (secondary to Díaz)." The two-SOT
+spine — introduced two nights ago to replace the unreliable corners leg — has now been
+tested twice and **busted both times on the SECOND SOT leg**: Suárez here, and
+Bruno/Ronaldo at Portugal. The primary monopolist (Díaz, who scored) landed; the
+secondary striker blanked. **Two-SOT doesn't de-risk, it doubles the SOT exposure** —
+if each 1+ SOT is ~75-80%, two of them is only ~0.78² ≈ 60%, and the second player is
+usually the weaker bet anyway. The robust shape is ONE primary-monopolist SOT + a
+result/process leg, not two SOT. Also: this was flagged SHORT/coverage at 1.65 (Suárez
+1.14 near dead-weight) — short ≠ safe, again (#value-not-floor).

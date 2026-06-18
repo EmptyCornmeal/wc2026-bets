@@ -59,7 +59,20 @@ corners as a banker; anytime scorer.
 to the 2-leg Safer (DC + Kane).
 
 ## Result
-_Pending._
+Both England bets **LOST**. England 4-2 Croatia (Kane 12'pen & 42', Bellingham 47',
+Rashford 85'; Baturina 36', Musa 45+5') — a 6-goal thriller, not the grind we read.
+- **0319 (cash, −£5):** England DC **WON**, Kane 1+ SOT **WON**, but **Under 2.5 LOST**
+  (sole killer — 6 goals).
+- **0322 (free bet, £0 cash):** Kane **WON**, Rashford **WON** (scored 85' off the
+  bench), Bellingham **WON** (scored 47'), but **Saka LOST** (came on, 0 SOT) — sole
+  killer.
 
 ## Learnings
-_Pending._
+Two legs we trusted most both won (England DC + Kane SOT) — the **Under 2.5 read was
+the unforced error.** I read Tuchel's cautious XI as low-scoring; it produced a 4-2
+shootout. The Safer ghost (DC + Kane, no Under) **WON** — yet again the read-dependent
+third leg sank the placed build. On the 4-legger, the killer was **Saka off the bench
+(0 SOT)** while the three players who *started or scored* (Kane, Rashford, Bellingham)
+all landed — a bench-cameo SOT is a much weaker leg than a starter's. Cross-night
+theme: **the primary attacker's SOT is elite; the marginal SOT leg (a sub, a secondary
+striker, a gutted team's lone outlet) is the bust** — see #two-sot-doubles-risk.

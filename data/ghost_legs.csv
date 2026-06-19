@@ -214,39 +214,39 @@ GUZBCOL-AGG,1,Match Odds,Colombia,Won,Colombia won 3-1
 GUZBCOL-AGG,2,Player Shots,Diaz 1+ SOT,Won,Diaz scored
 GUZBCOL-AGG,3,Player Shots,Suarez 1+ SOT,Lost,Suarez 0 SOT - killer
 GUZBCOL-AGG,4,Total Goals O/U,Over 2.5,Won,4 goals
-GCZESA-SAF,1,Match Odds,Czechia Double Chance,Open,
-GCZESA-SAF,2,Player Shots,Schick 1+ SOT,Open,
-GCZESA-BAL,1,Match Odds,Czechia,Open,
-GCZESA-BAL,2,Player Shots,Schick 1+ SOT,Open,
-GCZESA-BAL,3,Corners,Czechia over 4.5 corners,Open,
-GCZESA-AGG,1,Match Odds,Czechia,Open,
-GCZESA-AGG,2,Player Shots,Schick 1+ SOT,Open,
-GCZESA-AGG,3,Corners,Czechia over 4.5 corners,Open,
-GCZESA-AGG,4,Cards,South Africa over 1.5 cards,Open,
-GSUIBOS-SAF,1,Match Odds,Switzerland Double Chance,Open,
-GSUIBOS-SAF,2,Player Shots,Embolo 1+ SOT,Open,
-GSUIBOS-BAL,1,Match Odds,Switzerland Double Chance,Open,
-GSUIBOS-BAL,2,Player Shots,Embolo 1+ SOT,Open,
-GSUIBOS-BAL,3,Total Goals O/U,Under 2.5,Open,
-GSUIBOS-AGG,1,Match Odds,Switzerland Double Chance,Open,
-GSUIBOS-AGG,2,Player Shots,Embolo 1+ SOT,Open,
-GSUIBOS-AGG,3,Total Goals O/U,Under 2.5,Open,
-GSUIBOS-AGG,4,Corners,Switzerland over 4.5 corners,Open,
-GCANQAT-SAF,1,Match Odds,Canada,Open,
-GCANQAT-SAF,2,Player Shots,Jonathan David 1+ SOT,Open,
-GCANQAT-BAL,1,Match Odds,Canada,Open,
-GCANQAT-BAL,2,Player Shots,Jonathan David 1+ SOT,Open,
-GCANQAT-BAL,3,Total Goals O/U,Over 2.5,Open,
-GCANQAT-AGG,1,Match Odds,Canada,Open,
-GCANQAT-AGG,2,Player Shots,Jonathan David 1+ SOT,Open,
-GCANQAT-AGG,3,Total Goals O/U,Over 2.5,Open,
-GCANQAT-AGG,4,Cards,Qatar over 1.5 cards,Open,
-GMEXKOR-SAF,1,Match Odds,Mexico Double Chance,Open,
-GMEXKOR-SAF,2,Player Shots,Jimenez 1+ SOT,Open,
-GMEXKOR-BAL,1,Match Odds,Mexico Double Chance,Open,
-GMEXKOR-BAL,2,Player Shots,Jimenez 1+ SOT,Open,
-GMEXKOR-BAL,3,Total Goals O/U,Under 2.5,Open,
-GMEXKOR-AGG,1,Match Odds,Mexico Double Chance,Open,
-GMEXKOR-AGG,2,Player Shots,Jimenez 1+ SOT,Open,
-GMEXKOR-AGG,3,Total Goals O/U,Under 2.5,Open,
-GMEXKOR-AGG,4,Corners,Mexico over 4.5 corners,Open,
+GCZESA-SAF,1,Match Odds,Czechia Double Chance,Won,1-1 draw banked by DC
+GCZESA-SAF,2,Player Shots,Schick 1+ SOT,Won,Schick SOT
+GCZESA-BAL,1,Match Odds,Czechia,Lost,1-1 draw
+GCZESA-BAL,2,Player Shots,Schick 1+ SOT,Won,Schick SOT
+GCZESA-BAL,3,Corners,Czechia over 4.5 corners,Void,moot - slip already lost on Czechia win
+GCZESA-AGG,1,Match Odds,Czechia,Lost,1-1 draw
+GCZESA-AGG,2,Player Shots,Schick 1+ SOT,Won,Schick SOT
+GCZESA-AGG,3,Corners,Czechia over 4.5 corners,Void,moot
+GCZESA-AGG,4,Cards,South Africa over 1.5 cards,Void,moot
+GSUIBOS-SAF,1,Match Odds,Switzerland Double Chance,Won,Switzerland won 4-1
+GSUIBOS-SAF,2,Player Shots,Embolo 1+ SOT,Lost,Embolo 0 SOT - killer
+GSUIBOS-BAL,1,Match Odds,Switzerland Double Chance,Won,Switzerland won 4-1
+GSUIBOS-BAL,2,Player Shots,Embolo 1+ SOT,Lost,Embolo 0 SOT - killer
+GSUIBOS-BAL,3,Total Goals O/U,Under 2.5,Lost,5 goals (4-1)
+GSUIBOS-AGG,1,Match Odds,Switzerland Double Chance,Won,Switzerland won 4-1
+GSUIBOS-AGG,2,Player Shots,Embolo 1+ SOT,Lost,Embolo 0 SOT - killer
+GSUIBOS-AGG,3,Total Goals O/U,Under 2.5,Lost,5 goals
+GSUIBOS-AGG,4,Corners,Switzerland over 4.5 corners,Void,moot - slip already lost
+GCANQAT-SAF,1,Match Odds,Canada,Won,Canada won 6-0
+GCANQAT-SAF,2,Player Shots,Jonathan David 1+ SOT,Won,David hat-trick
+GCANQAT-BAL,1,Match Odds,Canada,Won,Canada won 6-0
+GCANQAT-BAL,2,Player Shots,Jonathan David 1+ SOT,Won,David hat-trick
+GCANQAT-BAL,3,Total Goals O/U,Over 2.5,Won,6 goals
+GCANQAT-AGG,1,Match Odds,Canada,Won,Canada won 6-0
+GCANQAT-AGG,2,Player Shots,Jonathan David 1+ SOT,Won,David hat-trick
+GCANQAT-AGG,3,Total Goals O/U,Over 2.5,Won,6 goals
+GCANQAT-AGG,4,Cards,Qatar over 1.5 cards,Lost,FLAG unverified - conservative settle (would flip if Qatar 2+ cards)
+GMEXKOR-SAF,1,Match Odds,Mexico Double Chance,Won,Mexico won 1-0
+GMEXKOR-SAF,2,Player Shots,Jimenez 1+ SOT,Won,Jimenez SOT
+GMEXKOR-BAL,1,Match Odds,Mexico Double Chance,Won,Mexico won 1-0
+GMEXKOR-BAL,2,Player Shots,Jimenez 1+ SOT,Won,Jimenez SOT
+GMEXKOR-BAL,3,Total Goals O/U,Under 2.5,Won,1 goal
+GMEXKOR-AGG,1,Match Odds,Mexico Double Chance,Won,Mexico won 1-0
+GMEXKOR-AGG,2,Player Shots,Jimenez 1+ SOT,Won,Jimenez SOT
+GMEXKOR-AGG,3,Total Goals O/U,Under 2.5,Won,1 goal
+GMEXKOR-AGG,4,Corners,Mexico over 4.5 corners,Lost,FLAG unverified - conservative settle

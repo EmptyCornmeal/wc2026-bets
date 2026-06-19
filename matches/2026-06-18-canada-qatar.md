@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: the 3rd leg (Over/corners)
 est_win_prob: 0.45
 min_odds_floor: 2.30
-bet_id:
-status: analysed
+bet_id: O/7913296/0000325
+status: won
 ---
 
 # Canada v Qatar
@@ -30,8 +30,19 @@ Balanced 3-leg (~2.6): Canada win + David 1+ SOT + Over 2.5 (mkt 1.73, Canada po
 Aggressive (~4.5, 1u): + a 2nd Canada attacker SOT or Qatar over 1.5 cards.
 Avoid: corners as a banker; David anytime (use SOT). **Weakest: the Over 3rd leg (1-0 coast risk).**
 
+## The bet
+**PLACED 3-leg (O/7913296/0000325) · 1.97 · £5 → £9.86:** Canada win + David 1+ SOT +
+Over 2.5.
+
 ## Result
-_Pending._
+**WON · +£4.86.** Canada 6-0 Qatar — first-ever WC win, **Jonathan David hat-trick**
+(plus Larin, Saliba). All three legs romped: Canada win, David 1+ SOT (3 of them),
+Over 2.5 (6 goals).
 
 ## Learnings
-_Pending._
+The one game where straight win was justified (1.25 genuine home favourite) and it paid.
+The monopolist SOT on a strong favourite who's *the* focal point is the dream leg —
+David didn't just get a shot on target, he scored three. Over 2.5 landed comfortably in
+a rout. Clean validation: strong-fav result + primary-monopolist SOT is the gold spine
+(matches the Canada SAF ghost, which also won). Heavy-favourite-at-home + clear
+monopolist = the best setup we get.

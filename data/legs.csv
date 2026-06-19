@@ -83,14 +83,14 @@ O/7913296/0000322,1,Player Shots,Player To Have 1 Or More Shots On Target Includ
 O/7913296/0000322,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marcus Rashford,Won,yes,Rashford scored 85' off the bench = SOT
 O/7913296/0000322,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Bukayo Saka,Lost,yes,SOLE KILLER - Saka came off bench, 0 SOT (played so leg did not void)
 O/7913296/0000322,4,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Jude Bellingham,Won,yes,Bellingham scored 47'; SS Djed Spence cosmetic
-O/7913296/0000323,1,Match Odds,Match Odds,Czechia,Open,no,
-O/7913296/0000323,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Patrik Schick,Open,yes,Super Sub + Win More; G1 early-sub risk
-O/7913296/0000324,1,Match Odds,Double Chance,Switzerland And Draw,Open,no,
-O/7913296/0000324,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Breel Embolo,Open,yes,Super Sub + Win More; monopolist (scored vs Qatar)
-O/7913296/0000324,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,read leg - fits Under lean
-O/7913296/0000325,1,Match Odds,Match Odds,Canada,Open,no,
-O/7913296/0000325,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Jonathan David,Open,yes,Super Sub + Win More; monopolist
-O/7913296/0000325,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,read leg - Canada potent at home
-O/7913296/0000326,1,Match Odds,Double Chance,Mexico And Draw,Open,no,
-O/7913296/0000326,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raul Jimenez,Open,yes,Super Sub + Win More; monopolist (scored vs SA)
-O/7913296/0000326,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,read leg - altitude/cagey
+O/7913296/0000323,1,Match Odds,Match Odds,Czechia,Lost,no,1-1 draw - Czechia did not win (DC would have won)
+O/7913296/0000323,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Patrik Schick,Won,yes,Schick 1+ SOT landed; SS cosmetic
+O/7913296/0000324,1,Match Odds,Double Chance,Switzerland And Draw,Won,no,Switzerland won 4-1
+O/7913296/0000324,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Breel Embolo,Lost,yes,Embolo 0 SOT despite Switz scoring 4 (sub Manzambi starred); SS Cedric Itten cosmetic
+O/7913296/0000324,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Lost,no,5 goals (4-1) - read leg failed
+O/7913296/0000325,1,Match Odds,Match Odds,Canada,Won,no,Canada won 6-0
+O/7913296/0000325,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Jonathan David,Won,yes,David hat-trick = 3 SOT; SS cosmetic
+O/7913296/0000325,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,6 goals
+O/7913296/0000326,1,Match Odds,Double Chance,Mexico And Draw,Won,no,Mexico won 1-0
+O/7913296/0000326,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raul Jimenez,Won,yes,Jimenez 1+ SOT landed; SS Santiago Gimenez cosmetic
+O/7913296/0000326,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Won,no,1 goal

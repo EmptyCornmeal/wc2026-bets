@@ -7,8 +7,8 @@ confidence: 5.5/10
 predicted_weakest_leg: Schick 1+ SOT (subbed early in G1)
 est_win_prob: 0.40
 min_odds_floor: 2.40
-bet_id:
-status: analysed
+bet_id: O/7913296/0000323
+status: lost
 ---
 
 # Czechia v South Africa
@@ -31,8 +31,17 @@ Balanced 3-leg (~3.0): Czechia win + Schick 1+ SOT + Czechia O4.5 corners (corne
 Aggressive (~5, 1u): + South Africa over 1.5 cards.
 Avoid: two-SOT; read-dependent unders here (both can score). **Weakest: Schick (G1 sub).**
 
+## The bet
+**PLACED 2-leg (O/7913296/0000323) · 1.70 · £5 → £0:** Czechia win + Schick 1+ SOT.
+Took straight WIN, not the recommended DC.
+
 ## Result
-_Pending._
+**LOST · −£5.** Czechia 1-1 South Africa (Sadilek 6'; Mokoena pen 83'). Schick 1+ SOT
+**WON**, but Czechia Match Odds **LOST** — led from the 6th, pegged back by a late pen.
 
 ## Learnings
-_Pending._
+The recommendation was **Czechia Double Chance**; the placed bet took straight **win** —
+and that's exactly what cost it. The **SAF ghost (Czechia DC + Schick) WON** while the
+placed win-bet lost. Textbook #est-prob-gate-violated / #result-leg-can-kill: a ~1.76
+favourite in a two-way must-win, led 1-0, conceded late to draw. DC banks that; straight
+win doesn't. The win was the only losing leg.

@@ -62,3 +62,54 @@ The prior, per all available evidence, is NO on raw picking — the upside lives
 in discipline, promo capture (insurance/free builders at ~60% conversion),
 soft-market awareness (corners, early props), and honest measurement. If CLV
 and calibration data eventually say the picks add nothing, believe the data.
+
+---
+
+## Four-model deep-research synthesis (19 Jun 2026)
+
+Commissioned exhaustive reports from Copilot, Gemini, Perplexity and ChatGPT on
+optimal bet-builder/SGP strategy, cross-checked against our 33-bet dataset. The
+convergence was strong; this is the evidence base for the REFINED METHODOLOGY block
+in CLAUDE.md.
+
+**Unanimous consensus (all 4):**
+- **Hold compounds per leg.** ~4-5% single → ~8-10% (2 legs) → ~15-19% (4 legs),
+  plus a same-game correlation tax (often pushing real hold to 20-30%+). Leg count
+  is THE biggest EV lever. Our 4-leg 0/21 is the math, not variance. Default 2,
+  max 3, 4+ banned.
+- **1+ SOT on the primary nailed focal forward** is the core soft prop. Secondary
+  strikers/subs/weak-team outlets blank — matches our data exactly. Never two SOT.
+- **Dead markets:** anytime scorer, team-goals-over, total-cards-over, low-line
+  corners (high vig + variance). Confirmed.
+- **1.20-1.70 value band = variance/longshot-bias heuristic, NOT an edge.** Never
+  stack sub-1.20 dead-weight (compounds vig for ~no payout).
+- **Promos are the only realistic route to break-even.** Power Ups on 2-leg cash;
+  free bets are stake-not-returned so EV-max on LONG odds (~4.5-5.0+); don't pad
+  legs for acca insurance.
+- **Flat stake; Kelly = 0 on -EV bets; "bet every game" is the biggest leak.**
+- **Honest ceiling −2% to −15%; break-even only via promos.** CLV is the only real
+  edge proof — track it at the LEG level (builder CLV is unmeasurable).
+
+**Where the research corrected/extended our beliefs:**
+- **Double Chance is variance reduction, NOT value.** Our 7-0 DC is small-sample
+  variance; all 4 agree it doesn't make money, it lowers ruin. Keep it for variance
+  on two-way games; straight win only for genuinely strong/underpriced favs.
+  (ChatGPT nuance: Asian DNB / Asian 0 are academically better-priced than 1X2-derived
+  DC, and English football shows a mild draw bias — worth testing if PP offers them.)
+- **🆕 Player FOULS / TACKLES = softest untapped market** (2 of 4). Referee + tactical
+  matchup driven, thinly modelled. We've never used them — flagged to test as the
+  3rd-leg market with WC referee foul/card data.
+- **Correlation: prefer VOLUME over NARRATIVE.** Books over-tax obvious positive
+  stacks (fav win + scorer + over); softer shape is protected-result + volume prop
+  (SOT/corners from a dominant side) = already our spine. Gemini pushed counter-
+  narrative NEGATIVE correlation (fav wins while their juiced striker BLANKS) as an
+  inflated-price niche — speculative, untested.
+- **Super Sub: CONFLICT.** Gemini claims a +10-27% unpriced edge (inherit the sub's
+  minutes); our data is 0-rescues-in-19. Resolution: mild tiebreaker only, do NOT
+  chase. Believe our data over the theory until it shows up.
+- **4-leg hold honest number:** ~15-19% before extras, not auto 25-35% (that's the
+  correlated/exotic top end). Our "4-5% per leg" intuition was right.
+
+Caveat the reports themselves stressed: most edges they cite are model-dependent and
+single-book-unprovable without leg-level CLV. Treat the project as "minimise the
+bleed + capture promos + measure honestly," not a profit engine.

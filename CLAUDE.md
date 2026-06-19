@@ -117,6 +117,41 @@ fractional prices. For each fixture:
   key starter is benched.
 
 **House rules for builders**
+- **⭐ REFINED METHODOLOGY (19 Jun — validated by 4 independent deep-research reports
+  [Copilot/Gemini/Perplexity/ChatGPT] cross-checked against our 33-bet dataset; full
+  evidence in docs/community-findings.md). This block SUPERSEDES the older rules below
+  where they conflict:**
+  1. **DEFAULT = 2 LEGS** (DC-or-strong-win + ONE primary-monopolist 1+ SOT). The
+     bookmaker hold compounds ~8-10% at 2 legs → ~15-19% at 4, plus a same-game
+     correlation tax on top. Our 4-leg record is 0/21 — that's the math, not variance.
+  2. **3 LEGS = exception** — only with a genuinely correlated read or a Power Up to
+     offset the extra hold. **4+ LEGS BANNED** from the system (free-bet longshots aside).
+  3. **Result leg = DOUBLE CHANCE** on any two-way game — but framed honestly as
+     VARIANCE CONTROL, not edge. Our 7-0 DC is small-sample variance, NOT proof of
+     value (all 4 reports agree). Straight win ONLY for a genuinely strong/underpriced
+     favourite (~sub-1.4).
+  4. **Legs in ~1.3-1.7.** The band is a discipline/variance heuristic, not an edge.
+     NEVER a sub-1.20 dead-weight filler (it adds compounded vig for ~no payout).
+  5. **Prop leg = the PRIMARY, nailed, focal shooter's 1+ SOT only** (penalty/set-piece
+     duty a plus). Never a secondary striker, sub, or weak-team lone outlet
+     (#two-sot-doubles-risk, #prop-role-fit). NEVER two SOT legs.
+  6. **🆕 TEST player FOULS / TACKLES as the 3rd-leg market** — flagged by the research
+     as softer than SOT (referee + tactics driven, thinly modelled). Cross-reference the
+     WC referee's foul/card average + the winger-vs-fullback matchup. Untested by us — log
+     results to see if it's a real edge before trusting it.
+  7. **Promos = the only realistic path to break-even.** Power Ups → 2-leg CASH bets.
+     Free bets are stake-not-returned → deploy on the LONGEST slip (~4.5+ odds; raw EV
+     maximised at long odds). Ignore acca insurance if it forces extra legs.
+  8. **Super Sub = mild tiebreaker ONLY** (prefer the SS-badged version between equal
+     legs). Our data is 0-rescues-in-19; do NOT chase it as a selection driver despite
+     one report's enthusiasm (#super-sub).
+  9. **Track leg-level CLV** (placement vs last pre-KO snapshot) as the real scorecard —
+     builder-level CLV is unmeasurable (opaque correlation pricing). P/L is noise at this n.
+  10. **Honest ceiling: −2% to −15% yield; break-even only via promo subsidy.** The goal
+      is MINIMISE THE BLEED, not mythical +EV. "Bet every game" is the biggest single EV
+      leak (all 4 reports) — kept for now as the project charter, but it IS a known cost.
+
+**House rules for builders (legacy detail — see refined block above; kept for context)**
 - **DEFAULT = 3 LEGS** (changed 14 Jun after 8 settled slips). The habitual 4th
   leg was a failure-mode adder, not filler: across 7 losses, EVERY killer leg was
   an "outcome" leg, while "soft/process" legs went 11–2 (85%). A 4th leg is now

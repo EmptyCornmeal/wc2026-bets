@@ -2,7 +2,7 @@ name: Build & deploy dashboard
 
 on:
   push:
-    branches: [main]
+    branches: [main, claude/resolve-last-night-bets-u4rbc8]
   workflow_dispatch:
 
 permissions:

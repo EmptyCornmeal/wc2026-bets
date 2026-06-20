@@ -7,8 +7,8 @@ confidence: 5.5/10
 predicted_weakest_leg: Saibari SOT (unclear Morocco monopolist)
 est_win_prob: 0.40
 min_odds_floor: 2.40
-bet_id:
-status: analysed
+bet_id: O/7913296/0000328
+status: won
 ---
 
 # Scotland v Morocco
@@ -18,12 +18,13 @@ drew Brazil; Scotland solid + defensive (won opener 1-0). Two-way → Morocco DC
 LOW-SCORING (both tight) → Under fits. Morocco's shot threat is spread (no clean
 monopolist) — Saibari (scored vs Brazil) the best SOT proxy, FLAG uncertainty.
 ## The bet
-_Pending (~1h before 23:00 KO; confirm Saibari/XI)._
-**Recommended (Safer 2-leg) ~1.95:** Morocco Double Chance + Under 2.5
-Balanced 3-leg (~3.0): + Saibari 1+ SOT (flag: unclear monopolist).
-Aggressive (~4.5,1u): + Morocco O4.5 corners.
-**Weakest: Saibari SOT (role/monopolist uncertain) — that's why the 2-leg uses Under not SOT.**
+**PLACED 3-leg (O/7913296/0000328) · 2.67 · £5 → £13.37:** Morocco DC + Under 2.5 + Saibari 1+ SOT.
 ## Result
-_Pending._
+**WON · +£8.37.** Scotland 0-1 Morocco (**Saibari scored after 70 seconds**). All three
+legs landed: Morocco DC, Under 2.5 (1 goal), Saibari 1+ SOT.
 ## Learnings
-_Pending._
+The flagged-uncertain monopolist (Saibari) didn't just hit SOT — he scored inside 2
+minutes, settling the leg I was least sure of. A reminder that "unclear monopolist" is a
+real risk flag but not a veto. The shape was textbook: DC for variance on a two-way 30-game
+unbeaten side + a low-scoring read that fit (Scotland defensive) + a focal attacker. The
+2-leg Safer (Morocco DC + Under) also won. Best-case execution of the refined method.

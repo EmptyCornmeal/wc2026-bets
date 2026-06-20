@@ -7,8 +7,8 @@ confidence: 7/10
 predicted_weakest_leg: Raphinha 1+ SOT (rotation risk)
 est_win_prob: 0.55
 min_odds_floor: 2.20
-bet_id:
-status: analysed
+bet_id: O/7913296/0000331
+status: won
 ---
 
 # Brazil v Haiti
@@ -19,12 +19,12 @@ Brazil win 1.10 is near dead-weight (#value-not-floor) so the value is the attac
 **Raphinha** (1 SOT vs Morocco) the primary monopolist; Vinicius alt. Neymar minutes
 managed (calf) — don't prop him. ONE primary SOT (#two-sot-doubles-risk).
 ## The bet
-_Pending (~1h before 01:30 KO; OVERNIGHT - confirm Raphinha starts)._
-**Recommended (Safer 2-leg) ~1.5:** Brazil win + Raphinha 1+ SOT
-Balanced 3-leg (~2.1): + Over 2.5 (Brazil should score multiple vs a minnow).
-Aggressive (~3.5,1u): + Brazil O4.5 corners.
-**Weakest: Raphinha SOT (rotation) — Vinicius the fallback.**
+**PLACED 3-leg (O/7913296/0000331) · 1.51 · £5 → £7.55:** Brazil win + Raphinha 1+ SOT + Over 2.5.
 ## Result
-_Pending._
+**WON · +£2.55.** Brazil 3-0 Haiti (Cunha brace, Vinícius). All three legs: Brazil win,
+Raphinha 1+ SOT, Over 2.5.
 ## Learnings
-_Pending._
+The standout banker delivered — strong-fav win (1.10, justified, not two-way) + primary
+monopolist SOT + a goals-over that a 3-0 rout cleared easily. Low payout (£7.55 off £5)
+because the win leg was near dead-weight, but a clean win. Confirms the gold setup:
+heavy-fav-not-two-way → straight win is fine; pair with the team's genuine shot monopolist.

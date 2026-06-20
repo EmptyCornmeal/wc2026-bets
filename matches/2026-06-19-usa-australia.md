@@ -7,8 +7,8 @@ confidence: 6/10
 predicted_weakest_leg: the 3rd leg (Under vs a USA that scored 4 in G1)
 est_win_prob: 0.42
 min_odds_floor: 2.30
-bet_id:
-status: analysed
+bet_id: O/7913296/0000327
+status: lost
 ---
 
 # USA v Australia
@@ -18,12 +18,15 @@ top-of-group clash. NOT a big fav + Australia set up 5-4-1 deep → two-way enou
 is the disciplined call. Monopolist: **Balogun** (2 goals vs Paraguay), the nailed
 striker. USA potent but Australia's block could keep it tight. 2-leg spine the play.
 ## The bet
-_Pending (~1h before 20:00 KO; confirm Balogun starts)._
-**Recommended (Safer 2-leg) ~1.85:** USA Double Chance + Balogun 1+ SOT
-Balanced 3-leg (~2.7): + Under 2.5 (Australia bus) — note USA scored 4 in G1, so this is the swing.
-Aggressive (~4.5,1u): + USA O4.5 corners.
-**Weakest: the Under 3rd leg.**
+**PLACED 3-leg (O/7913296/0000327) · 2.67 · £5 → £0:** Balogun 1+ SOT + Under 2.5 + USA DC.
 ## Result
-_Pending._
+**LOST · −£5.** USA 2-0 Australia (knockout spot clinched). USA DC **WON**, Under 2.5
+**WON** (2 goals, exactly under), but **Balogun 1+ SOT LOST** — sole killer.
 ## Learnings
-_Pending._
+Predicted weakest was the Under; it actually **won** — the **SOT leg was the killer**, and
+this time it was the PRIMARY striker (Balogun, who scored twice in G1) blanking, not a
+secondary. That's the irreducible ~25-30% bust rate on even a good 1+ SOT leg — our SOT
+record is now ~20-9 (≈69%), so roughly 1 in 3 slips will die here no matter how clean the
+pick. The 2-leg Safer (DC + Balogun) would ALSO have lost. Takeaway: the SOT leg is our
+best leg AND our most common killer simultaneously — there's no leg that's both high-odds
+and safe. SS Haji Wright did not rescue (cosmetic), consistent with #super-sub.

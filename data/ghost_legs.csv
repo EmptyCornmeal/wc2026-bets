@@ -277,12 +277,12 @@ GBRAHAI-AGG,1,Match Odds,Brazil,Won,Brazil won 3-0
 GBRAHAI-AGG,2,Player Shots,Raphinha 1+ SOT,Won,Raphinha SOT
 GBRAHAI-AGG,3,Total Goals O/U,Over 2.5,Won,3 goals
 GBRAHAI-AGG,4,Corners,Brazil over 4.5 corners,Lost,FLAG unverified - conservative settle
-GTURPAR-SAF,1,Match Odds,Turkey Double Chance,Open,
-GTURPAR-SAF,2,Player Shots,Guler 1+ SOT,Open,
-GTURPAR-BAL,1,Match Odds,Turkey Double Chance,Open,
-GTURPAR-BAL,2,Player Shots,Guler 1+ SOT,Open,
-GTURPAR-BAL,3,Total Goals O/U,Over 2.5,Open,
-GTURPAR-AGG,1,Match Odds,Turkey Double Chance,Open,
-GTURPAR-AGG,2,Player Shots,Guler 1+ SOT,Open,
-GTURPAR-AGG,3,Total Goals O/U,Over 2.5,Open,
-GTURPAR-AGG,4,Corners,Turkey over 4.5 corners,Open,
+GTURPAR-SAF,1,Match Odds,Turkey Double Chance,Lost,Turkey lost 0-1
+GTURPAR-SAF,2,Player Shots,Guler 1+ SOT,Won,Guler SOT
+GTURPAR-BAL,1,Match Odds,Turkey Double Chance,Lost,Turkey lost 0-1
+GTURPAR-BAL,2,Player Shots,Guler 1+ SOT,Won,Guler SOT
+GTURPAR-BAL,3,Total Goals O/U,Over 2.5,Lost,1 goal
+GTURPAR-AGG,1,Match Odds,Turkey Double Chance,Lost,Turkey lost 0-1
+GTURPAR-AGG,2,Player Shots,Guler 1+ SOT,Won,Guler SOT
+GTURPAR-AGG,3,Total Goals O/U,Over 2.5,Lost,1 goal
+GTURPAR-AGG,4,Corners,Turkey over 4.5 corners,Won,32 shots = many corners (moot, slip lost)

@@ -100,9 +100,9 @@ O/7913296/0000327,3,Match Odds,Double Chance,USA And Draw,Won,no,USA won 2-0
 O/7913296/0000328,1,Match Odds,Double Chance,Morocco And Draw,Won,no,Morocco won 0-1
 O/7913296/0000328,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Won,no,1 goal
 O/7913296/0000328,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Ismael Saibari,Won,yes,Saibari scored after 70s = SOT; the flagged-uncertain monopolist landed; SS cosmetic
-O/7913296/0000330,1,Match Odds,Double Chance,Turkiye And Draw,Open,no,coin-flip must-win
-O/7913296/0000330,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Arda Guler,Open,yes,Super Sub + Win More; elite monopolist (3 SOT vs Australia)
-O/7913296/0000330,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,read leg - both must-win, open game
+O/7913296/0000330,1,Match Odds,Double Chance,Turkiye And Draw,Lost,no,Turkey LOST 0-1 (DC fails - not a draw, an outright loss to 10 men)
+O/7913296/0000330,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Arda Guler,Won,yes,Guler SOT (TUR 5 team SOT from 32 shots); SS cosmetic
+O/7913296/0000330,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Lost,no,1 goal (0-1) - 32 TUR shots but parked bus (#parked-bus-goals-trap)
 O/7913296/0000331,1,Match Odds,Match Odds,Brazil,Won,no,Brazil won 3-0
 O/7913296/0000331,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raphinha,Won,yes,Raphinha SOT; SS Rayan cosmetic
 O/7913296/0000331,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,3 goals

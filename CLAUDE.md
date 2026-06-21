@@ -273,6 +273,10 @@ fractional prices. For each fixture:
   Three sub-1.6 favourites (Uruguay, Belgium, Spain) all failed to win on the same
   slate. If est_win_prob ≤ 0.30, the placed build's result leg MUST be double chance,
   no "but it's a 1.44 favourite" exception — that exception IS the trap.
+- #parked-bus-goals-trap (QUANTIFIED 21 Jun via data/match_stats.csv: 10 of 36 group
+  games had a side take 15+ shots for <=1 goal -- ~28%, NOT rare; Spain/Ecuador/Turkey x2/
+  Uruguay/Switzerland all featured). Vs a deep block the favourite-WIN and goals-OVER legs
+  carry ~1-in-4 shutout risk regardless of shot dominance; only the fav's own SOT survives.
 - #parked-bus-goals-trap (15 Jun, Spain 0-0 Cape Verde): vs a deep damage-limitation
   block, NEVER anchor on goals-over or opponent-cards legs. A bus that barely fouls
   (CV: 1 foul ALL GAME, a WC record) gives no cards, and 27 shots can yield zero goals
@@ -387,6 +391,11 @@ num_legs,bookmaker,archetype,notes`
 - `result`: Open / Won / Lost / Void.
 
 **deposits.csv**: `date,amount,note` — own money in.
+
+**match_stats.csv**: per-game stats (shots, SoT, possession, fouls, cards,
+corners, winner) for every settled WC game — the CANONICAL source for settling
+corners/cards/team-SoT legs and for analysis; do NOT web-guess these. Maintained by
+the user; ingested 21 Jun.
 
 **fixtures.csv**: `match_id,date,kickoff_uk,stage,group,home_team,away_team,
 city` — all 104 fixtures; drives the coverage map and "needs a bet" panel.

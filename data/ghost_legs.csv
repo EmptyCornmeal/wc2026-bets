@@ -240,7 +240,7 @@ GCANQAT-BAL,3,Total Goals O/U,Over 2.5,Won,6 goals
 GCANQAT-AGG,1,Match Odds,Canada,Won,Canada won 6-0
 GCANQAT-AGG,2,Player Shots,Jonathan David 1+ SOT,Won,David hat-trick
 GCANQAT-AGG,3,Total Goals O/U,Over 2.5,Won,6 goals
-GCANQAT-AGG,4,Cards,Qatar over 1.5 cards,Lost,FLAG unverified - conservative settle (would flip if Qatar 2+ cards)
+GCANQAT-AGG,4,Cards,Qatar over 1.5 cards,Won,Qatar 3 cards (1Y+2R) - verified match_stats
 GMEXKOR-SAF,1,Match Odds,Mexico Double Chance,Won,Mexico won 1-0
 GMEXKOR-SAF,2,Player Shots,Jimenez 1+ SOT,Won,Jimenez SOT
 GMEXKOR-BAL,1,Match Odds,Mexico Double Chance,Won,Mexico won 1-0
@@ -267,7 +267,7 @@ GSCOMAR-BAL,3,Player Shots,Saibari 1+ SOT,Won,Saibari scored 2'
 GSCOMAR-AGG,1,Match Odds,Morocco Double Chance,Won,Morocco won 0-1
 GSCOMAR-AGG,2,Total Goals O/U,Under 2.5,Won,1 goal
 GSCOMAR-AGG,3,Player Shots,Saibari 1+ SOT,Won,Saibari scored 2'
-GSCOMAR-AGG,4,Corners,Morocco over 4.5 corners,Lost,FLAG unverified - Morocco coasted on early lead; conservative settle
+GSCOMAR-AGG,4,Corners,Morocco over 4.5 corners,Won,Morocco 5 corners - verified match_stats
 GBRAHAI-SAF,1,Match Odds,Brazil,Won,Brazil won 3-0
 GBRAHAI-SAF,2,Player Shots,Raphinha 1+ SOT,Won,Raphinha SOT
 GBRAHAI-BAL,1,Match Odds,Brazil,Won,Brazil won 3-0

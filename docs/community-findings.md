@@ -113,3 +113,25 @@ in CLAUDE.md.
 Caveat the reports themselves stressed: most edges they cite are model-dependent and
 single-book-unprovable without leg-level CLV. Treat the project as "minimise the
 bleed + capture promos + measure honestly," not a profit engine.
+
+---
+
+## Match-stats dataset ingested (21 Jun) — data/match_stats.csv
+
+The user maintains a full per-game stats table (shots, SoT, possession, fouls, cards,
+corners) for every WC game. Now committed as `data/match_stats.csv` and is the CANONICAL
+source for settling corners / cards / team-SoT legs and for analysis — STOP web-guessing
+these. First use already corrected two conservatively-flagged ghost legs (GCANQAT-AGG:
+Qatar 3 cards; GSCOMAR-AGG: Morocco 5 corners) from Lost -> Won.
+
+What the dataset reveals across 36 group games:
+- **#parked-bus-goals-trap is MASSIVE, not occasional: 10 of 36 games (~28%) had a side
+  take 15+ shots and score <=1 goal** (Spain 23sh/0, Ecuador 26sh/0, Turkey 33sh/0 & 28sh/0,
+  Uruguay 27sh/1, Switzerland 27sh/1, Belgium 15sh/1, Ivory Coast 16sh/1, S.Africa 17sh/1,
+  Sweden 20sh/1). Several were OUR losses. Hard rule: vs a deep block, a favourite-WIN or
+  goals-OVER leg carries ~1-in-4 shutout/low-block risk REGARDLESS of shot dominance. The
+  favourite's own SOT volume is the only thing the bus reliably can't stop (team median 4
+  SoT/game; only 3 of 72 team-games registered 0 SoT). This is the strongest single argument
+  for: SOT spine yes; favourite-win/Over legs are the swing, especially vs minnows.
+- Team SoT: median 4/game, mean 4.6 — so a primary shooter hitting 1+ SOT is well-supported
+  (matches our ~71% 1+SOT hit rate); the risk is player-specific blanks, not team drought.

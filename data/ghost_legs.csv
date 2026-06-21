@@ -306,3 +306,22 @@ GTUNJPN-SAF,2,Total Goals O/U,Under 2.5,Lost,4 goals - killer
 GTUNJPN-BAL,1,Match Odds,Japan Double Chance,Won,Japan won 4-0
 GTUNJPN-BAL,2,Total Goals O/U,Under 2.5,Lost,4 goals - killer
 GTUNJPN-BAL,3,Player Shots,Kubo 1+ SOT,Void,"Kubo OUT injured - did not play, leg voids"
+GSPASAU-SAF,1,Match Odds,Spain,Open,
+GSPASAU-SAF,2,Player Shots,Oyarzabal 1+ SOT,Open,
+GSPASAU-BAL,1,Match Odds,Spain,Open,
+GSPASAU-BAL,2,Player Shots,Oyarzabal 1+ SOT,Open,
+GSPASAU-BAL,3,Total Goals O/U,Over 2.5,Open,
+GBELIRN-SAF,1,Match Odds,Belgium Double Chance,Open,
+GBELIRN-SAF,2,Player Shots,De Bruyne 1+ SOT,Open,
+GBELIRN-BAL,1,Match Odds,Belgium Double Chance,Open,
+GBELIRN-BAL,2,Player Shots,De Bruyne 1+ SOT,Open,
+GBELIRN-BAL,3,Total Goals O/U,Over 2.5,Open,
+GURUCPV-SAF,1,Match Odds,Uruguay Double Chance,Open,
+GURUCPV-SAF,2,Total Goals O/U,Under 2.5,Open,
+GURUCPV-BAL,1,Match Odds,Uruguay,Open,
+GURUCPV-BAL,2,Total Goals O/U,Under 2.5,Open,
+GNZLEGY-SAF,1,Match Odds,Egypt Double Chance,Open,
+GNZLEGY-SAF,2,Player Shots,Salah 1+ SOT,Open,
+GNZLEGY-BAL,1,Match Odds,Egypt Double Chance,Open,
+GNZLEGY-BAL,2,Player Shots,Salah 1+ SOT,Open,
+GNZLEGY-BAL,3,Total Goals O/U,Under 2.5,Open,

@@ -128,3 +128,18 @@ O/7913296/0000338,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,taken @1.
 O/7913296/0000339,1,Match Odds,Double Chance,Egypt And Draw,Open,no,taken @1.10
 O/7913296/0000339,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Mohamed Salah,Open,yes,taken @1.33; SS+WinMore
 O/7913296/0000339,3,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,taken @1.73
+O/7913296/0000340,1,Player Shots,Player To Have 2 Or More Shots On Target Including Woodwork,Lamine Yamal,Open,yes,SS+WinMore; 2+ SOT
+O/7913296/0000340,2,Cards,Home Team Total Cards 0.5,Over,Open,no,Spain over 0.5 cards
+O/7913296/0000340,3,Corners,Home Total Corners 6.5,Over,Open,no,Spain over 6.5 corners
+O/7913296/0000340,4,Cards,Away Team Total Cards 1.5,Over,Open,no,Saudi over 1.5 cards
+O/7913296/0000340,5,Player Fouls,Player To Be Fouled 1 Or More Times,Pedri,Open,yes,SS
+O/7913296/0000341,1,Goalscorer,Anytime Goalscorer,Fabian Ruiz,Open,yes,SS
+O/7913296/0000341,2,Cards,Player Shown A Card,Abdullah Al Khaibari,Open,yes,SS
+O/7913296/0000341,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Marc Cucurella,Open,yes,SS+WinMore
+O/7913296/0000341,4,Saves,Goalkeeper To Make 2 Or More Saves,Spain Goalkeeper,Open,no,
+O/7913296/0000342,1,Correct Score,Correct Score,2-0,Open,no,
+O/7913296/0000342,2,Goalscorer,Anytime Goalscorer,Lamine Yamal,Open,yes,SS
+O/7913296/0000343,1,Cards,Away Team Total Cards 1.5,Over,Open,no,Spain v Saudi - Saudi over 1.5 cards
+O/7913296/0000343,2,Match Odds,Match Odds,Belgium,Open,no,Belgium v Iran - Belgium win
+O/7913296/0000343,3,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Federico Valverde,Open,yes,Uruguay v CV; SS+WinMore
+O/7913296/0000343,4,Total Goals O/U,Over/Under 1.5 Goals,Over,Open,no,Uruguay v CV - Over 1.5

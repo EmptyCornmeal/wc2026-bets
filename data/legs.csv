@@ -106,14 +106,14 @@ O/7913296/0000330,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Lost,no,1 goal (0-
 O/7913296/0000331,1,Match Odds,Match Odds,Brazil,Won,no,Brazil won 3-0
 O/7913296/0000331,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Raphinha,Won,yes,Raphinha SOT; SS Rayan cosmetic
 O/7913296/0000331,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,3 goals
-O/7913296/0000332,1,Match Odds,Double Chance,Netherlands And Draw,Open,no,taken @1.14
-O/7913296/0000332,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Cody Gakpo,Open,yes,taken @1.36; SS+WinMore
-O/7913296/0000332,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,taken @1.60
-O/7913296/0000333,1,Match Odds,Double Chance,Germany And Draw,Open,no,taken @1.10
-O/7913296/0000333,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Kai Havertz,Open,yes,taken @1.30; SS+WinMore
-O/7913296/0000333,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,taken @1.50
-O/7913296/0000334,1,Match Odds,Match Odds,Ecuador,Open,no,taken @1.11
-O/7913296/0000334,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Enner Valencia,Open,yes,taken @1.13; SS+WinMore
-O/7913296/0000334,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Open,no,taken @1.45
-O/7913296/0000335,1,Match Odds,Double Chance,Japan And Draw,Open,no,taken @1.10
-O/7913296/0000335,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Open,no,taken @1.73
+O/7913296/0000332,1,Match Odds,Double Chance,Netherlands And Draw,Won,no,taken @1.14; NL won 4-0
+O/7913296/0000332,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Cody Gakpo,Won,yes,taken @1.36; Gakpo scored = SOT
+O/7913296/0000332,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,taken @1.60; 4 goals
+O/7913296/0000333,1,Match Odds,Double Chance,Germany And Draw,Won,no,taken @1.10; Germany won
+O/7913296/0000333,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Kai Havertz,Won,yes,taken @1.30; Havertz SOT; SS Goretzka cosmetic
+O/7913296/0000333,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Won,no,taken @1.50; Over 2.5 cleared
+O/7913296/0000334,1,Match Odds,Match Odds,Ecuador,Lost,no,taken @1.11; 0-0 draw - Ecuador did not win
+O/7913296/0000334,2,Player Shots,Player To Have 1 Or More Shots On Target Including Woodwork,Enner Valencia,Won,yes,taken @1.13; Valencia SOT (ECU 15 shots); SS cosmetic
+O/7913296/0000334,3,Total Goals O/U,Over/Under 2.5 Goals,Over,Lost,no,"taken @1.45; 0 goals (parked bus, Room 15 saves)"
+O/7913296/0000335,1,Match Odds,Double Chance,Japan And Draw,Won,no,taken @1.10; Japan won 4-0
+O/7913296/0000335,2,Total Goals O/U,Over/Under 2.5 Goals,Under,Lost,no,taken @1.73; SOLE KILLER - 4 goals

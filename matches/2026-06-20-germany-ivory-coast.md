@@ -7,8 +7,8 @@ confidence: 6.5/10
 predicted_weakest_leg: the result (1.53 not a monster; IC decent)
 est_win_prob: 0.45
 min_odds_floor: 2.20
-bet_id:
-status: analysed
+bet_id: O/7913296/0000333
+status: won
 ---
 
 # Germany v Ivory Coast
@@ -25,6 +25,10 @@ _Pending (~1h before 21:00 KO; Havertz nailed)._
 Note: straight Germany win is defensible given the 7-1 form, but DC honours the gate.
 **Weakest: the result (IC can frustrate) — DC covers it.**
 ## Result
-_Pending._
+**WON · +£6.47** (Power Up 2.29). Germany beat Ivory Coast. All three legs: Germany DC,
+Havertz 1+ SOT (SS Goretzka cosmetic), Over 2.5.
 ## Learnings
-_Pending._
+Textbook refined method: DC (not straight win, honouring the gate) + primary monopolist
+SOT + a goals-over backed by Germany's firepower, with the Power Up offsetting the 3rd-leg
+hold. Calibration: Havertz SOT **taken @1.30 → WON**. The disciplined DC was the right call
+even though Germany won outright — variance protection that cost nothing here.

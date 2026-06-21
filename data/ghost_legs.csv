@@ -286,23 +286,23 @@ GTURPAR-AGG,1,Match Odds,Turkey Double Chance,Lost,Turkey lost 0-1
 GTURPAR-AGG,2,Player Shots,Guler 1+ SOT,Won,Guler SOT
 GTURPAR-AGG,3,Total Goals O/U,Over 2.5,Lost,1 goal
 GTURPAR-AGG,4,Corners,Turkey over 4.5 corners,Won,32 shots = many corners (moot, slip lost)
-GNEDSWE-SAF,1,Match Odds,Netherlands Double Chance,Open,
-GNEDSWE-SAF,2,Player Shots,Gakpo 1+ SOT,Open,
-GNEDSWE-BAL,1,Match Odds,Netherlands Double Chance,Open,
-GNEDSWE-BAL,2,Player Shots,Gakpo 1+ SOT,Open,
-GNEDSWE-BAL,3,Total Goals O/U,Over 2.5,Open,
-GGERIVC-SAF,1,Match Odds,Germany Double Chance,Open,
-GGERIVC-SAF,2,Player Shots,Havertz 1+ SOT,Open,
-GGERIVC-BAL,1,Match Odds,Germany Double Chance,Open,
-GGERIVC-BAL,2,Player Shots,Havertz 1+ SOT,Open,
-GGERIVC-BAL,3,Total Goals O/U,Over 2.5,Open,
-GECUCUR-SAF,1,Match Odds,Ecuador,Open,
-GECUCUR-SAF,2,Player Shots,Valencia 1+ SOT,Open,
-GECUCUR-BAL,1,Match Odds,Ecuador,Open,
-GECUCUR-BAL,2,Player Shots,Valencia 1+ SOT,Open,
-GECUCUR-BAL,3,Total Goals O/U,Over 2.5,Open,
-GTUNJPN-SAF,1,Match Odds,Japan Double Chance,Open,
-GTUNJPN-SAF,2,Total Goals O/U,Under 2.5,Open,
-GTUNJPN-BAL,1,Match Odds,Japan Double Chance,Open,
-GTUNJPN-BAL,2,Total Goals O/U,Under 2.5,Open,
-GTUNJPN-BAL,3,Player Shots,Kubo 1+ SOT,Open,
+GNEDSWE-SAF,1,Match Odds,Netherlands Double Chance,Won,NL won 4-0
+GNEDSWE-SAF,2,Player Shots,Gakpo 1+ SOT,Won,Gakpo scored
+GNEDSWE-BAL,1,Match Odds,Netherlands Double Chance,Won,NL won 4-0
+GNEDSWE-BAL,2,Player Shots,Gakpo 1+ SOT,Won,Gakpo scored
+GNEDSWE-BAL,3,Total Goals O/U,Over 2.5,Won,4 goals
+GGERIVC-SAF,1,Match Odds,Germany Double Chance,Won,Germany won
+GGERIVC-SAF,2,Player Shots,Havertz 1+ SOT,Won,Havertz SOT
+GGERIVC-BAL,1,Match Odds,Germany Double Chance,Won,Germany won
+GGERIVC-BAL,2,Player Shots,Havertz 1+ SOT,Won,Havertz SOT
+GGERIVC-BAL,3,Total Goals O/U,Over 2.5,Won,Over 2.5
+GECUCUR-SAF,1,Match Odds,Ecuador,Lost,0-0 - Ecuador did not win
+GECUCUR-SAF,2,Player Shots,Valencia 1+ SOT,Won,Valencia SOT
+GECUCUR-BAL,1,Match Odds,Ecuador,Lost,0-0 - Ecuador did not win
+GECUCUR-BAL,2,Player Shots,Valencia 1+ SOT,Won,Valencia SOT
+GECUCUR-BAL,3,Total Goals O/U,Over 2.5,Lost,0 goals
+GTUNJPN-SAF,1,Match Odds,Japan Double Chance,Won,Japan won 4-0
+GTUNJPN-SAF,2,Total Goals O/U,Under 2.5,Lost,4 goals - killer
+GTUNJPN-BAL,1,Match Odds,Japan Double Chance,Won,Japan won 4-0
+GTUNJPN-BAL,2,Total Goals O/U,Under 2.5,Lost,4 goals - killer
+GTUNJPN-BAL,3,Player Shots,Kubo 1+ SOT,Void,"Kubo OUT injured - did not play, leg voids"

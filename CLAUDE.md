@@ -397,6 +397,18 @@ corners, winner) for every settled WC game — the CANONICAL source for settling
 corners/cards/team-SoT legs and for analysis; do NOT web-guess these. Maintained by
 the user; ingested 21 Jun.
 
+**golden_boot.csv**: live scorer list (player, country, goals) — used to confirm a
+team's shot MONOPOLIST for SOT legs (top scorers = best 1+ SOT candidates). The
+"Entrant" column from the source is DROPPED (colleagues' real names; repo is public).
+
+**Source — user's Google Sheet (READ-ONLY, never edit it).** Both files mirror tabs in
+`docs.google.com/spreadsheets/d/1bwXMIDUFiwmr-SjUsHon9vwXwKmpvQV6`. Refresh via the CSV
+export endpoint `…/export?format=csv&gid=<GID>` (WebFetch returns a one-time signed
+redirect — follow it): **Match Data gid=488320594**, **Golden Boot gid=1094671927**. The
+Match Data tab also contains the FULL forward fixture schedule (every game to the Final,
+blank rows = upcoming) — use it for upcoming picks + to resolve knockout fixtures.csv
+placeholders as the bracket fills in.
+
 **fixtures.csv**: `match_id,date,kickoff_uk,stage,group,home_team,away_team,
 city` — all 104 fixtures; drives the coverage map and "needs a bet" panel.
 Knockout rows use placeholders (1A, W73, "3rd A/B/C/D") — **update them with

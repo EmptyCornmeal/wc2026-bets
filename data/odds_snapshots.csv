@@ -46412,3 +46412,1226 @@ ts_utc,match,kickoff_utc,bookmaker,market,outcome,point,price
 2026-06-23 01:56,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Netherlands,,1.1
 2026-06-23 01:56,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Tunisia,,22.0
 2026-06-23 01:56,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Draw,,9.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,livescorebet,h2h,Portugal,,1.11
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,livescorebet,h2h,Uzbekistan,,20.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,livescorebet,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,leovegas,h2h,Portugal,,1.13
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,leovegas,h2h,Uzbekistan,,21.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,leovegas,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,leovegas,totals,Over,3.5,2.2
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,leovegas,totals,Under,3.5,1.64
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,virginbet,h2h,Portugal,,1.11
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,virginbet,h2h,Uzbekistan,,20.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,virginbet,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,casumo,h2h,Portugal,,1.13
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,casumo,h2h,Uzbekistan,,21.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,casumo,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,casumo,totals,Over,3.5,2.2
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,casumo,totals,Under,3.5,1.64
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,unibet_uk,h2h,Portugal,,1.13
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,unibet_uk,h2h,Uzbekistan,,23.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,unibet_uk,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,grosvenor,h2h,Portugal,,1.12
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,grosvenor,h2h,Uzbekistan,,20.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,grosvenor,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,grosvenor,totals,Over,3.5,2.2
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,grosvenor,totals,Under,3.5,1.64
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfred_uk,h2h,Portugal,,1.17
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfred_uk,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfred_uk,h2h,Draw,,7.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,skybet,h2h,Portugal,,1.11
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,skybet,h2h,Uzbekistan,,19.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,skybet,h2h,Draw,,9.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,paddypower,h2h,Portugal,,1.12
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,paddypower,h2h,Uzbekistan,,19.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,paddypower,h2h,Draw,,8.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h,Portugal,,1.17
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h,Uzbekistan,,24.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h,Draw,,9.4
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h_lay,Portugal,,1.18
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h_lay,Uzbekistan,,25.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_ex_uk,h2h_lay,Draw,,9.6
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h,Portugal,,1.17
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h,Uzbekistan,,23.98
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h,Draw,,9.4
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h_lay,Portugal,,1.18
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h_lay,Uzbekistan,,25.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,smarkets,h2h_lay,Draw,,9.6
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,ladbrokes_uk,h2h,Portugal,,1.14
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,ladbrokes_uk,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,ladbrokes_uk,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,coral,h2h,Portugal,,1.14
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,coral,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,coral,h2h,Draw,,9.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,boylesports,h2h,Portugal,,1.14
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,boylesports,h2h,Uzbekistan,,19.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,boylesports,h2h,Draw,,8.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,sport888,h2h,Portugal,,1.14
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,sport888,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,sport888,h2h,Draw,,7.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,williamhill,h2h,Portugal,,1.15
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,williamhill,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,williamhill,h2h,Draw,,7.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,williamhill,totals,Over,2.5,1.44
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,williamhill,totals,Under,2.5,2.6
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betway,h2h,Portugal,,1.14
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betway,h2h,Uzbekistan,,17.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betway,h2h,Draw,,8.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h,Portugal,,1.17
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h,Uzbekistan,,24.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h,Draw,,9.4
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h_lay,Portugal,,1.18
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h_lay,Uzbekistan,,25.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,matchbook,h2h_lay,Draw,,9.6
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betvictor,h2h,Portugal,,1.11
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betvictor,h2h,Uzbekistan,,21.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betvictor,h2h,Draw,,8.5
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_sb_uk,h2h,Portugal,,1.11
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_sb_uk,h2h,Uzbekistan,,15.0
+2026-06-23 08:26,Portugal v Uzbekistan,2026-06-23T17:00:00Z,betfair_sb_uk,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,leovegas,h2h,England,,1.17
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,leovegas,h2h,Ghana,,18.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,leovegas,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,leovegas,totals,Over,2.5,1.55
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,leovegas,totals,Under,2.5,2.4
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,virginbet,h2h,England,,1.16
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,virginbet,h2h,Ghana,,16.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,virginbet,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,casumo,h2h,England,,1.17
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,casumo,h2h,Ghana,,18.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,casumo,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,casumo,totals,Over,2.5,1.55
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,casumo,totals,Under,2.5,2.4
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,livescorebet,h2h,England,,1.16
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,livescorebet,h2h,Ghana,,16.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,livescorebet,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,grosvenor,h2h,England,,1.19
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,grosvenor,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,grosvenor,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,grosvenor,totals,Over,2.5,1.55
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,grosvenor,totals,Under,2.5,2.4
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,unibet_uk,h2h,England,,1.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,unibet_uk,h2h,Ghana,,16.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,unibet_uk,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfred_uk,h2h,England,,1.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfred_uk,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfred_uk,h2h,Draw,,6.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,skybet,h2h,England,,1.17
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,skybet,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,skybet,h2h,Draw,,7.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h,England,,1.21
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h,Ghana,,19.01
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h,Draw,,8.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h_lay,England,,1.22
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h_lay,Ghana,,19.49
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,smarkets,h2h_lay,Draw,,8.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,paddypower,h2h,England,,1.17
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,paddypower,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,paddypower,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h,England,,1.21
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h,Ghana,,18.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h,Draw,,7.8
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h_lay,England,,1.22
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h_lay,Ghana,,19.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_ex_uk,h2h_lay,Draw,,8.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,ladbrokes_uk,h2h,England,,1.18
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,ladbrokes_uk,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,ladbrokes_uk,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,coral,h2h,England,,1.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,coral,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,coral,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,boylesports,h2h,England,,1.18
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,boylesports,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,boylesports,h2h,Draw,,6.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,sport888,h2h,England,,1.18
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,sport888,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,sport888,h2h,Draw,,6.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,williamhill,h2h,England,,1.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,williamhill,h2h,Ghana,,17.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,williamhill,h2h,Draw,,6.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,williamhill,totals,Over,2.5,1.53
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,williamhill,totals,Under,2.5,2.38
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betway,h2h,England,,1.18
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betway,h2h,Ghana,,15.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betway,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h,England,,1.21
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h,Ghana,,18.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h,Draw,,8.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h_lay,England,,1.22
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h_lay,Ghana,,19.5
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,matchbook,h2h_lay,Draw,,8.2
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betvictor,h2h,England,,1.15
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betvictor,h2h,Ghana,,18.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betvictor,h2h,Draw,,7.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_sb_uk,h2h,England,,1.14
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_sb_uk,h2h,Ghana,,14.0
+2026-06-23 08:26,England v Ghana,2026-06-23T20:00:00Z,betfair_sb_uk,h2h,Draw,,5.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,unibet_uk,h2h,Croatia,,1.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,unibet_uk,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,unibet_uk,h2h,Draw,,4.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,leovegas,h2h,Croatia,,1.49
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,leovegas,h2h,Panama,,6.75
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,leovegas,h2h,Draw,,4.3
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,leovegas,totals,Over,2.5,1.68
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,leovegas,totals,Under,2.5,2.12
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,virginbet,h2h,Croatia,,1.47
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,virginbet,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,virginbet,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,casumo,h2h,Croatia,,1.49
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,casumo,h2h,Panama,,6.75
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,casumo,h2h,Draw,,4.3
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,casumo,totals,Over,2.5,1.68
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,casumo,totals,Under,2.5,2.12
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,livescorebet,h2h,Croatia,,1.47
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,livescorebet,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,livescorebet,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,grosvenor,h2h,Croatia,,1.48
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,grosvenor,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,grosvenor,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,grosvenor,totals,Over,2.5,1.68
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,grosvenor,totals,Under,2.5,2.12
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfred_uk,h2h,Croatia,,1.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfred_uk,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfred_uk,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,paddypower,h2h,Croatia,,1.44
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,paddypower,h2h,Panama,,7.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,paddypower,h2h,Draw,,4.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h,Croatia,,1.54
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h,Panama,,7.6
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h,Draw,,4.4
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h_lay,Croatia,,1.55
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h_lay,Panama,,7.8
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,smarkets,h2h_lay,Draw,,4.6
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,skybet,h2h,Croatia,,1.44
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,skybet,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,skybet,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h,Croatia,,1.54
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h,Panama,,7.6
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h,Draw,,4.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h_lay,Croatia,,1.55
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h_lay,Panama,,7.8
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.6
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,coral,h2h,Croatia,,1.53
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,coral,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,coral,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,ladbrokes_uk,h2h,Croatia,,1.53
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,ladbrokes_uk,h2h,Panama,,6.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,ladbrokes_uk,h2h,Draw,,4.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,boylesports,h2h,Croatia,,1.44
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,boylesports,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,boylesports,h2h,Draw,,4.2
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,sport888,h2h,Croatia,,1.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,sport888,h2h,Panama,,6.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,sport888,h2h,Draw,,3.9
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,williamhill,h2h,Croatia,,1.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,williamhill,h2h,Panama,,6.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,williamhill,h2h,Draw,,4.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,williamhill,totals,Over,2.5,1.73
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,williamhill,totals,Under,2.5,2.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betway,h2h,Croatia,,1.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betway,h2h,Panama,,6.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betway,h2h,Draw,,4.33
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h,Croatia,,1.54
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h,Panama,,7.4
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h,Draw,,4.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h_lay,Croatia,,1.55
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h_lay,Panama,,7.6
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,h2h_lay,Draw,,4.7
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,totals,Over,2.5,1.8
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,matchbook,totals,Under,2.5,2.24
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betvictor,h2h,Croatia,,1.45
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betvictor,h2h,Panama,,6.5
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betvictor,h2h,Draw,,4.4
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_sb_uk,h2h,Croatia,,1.44
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_sb_uk,h2h,Panama,,6.0
+2026-06-23 08:26,Panama v Croatia,2026-06-23T23:00:00Z,betfair_sb_uk,h2h,Draw,,3.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,livescorebet,h2h,Colombia,,1.52
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,livescorebet,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,livescorebet,h2h,Draw,,3.8
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,casumo,h2h,Colombia,,1.55
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,casumo,h2h,DR Congo,,6.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,casumo,h2h,Draw,,3.9
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,casumo,totals,Over,2.5,2.17
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,casumo,totals,Under,2.5,1.66
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,leovegas,h2h,Colombia,,1.55
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,leovegas,h2h,DR Congo,,6.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,leovegas,h2h,Draw,,3.9
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,leovegas,totals,Over,2.5,2.17
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,leovegas,totals,Under,2.5,1.66
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,unibet_uk,h2h,Colombia,,1.58
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,unibet_uk,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,unibet_uk,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,grosvenor,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,grosvenor,h2h,DR Congo,,6.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,grosvenor,h2h,Draw,,3.8
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,grosvenor,totals,Over,2.5,2.17
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,grosvenor,totals,Under,2.5,1.66
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,virginbet,h2h,Colombia,,1.52
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,virginbet,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,virginbet,h2h,Draw,,3.8
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfred_uk,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfred_uk,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfred_uk,h2h,Draw,,3.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,paddypower,h2h,Colombia,,1.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,paddypower,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,paddypower,h2h,Draw,,3.8
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,skybet,h2h,Colombia,,1.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,skybet,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,skybet,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h,Colombia,,1.59
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h,DR Congo,,7.4
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h,Draw,,4.2
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h_lay,Colombia,,1.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h_lay,DR Congo,,7.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h,Colombia,,1.59
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h,DR Congo,,7.4
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h,Draw,,4.2
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h_lay,Colombia,,1.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h_lay,DR Congo,,7.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,smarkets,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,ladbrokes_uk,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,ladbrokes_uk,h2h,DR Congo,,6.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,ladbrokes_uk,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,coral,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,coral,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,coral,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,boylesports,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,boylesports,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,boylesports,h2h,Draw,,3.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,sport888,h2h,Colombia,,1.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,sport888,h2h,DR Congo,,6.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,sport888,h2h,Draw,,3.75
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,williamhill,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,williamhill,h2h,DR Congo,,6.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,williamhill,h2h,Draw,,3.8
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,williamhill,totals,Over,2.5,2.1
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,williamhill,totals,Under,2.5,1.67
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betway,h2h,Colombia,,1.5
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betway,h2h,DR Congo,,6.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betway,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h,Colombia,,1.59
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h,DR Congo,,7.4
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h,Draw,,4.2
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h_lay,Colombia,,1.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h_lay,DR Congo,,7.6
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,matchbook,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betvictor,h2h,Colombia,,1.53
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betvictor,h2h,DR Congo,,6.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betvictor,h2h,Draw,,4.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_sb_uk,h2h,Colombia,,1.44
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_sb_uk,h2h,DR Congo,,6.0
+2026-06-23 08:26,Colombia v DR Congo,2026-06-24T02:00:00Z,betfair_sb_uk,h2h,Draw,,3.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,unibet_uk,h2h,Bosnia & Herzegovina,,1.42
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,unibet_uk,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,unibet_uk,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfred_uk,h2h,Bosnia & Herzegovina,,1.36
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfred_uk,h2h,Qatar,,7.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfred_uk,h2h,Draw,,4.6
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,paddypower,h2h,Bosnia & Herzegovina,,1.36
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,paddypower,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,paddypower,h2h,Draw,,4.75
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,skybet,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,skybet,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,skybet,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h,Bosnia & Herzegovina,,1.45
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h,Qatar,,7.8
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h,Draw,,5.3
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h_lay,Bosnia & Herzegovina,,1.46
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h_lay,Qatar,,8.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,smarkets,h2h_lay,Draw,,5.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Bosnia & Herzegovina,,1.45
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Qatar,,7.8
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Draw,,5.3
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Bosnia & Herzegovina,,1.46
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Qatar,,8.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Draw,,5.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,casumo,h2h,Bosnia & Herzegovina,,1.38
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,casumo,h2h,Qatar,,7.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,casumo,h2h,Draw,,5.1
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,casumo,totals,Over,2.5,1.61
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,casumo,totals,Under,2.5,2.25
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,virginbet,h2h,Bosnia & Herzegovina,,1.37
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,virginbet,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,virginbet,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,leovegas,h2h,Bosnia & Herzegovina,,1.38
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,leovegas,h2h,Qatar,,7.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,leovegas,h2h,Draw,,5.1
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,leovegas,totals,Over,2.5,1.61
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,leovegas,totals,Under,2.5,2.25
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,grosvenor,h2h,Bosnia & Herzegovina,,1.38
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,grosvenor,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,grosvenor,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,grosvenor,totals,Over,2.5,1.61
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,grosvenor,totals,Under,2.5,2.25
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,livescorebet,h2h,Bosnia & Herzegovina,,1.37
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,livescorebet,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,livescorebet,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,sport888,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,sport888,h2h,Qatar,,6.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,sport888,h2h,Draw,,4.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,williamhill,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,williamhill,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,williamhill,h2h,Draw,,4.6
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,williamhill,totals,Over,2.5,1.62
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,williamhill,totals,Under,2.5,2.2
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,boylesports,h2h,Bosnia & Herzegovina,,1.36
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,boylesports,h2h,Qatar,,7.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,boylesports,h2h,Draw,,4.75
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,coral,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,coral,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,coral,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h,Bosnia & Herzegovina,,1.45
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h,Qatar,,7.8
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h,Draw,,5.3
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h_lay,Bosnia & Herzegovina,,1.46
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h_lay,Qatar,,8.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,matchbook,h2h_lay,Draw,,5.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betway,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betway,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betway,h2h,Draw,,5.0
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betvictor,h2h,Bosnia & Herzegovina,,1.4
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betvictor,h2h,Qatar,,7.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betvictor,h2h,Draw,,4.8
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Bosnia & Herzegovina,,1.33
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Qatar,,6.5
+2026-06-23 08:26,Bosnia & Herzegovina v Qatar,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Draw,,4.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfred_uk,h2h,Canada,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfred_uk,h2h,Switzerland,,2.4
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfred_uk,h2h,Draw,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,paddypower,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,paddypower,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,paddypower,h2h,Draw,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,skybet,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,skybet,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,skybet,h2h,Draw,,2.9
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,unibet_uk,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,unibet_uk,h2h,Switzerland,,2.4
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,unibet_uk,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h,Canada,,3.5
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h,Switzerland,,2.48
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h,Draw,,3.15
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h_lay,Canada,,3.55
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h_lay,Switzerland,,2.5
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,smarkets,h2h_lay,Draw,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Canada,,3.5
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Switzerland,,2.48
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h,Draw,,3.15
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Canada,,3.55
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Switzerland,,2.5
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_ex_uk,h2h_lay,Draw,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,casumo,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,casumo,h2h,Switzerland,,2.4
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,casumo,h2h,Draw,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,casumo,totals,Over,2.5,2.07
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,casumo,totals,Under,2.5,1.72
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,virginbet,h2h,Canada,,3.25
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,virginbet,h2h,Switzerland,,2.38
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,virginbet,h2h,Draw,,2.9
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,leovegas,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,leovegas,h2h,Switzerland,,2.4
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,leovegas,h2h,Draw,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,leovegas,totals,Over,2.5,2.07
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,leovegas,totals,Under,2.5,1.72
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,grosvenor,h2h,Canada,,3.25
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,grosvenor,h2h,Switzerland,,2.38
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,grosvenor,h2h,Draw,,2.95
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,grosvenor,totals,Over,2.5,2.07
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,grosvenor,totals,Under,2.5,1.72
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,livescorebet,h2h,Canada,,3.25
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,livescorebet,h2h,Switzerland,,2.38
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,livescorebet,h2h,Draw,,2.9
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,sport888,h2h,Canada,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,sport888,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,sport888,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,williamhill,h2h,Canada,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,williamhill,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,williamhill,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,williamhill,totals,Over,2.5,2.05
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,williamhill,totals,Under,2.5,1.7
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,boylesports,h2h,Canada,,3.25
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,boylesports,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,boylesports,h2h,Draw,,3.0
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Canada,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Switzerland,,2.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,ladbrokes_uk,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,coral,h2h,Canada,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,coral,h2h,Switzerland,,2.37
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,coral,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h,Canada,,3.5
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h,Switzerland,,2.48
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h,Draw,,3.15
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h_lay,Canada,,3.55
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h_lay,Switzerland,,2.52
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,h2h_lay,Draw,,3.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,totals,Over,2.5,2.12
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,matchbook,totals,Under,2.5,1.84
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betway,h2h,Canada,,3.3
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betway,h2h,Switzerland,,2.38
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betway,h2h,Draw,,2.9
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betvictor,h2h,Canada,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betvictor,h2h,Switzerland,,2.38
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betvictor,h2h,Draw,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Canada,,3.1
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Switzerland,,2.2
+2026-06-23 08:26,Switzerland v Canada,2026-06-24T19:00:00Z,betfair_sb_uk,h2h,Draw,,2.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,leovegas,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,leovegas,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,leovegas,h2h,Draw,,5.2
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,leovegas,totals,Over,2.5,1.83
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,leovegas,totals,Under,2.5,1.93
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,virginbet,h2h,Brazil,,1.34
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,virginbet,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,virginbet,h2h,Draw,,5.1
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,casumo,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,casumo,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,casumo,h2h,Draw,,5.2
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,casumo,totals,Over,2.5,1.83
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,casumo,totals,Under,2.5,1.93
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,livescorebet,h2h,Brazil,,1.34
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,livescorebet,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,livescorebet,h2h,Draw,,5.1
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,grosvenor,h2h,Brazil,,1.35
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,grosvenor,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,grosvenor,h2h,Draw,,5.1
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,grosvenor,totals,Over,2.5,1.83
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,grosvenor,totals,Under,2.5,1.93
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfred_uk,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfred_uk,h2h,Scotland,,7.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfred_uk,h2h,Draw,,4.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,paddypower,h2h,Brazil,,1.33
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,paddypower,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,paddypower,h2h,Draw,,5.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,skybet,h2h,Brazil,,1.33
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,skybet,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,skybet,h2h,Draw,,5.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h,Brazil,,1.39
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h,Scotland,,9.2
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h,Draw,,5.4
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h_lay,Brazil,,1.41
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h_lay,Scotland,,9.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,smarkets,h2h_lay,Draw,,5.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Brazil,,1.4
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Scotland,,9.2
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Draw,,5.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Brazil,,1.41
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Scotland,,9.4
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Draw,,5.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,sport888,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,sport888,h2h,Scotland,,7.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,sport888,h2h,Draw,,4.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,williamhill,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,williamhill,h2h,Scotland,,7.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,williamhill,h2h,Draw,,4.8
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,williamhill,totals,Over,2.5,1.8
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,williamhill,totals,Under,2.5,1.91
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,boylesports,h2h,Brazil,,1.33
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,boylesports,h2h,Scotland,,9.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,boylesports,h2h,Draw,,4.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Brazil,,1.36
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Draw,,4.8
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,coral,h2h,Brazil,,1.4
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,coral,h2h,Scotland,,8.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,coral,h2h,Draw,,4.8
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,unibet_uk,h2h,Brazil,,1.37
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,unibet_uk,h2h,Scotland,,8.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,unibet_uk,h2h,Draw,,4.75
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h,Brazil,,1.4
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h,Scotland,,9.2
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h,Draw,,5.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h_lay,Brazil,,1.41
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h_lay,Scotland,,9.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,h2h_lay,Draw,,5.6
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,totals,Over,2.5,1.96
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,matchbook,totals,Under,2.5,2.02
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betvictor,h2h,Brazil,,1.33
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betvictor,h2h,Scotland,,9.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betvictor,h2h,Draw,,4.75
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betway,h2h,Brazil,,1.38
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betway,h2h,Scotland,,6.5
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betway,h2h,Draw,,5.25
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Brazil,,1.33
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Scotland,,7.0
+2026-06-23 08:26,Scotland v Brazil,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Draw,,4.2
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,unibet_uk,h2h,Haiti,,17.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,unibet_uk,h2h,Morocco,,1.17
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,unibet_uk,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfred_uk,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfred_uk,h2h,Morocco,,1.2
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfred_uk,h2h,Draw,,6.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,skybet,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,skybet,h2h,Morocco,,1.17
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,skybet,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,paddypower,h2h,Haiti,,16.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,paddypower,h2h,Morocco,,1.17
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,paddypower,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Haiti,,20.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Morocco,,1.21
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h,Draw,,7.8
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Haiti,,21.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Morocco,,1.22
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_ex_uk,h2h_lay,Draw,,8.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h,Haiti,,19.49
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h,Morocco,,1.21
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h,Draw,,7.8
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h_lay,Haiti,,21.01
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h_lay,Morocco,,1.22
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,smarkets,h2h_lay,Draw,,8.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,livescorebet,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,livescorebet,h2h,Morocco,,1.16
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,livescorebet,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,virginbet,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,virginbet,h2h,Morocco,,1.16
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,virginbet,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,casumo,h2h,Haiti,,16.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,casumo,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,casumo,h2h,Draw,,7.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,casumo,totals,Over,3.5,2.4
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,casumo,totals,Under,3.5,1.55
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,leovegas,h2h,Haiti,,16.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,leovegas,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,leovegas,h2h,Draw,,7.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,leovegas,totals,Over,3.5,2.4
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,leovegas,totals,Under,3.5,1.55
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,grosvenor,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,grosvenor,h2h,Morocco,,1.17
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,grosvenor,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,grosvenor,totals,Over,3.5,2.4
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,grosvenor,totals,Under,3.5,1.55
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,sport888,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,sport888,h2h,Morocco,,1.17
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,sport888,h2h,Draw,,6.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,williamhill,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,williamhill,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,williamhill,h2h,Draw,,6.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,williamhill,totals,Over,2.5,1.53
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,williamhill,totals,Under,2.5,2.38
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,boylesports,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,boylesports,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,boylesports,h2h,Draw,,6.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,ladbrokes_uk,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,coral,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,coral,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,coral,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h,Haiti,,20.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h,Morocco,,1.21
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h,Draw,,7.8
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h_lay,Haiti,,21.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h_lay,Morocco,,1.22
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,matchbook,h2h_lay,Draw,,8.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betvictor,h2h,Haiti,,18.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betvictor,h2h,Morocco,,1.14
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betvictor,h2h,Draw,,7.5
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betway,h2h,Haiti,,15.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betway,h2h,Morocco,,1.18
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betway,h2h,Draw,,7.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Haiti,,14.0
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Morocco,,1.14
+2026-06-23 08:26,Morocco v Haiti,2026-06-24T22:00:00Z,betfair_sb_uk,h2h,Draw,,5.5
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfred_uk,h2h,Czech Republic,,3.2
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfred_uk,h2h,Mexico,,1.9
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfred_uk,h2h,Draw,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,unibet_uk,h2h,Czech Republic,,3.8
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,unibet_uk,h2h,Mexico,,1.95
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,unibet_uk,h2h,Draw,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,skybet,h2h,Czech Republic,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,skybet,h2h,Mexico,,1.85
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,skybet,h2h,Draw,,3.8
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,paddypower,h2h,Czech Republic,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,paddypower,h2h,Mexico,,1.87
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,paddypower,h2h,Draw,,3.8
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h,Czech Republic,,3.95
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h,Mexico,,1.97
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h,Draw,,4.1
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h_lay,Czech Republic,,4.0
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h_lay,Mexico,,1.98
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,smarkets,h2h_lay,Draw,,4.2
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,Czech Republic,,3.95
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,Mexico,,1.97
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,Draw,,4.1
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,Czech Republic,,4.0
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,Mexico,,1.98
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.2
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,casumo,h2h,Czech Republic,,3.85
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,casumo,h2h,Mexico,,1.88
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,casumo,h2h,Draw,,3.85
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,casumo,totals,Over,2.5,2.05
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,casumo,totals,Under,2.5,1.74
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,virginbet,h2h,Czech Republic,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,virginbet,h2h,Mexico,,1.86
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,virginbet,h2h,Draw,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,leovegas,h2h,Czech Republic,,3.85
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,leovegas,h2h,Mexico,,1.88
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,leovegas,h2h,Draw,,3.85
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,leovegas,totals,Over,2.5,2.05
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,leovegas,totals,Under,2.5,1.74
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,grosvenor,h2h,Czech Republic,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,grosvenor,h2h,Mexico,,1.87
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,grosvenor,h2h,Draw,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,grosvenor,totals,Over,2.5,2.05
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,grosvenor,totals,Under,2.5,1.74
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,livescorebet,h2h,Czech Republic,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,livescorebet,h2h,Mexico,,1.86
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,livescorebet,h2h,Draw,,3.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,sport888,h2h,Czech Republic,,3.5
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,sport888,h2h,Mexico,,1.91
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,sport888,h2h,Draw,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,williamhill,h2h,Czech Republic,,3.5
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,williamhill,h2h,Mexico,,1.91
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,williamhill,h2h,Draw,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,williamhill,totals,Over,2.5,1.95
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,williamhill,totals,Under,2.5,1.75
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,boylesports,h2h,Czech Republic,,4.0
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,boylesports,h2h,Mexico,,1.87
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,boylesports,h2h,Draw,,3.5
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,Czech Republic,,3.8
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,Mexico,,1.91
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,Draw,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,coral,h2h,Czech Republic,,3.9
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,coral,h2h,Mexico,,1.91
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,coral,h2h,Draw,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h,Czech Republic,,3.95
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h,Mexico,,1.97
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h,Draw,,4.1
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h_lay,Czech Republic,,4.0
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h_lay,Mexico,,1.98
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,h2h_lay,Draw,,4.2
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,totals,Over,2.5,2.14
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,matchbook,totals,Under,2.5,1.83
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betway,h2h,Czech Republic,,3.6
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betway,h2h,Mexico,,1.88
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betway,h2h,Draw,,3.8
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betvictor,h2h,Czech Republic,,4.1
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betvictor,h2h,Mexico,,1.9
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betvictor,h2h,Draw,,3.4
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_sb_uk,h2h,Czech Republic,,3.5
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_sb_uk,h2h,Mexico,,1.83
+2026-06-23 08:26,Czech Republic v Mexico,2026-06-25T01:00:00Z,betfair_sb_uk,h2h,Draw,,3.3
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,unibet_uk,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,unibet_uk,h2h,South Korea,,1.67
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,unibet_uk,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfred_uk,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfred_uk,h2h,South Korea,,1.62
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfred_uk,h2h,Draw,,3.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,skybet,h2h,South Africa,,5.25
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,skybet,h2h,South Korea,,1.62
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,skybet,h2h,Draw,,3.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,paddypower,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,paddypower,h2h,South Korea,,1.62
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,paddypower,h2h,Draw,,3.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,South Africa,,5.9
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,South Korea,,1.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h,Draw,,4.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,South Africa,,6.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,South Korea,,1.71
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.1
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h,South Africa,,5.9
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h,South Korea,,1.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h,Draw,,4.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h_lay,South Africa,,6.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h_lay,South Korea,,1.71
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,smarkets,h2h_lay,Draw,,4.1
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,casumo,h2h,South Africa,,5.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,casumo,h2h,South Korea,,1.63
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,casumo,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,casumo,totals,Over,2.5,2.07
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,casumo,totals,Under,2.5,1.72
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,virginbet,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,virginbet,h2h,South Korea,,1.61
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,virginbet,h2h,Draw,,3.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,leovegas,h2h,South Africa,,5.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,leovegas,h2h,South Korea,,1.63
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,leovegas,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,leovegas,totals,Over,2.5,2.07
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,leovegas,totals,Under,2.5,1.72
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,grosvenor,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,grosvenor,h2h,South Korea,,1.62
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,grosvenor,h2h,Draw,,3.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,grosvenor,totals,Over,2.5,2.07
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,grosvenor,totals,Under,2.5,1.72
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,livescorebet,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,livescorebet,h2h,South Korea,,1.61
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,livescorebet,h2h,Draw,,3.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,sport888,h2h,South Africa,,5.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,sport888,h2h,South Korea,,1.61
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,sport888,h2h,Draw,,3.6
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,williamhill,h2h,South Africa,,5.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,williamhill,h2h,South Korea,,1.65
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,williamhill,h2h,Draw,,3.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,williamhill,totals,Over,2.5,1.95
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,williamhill,totals,Under,2.5,1.75
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,boylesports,h2h,South Africa,,5.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,boylesports,h2h,South Korea,,1.6
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,boylesports,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,coral,h2h,South Africa,,5.25
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,coral,h2h,South Korea,,1.65
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,coral,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,South Africa,,5.25
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,South Korea,,1.65
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,ladbrokes_uk,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h,South Africa,,5.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h,South Korea,,1.7
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h,Draw,,4.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h_lay,South Africa,,6.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h_lay,South Korea,,1.71
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,matchbook,h2h_lay,Draw,,4.1
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betway,h2h,South Africa,,5.0
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betway,h2h,South Korea,,1.61
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betway,h2h,Draw,,3.8
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betvictor,h2h,South Africa,,5.5
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betvictor,h2h,South Korea,,1.61
+2026-06-23 08:26,South Africa v South Korea,2026-06-25T01:00:00Z,betvictor,h2h,Draw,,3.8
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,unibet_uk,h2h,Curaçao,,18.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,unibet_uk,h2h,Ivory Coast,,1.15
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,unibet_uk,h2h,Draw,,7.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfred_uk,h2h,Curaçao,,15.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfred_uk,h2h,Ivory Coast,,1.17
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfred_uk,h2h,Draw,,7.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,skybet,h2h,Curaçao,,13.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,skybet,h2h,Ivory Coast,,1.13
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,skybet,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,paddypower,h2h,Curaçao,,17.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,paddypower,h2h,Ivory Coast,,1.12
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,paddypower,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Ivory Coast,,1.18
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Draw,,9.2
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Curaçao,,21.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Ivory Coast,,1.19
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Draw,,9.4
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h,Ivory Coast,,1.18
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h,Draw,,9.2
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h_lay,Curaçao,,21.01
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h_lay,Ivory Coast,,1.19
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,smarkets,h2h_lay,Draw,,9.4
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,casumo,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,casumo,h2h,Ivory Coast,,1.14
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,casumo,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,casumo,totals,Over,2.5,1.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,casumo,totals,Under,2.5,2.55
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,virginbet,h2h,Curaçao,,18.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,virginbet,h2h,Ivory Coast,,1.13
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,virginbet,h2h,Draw,,8.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,leovegas,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,leovegas,h2h,Ivory Coast,,1.14
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,leovegas,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,leovegas,totals,Over,2.5,1.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,leovegas,totals,Under,2.5,2.55
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,grosvenor,h2h,Curaçao,,18.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,grosvenor,h2h,Ivory Coast,,1.13
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,grosvenor,h2h,Draw,,8.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,grosvenor,totals,Over,2.5,1.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,grosvenor,totals,Under,2.5,2.55
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,livescorebet,h2h,Curaçao,,18.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,livescorebet,h2h,Ivory Coast,,1.13
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,livescorebet,h2h,Draw,,8.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,sport888,h2h,Curaçao,,19.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,sport888,h2h,Ivory Coast,,1.12
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,sport888,h2h,Draw,,7.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,williamhill,h2h,Curaçao,,21.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,williamhill,h2h,Ivory Coast,,1.14
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,williamhill,h2h,Draw,,7.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,williamhill,totals,Over,2.5,1.44
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,williamhill,totals,Under,2.5,2.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,boylesports,h2h,Curaçao,,19.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,boylesports,h2h,Ivory Coast,,1.12
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,boylesports,h2h,Draw,,7.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Curaçao,,15.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Ivory Coast,,1.15
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,coral,h2h,Curaçao,,15.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,coral,h2h,Ivory Coast,,1.15
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,coral,h2h,Draw,,8.5
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h,Ivory Coast,,1.18
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h,Draw,,9.2
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h_lay,Curaçao,,21.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h_lay,Ivory Coast,,1.19
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,matchbook,h2h_lay,Draw,,9.4
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betway,h2h,Curaçao,,15.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betway,h2h,Ivory Coast,,1.14
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betway,h2h,Draw,,8.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betvictor,h2h,Curaçao,,20.0
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betvictor,h2h,Ivory Coast,,1.12
+2026-06-23 08:26,Curaçao v Ivory Coast,2026-06-25T20:00:00Z,betvictor,h2h,Draw,,8.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,unibet_uk,h2h,Ecuador,,3.6
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,unibet_uk,h2h,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,unibet_uk,h2h,Draw,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,skybet,h2h,Ecuador,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,skybet,h2h,Germany,,1.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,skybet,h2h,Draw,,3.9
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfred_uk,h2h,Ecuador,,3.5
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfred_uk,h2h,Germany,,1.83
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfred_uk,h2h,Draw,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h,Ecuador,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h,Draw,,4.2
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h_lay,Ecuador,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h_lay,Germany,,1.96
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,smarkets,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,paddypower,h2h,Ecuador,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,paddypower,h2h,Germany,,1.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,paddypower,h2h,Draw,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Ecuador,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Germany,,1.94
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h,Draw,,4.2
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Ecuador,,4.1
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,casumo,h2h,Ecuador,,3.9
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,casumo,h2h,Germany,,1.82
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,casumo,h2h,Draw,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,casumo,totals,Over,2.5,1.74
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,casumo,totals,Under,2.5,2.04
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,virginbet,h2h,Ecuador,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,virginbet,h2h,Germany,,1.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,virginbet,h2h,Draw,,3.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,leovegas,h2h,Ecuador,,3.9
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,leovegas,h2h,Germany,,1.82
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,leovegas,h2h,Draw,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,leovegas,totals,Over,2.5,1.74
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,leovegas,totals,Under,2.5,2.04
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,grosvenor,h2h,Ecuador,,3.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,grosvenor,h2h,Germany,,1.81
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,grosvenor,h2h,Draw,,3.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,grosvenor,totals,Over,2.5,1.74
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,grosvenor,totals,Under,2.5,2.04
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,livescorebet,h2h,Ecuador,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,livescorebet,h2h,Germany,,1.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,livescorebet,h2h,Draw,,3.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,sport888,h2h,Ecuador,,3.5
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,sport888,h2h,Germany,,1.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,sport888,h2h,Draw,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,williamhill,h2h,Ecuador,,3.5
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,williamhill,h2h,Germany,,1.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,williamhill,h2h,Draw,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,williamhill,totals,Over,2.5,1.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,williamhill,totals,Under,2.5,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,boylesports,h2h,Ecuador,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,boylesports,h2h,Germany,,1.83
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,boylesports,h2h,Draw,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,coral,h2h,Ecuador,,3.6
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,coral,h2h,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,coral,h2h,Draw,,3.75
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Ecuador,,3.6
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,ladbrokes_uk,h2h,Draw,,3.7
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h,Ecuador,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h,Germany,,1.94
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h,Draw,,4.2
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h_lay,Ecuador,,4.1
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h_lay,Germany,,1.95
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,matchbook,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betway,h2h,Ecuador,,3.4
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betway,h2h,Germany,,1.85
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betway,h2h,Draw,,4.0
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betvictor,h2h,Ecuador,,3.8
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betvictor,h2h,Germany,,1.91
+2026-06-23 08:26,Ecuador v Germany,2026-06-25T20:00:00Z,betvictor,h2h,Draw,,3.6
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,unibet_uk,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,unibet_uk,h2h,Sweden,,4.0
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,unibet_uk,h2h,Draw,,3.4
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,skybet,h2h,Japan,,1.85
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,skybet,h2h,Sweden,,4.2
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,skybet,h2h,Draw,,3.4
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfred_uk,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfred_uk,h2h,Sweden,,4.0
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfred_uk,h2h,Draw,,3.25
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,paddypower,h2h,Japan,,1.85
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,paddypower,h2h,Sweden,,4.33
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,paddypower,h2h,Draw,,3.4
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h,Sweden,,4.5
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h,Draw,,3.65
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h_lay,Japan,,1.97
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h_lay,Sweden,,4.6
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,smarkets,h2h_lay,Draw,,3.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,livescorebet,h2h,Japan,,1.91
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,livescorebet,h2h,Sweden,,4.1
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,livescorebet,h2h,Draw,,3.3
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,leovegas,h2h,Japan,,1.93
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,leovegas,h2h,Sweden,,4.2
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,leovegas,h2h,Draw,,3.35
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,leovegas,totals,Over,2.5,1.74
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,leovegas,totals,Under,2.5,2.05
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,virginbet,h2h,Japan,,1.91
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,virginbet,h2h,Sweden,,4.1
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,virginbet,h2h,Draw,,3.3
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,casumo,h2h,Japan,,1.93
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,casumo,h2h,Sweden,,4.2
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,casumo,h2h,Draw,,3.35
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,casumo,totals,Over,2.5,1.74
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,casumo,totals,Under,2.5,2.05
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,grosvenor,h2h,Japan,,1.92
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,grosvenor,h2h,Sweden,,4.1
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,grosvenor,h2h,Draw,,3.3
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,grosvenor,totals,Over,2.5,1.74
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,grosvenor,totals,Under,2.5,2.05
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,sport888,h2h,Japan,,1.91
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,sport888,h2h,Sweden,,3.6
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,sport888,h2h,Draw,,3.5
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,williamhill,h2h,Japan,,1.91
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,williamhill,h2h,Sweden,,3.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,williamhill,h2h,Draw,,3.5
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,williamhill,totals,Over,2.5,1.75
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,williamhill,totals,Under,2.5,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,boylesports,h2h,Japan,,1.87
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,boylesports,h2h,Sweden,,4.2
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,boylesports,h2h,Draw,,3.3
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Sweden,,3.9
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Draw,,3.4
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,coral,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,coral,h2h,Sweden,,3.9
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,coral,h2h,Draw,,3.5
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Japan,,1.95
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Sweden,,4.6
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Draw,,3.65
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Japan,,1.97
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Sweden,,4.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Draw,,3.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h,Japan,,1.96
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h,Sweden,,4.5
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h,Draw,,3.65
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h_lay,Japan,,1.97
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h_lay,Sweden,,4.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,matchbook,h2h_lay,Draw,,3.7
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betway,h2h,Japan,,1.88
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betway,h2h,Sweden,,4.0
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betway,h2h,Draw,,3.3
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betvictor,h2h,Japan,,1.9
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betvictor,h2h,Sweden,,4.2
+2026-06-23 08:26,Japan v Sweden,2026-06-25T23:00:00Z,betvictor,h2h,Draw,,3.4
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,skybet,h2h,Netherlands,,1.1
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,skybet,h2h,Tunisia,,19.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,skybet,h2h,Draw,,9.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,unibet_uk,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,unibet_uk,h2h,Tunisia,,23.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,unibet_uk,h2h,Draw,,8.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfred_uk,h2h,Netherlands,,1.14
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfred_uk,h2h,Tunisia,,19.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfred_uk,h2h,Draw,,8.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h,Netherlands,,1.14
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h,Tunisia,,27.03
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h,Draw,,10.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h_lay,Netherlands,,1.15
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h_lay,Tunisia,,28.01
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,smarkets,h2h_lay,Draw,,11.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,paddypower,h2h,Netherlands,,1.1
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,paddypower,h2h,Tunisia,,21.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,paddypower,h2h,Draw,,9.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,livescorebet,h2h,Netherlands,,1.11
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,livescorebet,h2h,Tunisia,,20.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,livescorebet,h2h,Draw,,8.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,leovegas,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,leovegas,h2h,Tunisia,,21.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,leovegas,h2h,Draw,,9.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,leovegas,totals,Over,3.5,2.2
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,leovegas,totals,Under,3.5,1.64
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,virginbet,h2h,Netherlands,,1.11
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,virginbet,h2h,Tunisia,,20.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,virginbet,h2h,Draw,,8.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,casumo,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,casumo,h2h,Tunisia,,21.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,casumo,h2h,Draw,,9.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,casumo,totals,Over,3.5,2.2
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,casumo,totals,Under,3.5,1.64
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,grosvenor,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,grosvenor,h2h,Tunisia,,20.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,grosvenor,h2h,Draw,,8.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,grosvenor,totals,Over,3.5,2.2
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,grosvenor,totals,Under,3.5,1.64
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,sport888,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,sport888,h2h,Tunisia,,21.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,sport888,h2h,Draw,,8.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,williamhill,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,williamhill,h2h,Tunisia,,23.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,williamhill,h2h,Draw,,8.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,williamhill,totals,Over,2.5,1.44
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,williamhill,totals,Under,2.5,2.6
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,boylesports,h2h,Netherlands,,1.12
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,boylesports,h2h,Tunisia,,21.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,boylesports,h2h,Draw,,8.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,coral,h2h,Netherlands,,1.13
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,coral,h2h,Tunisia,,19.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,coral,h2h,Draw,,9.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Netherlands,,1.13
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Tunisia,,17.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,ladbrokes_uk,h2h,Draw,,9.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Netherlands,,1.14
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Tunisia,,27.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h,Draw,,10.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Netherlands,,1.15
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Tunisia,,28.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betfair_ex_uk,h2h_lay,Draw,,11.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h,Netherlands,,1.14
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h,Tunisia,,27.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h,Draw,,10.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h_lay,Netherlands,,1.15
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h_lay,Tunisia,,29.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,h2h_lay,Draw,,11.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,totals,Over,3.5,2.26
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,matchbook,totals,Under,3.5,1.75
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betway,h2h,Netherlands,,1.13
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betway,h2h,Tunisia,,19.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betway,h2h,Draw,,8.5
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Netherlands,,1.1
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Tunisia,,22.0
+2026-06-23 08:26,Tunisia v Netherlands,2026-06-25T23:00:00Z,betvictor,h2h,Draw,,9.0
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,unibet_uk,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,unibet_uk,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,unibet_uk,h2h,Draw,,2.25
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,skybet,h2h,Australia,,3.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,skybet,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,skybet,h2h,Draw,,2.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,paddypower,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,paddypower,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,paddypower,h2h,Draw,,2.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,Australia,,4.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,Paraguay,,3.0
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,Australia,,4.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,Paraguay,,3.05
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,Draw,,2.32
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfred_uk,h2h,Australia,,3.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfred_uk,h2h,Paraguay,,3.0
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betfred_uk,h2h,Draw,,2.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h,Australia,,4.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h,Paraguay,,2.98
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h_lay,Australia,,4.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h_lay,Paraguay,,3.05
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,smarkets,h2h_lay,Draw,,2.32
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,livescorebet,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,livescorebet,h2h,Paraguay,,2.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,livescorebet,h2h,Draw,,2.25
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,leovegas,h2h,Australia,,3.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,leovegas,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,leovegas,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,leovegas,totals,Over,1.5,1.57
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,leovegas,totals,Under,1.5,2.33
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,virginbet,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,virginbet,h2h,Paraguay,,2.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,virginbet,h2h,Draw,,2.25
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,casumo,h2h,Australia,,3.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,casumo,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,casumo,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,casumo,totals,Over,1.5,1.57
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,casumo,totals,Under,1.5,2.33
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,grosvenor,h2h,Australia,,3.85
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,grosvenor,h2h,Paraguay,,2.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,grosvenor,h2h,Draw,,2.28
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,grosvenor,totals,Over,1.5,1.57
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,grosvenor,totals,Under,1.5,2.33
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,sport888,h2h,Australia,,3.6
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,sport888,h2h,Paraguay,,2.7
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,sport888,h2h,Draw,,2.25
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,williamhill,h2h,Australia,,3.6
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,williamhill,h2h,Paraguay,,2.7
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,williamhill,h2h,Draw,,2.25
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,williamhill,totals,Over,2.5,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,williamhill,totals,Under,2.5,1.36
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,boylesports,h2h,Australia,,3.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,boylesports,h2h,Paraguay,,2.62
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,boylesports,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,Paraguay,,2.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,Draw,,2.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,coral,h2h,Australia,,3.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,coral,h2h,Paraguay,,2.9
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,coral,h2h,Draw,,2.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h,Australia,,4.2
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h,Paraguay,,3.0
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h,Draw,,2.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h_lay,Australia,,4.3
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h_lay,Paraguay,,3.05
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,h2h_lay,Draw,,2.32
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,totals,Over,1.5,1.7
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,matchbook,totals,Under,1.5,2.34
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betway,h2h,Australia,,3.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betway,h2h,Paraguay,,2.8
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betway,h2h,Draw,,2.15
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betvictor,h2h,Australia,,3.6
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betvictor,h2h,Paraguay,,2.75
+2026-06-23 08:26,Paraguay v Australia,2026-06-26T02:00:00Z,betvictor,h2h,Draw,,2.15
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,unibet_uk,h2h,Turkey,,3.5
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,unibet_uk,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,unibet_uk,h2h,Draw,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfred_uk,h2h,Turkey,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfred_uk,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfred_uk,h2h,Draw,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,skybet,h2h,Turkey,,3.5
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,skybet,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,skybet,h2h,Draw,,3.9
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h,Turkey,,3.7
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h,USA,,1.99
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h,Draw,,4.0
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h_lay,Turkey,,3.9
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h_lay,USA,,2.06
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,smarkets,h2h_lay,Draw,,4.4
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,paddypower,h2h,Turkey,,3.5
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,paddypower,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,paddypower,h2h,Draw,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,Turkey,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,USA,,1.99
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h,Draw,,4.2
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,Turkey,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,USA,,2.02
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betfair_ex_uk,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,livescorebet,h2h,Turkey,,3.45
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,livescorebet,h2h,USA,,1.87
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,livescorebet,h2h,Draw,,3.95
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,leovegas,h2h,Turkey,,3.55
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,leovegas,h2h,USA,,1.89
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,leovegas,h2h,Draw,,4.1
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,leovegas,totals,Over,2.5,1.68
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,leovegas,totals,Under,2.5,2.14
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,virginbet,h2h,Turkey,,3.45
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,virginbet,h2h,USA,,1.87
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,virginbet,h2h,Draw,,3.95
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,casumo,h2h,Turkey,,3.55
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,casumo,h2h,USA,,1.89
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,casumo,h2h,Draw,,4.1
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,casumo,totals,Over,2.5,1.68
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,casumo,totals,Under,2.5,2.14
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,grosvenor,h2h,Turkey,,3.45
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,grosvenor,h2h,USA,,1.88
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,grosvenor,h2h,Draw,,4.0
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,grosvenor,totals,Over,2.5,1.68
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,grosvenor,totals,Under,2.5,2.14
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,sport888,h2h,Turkey,,3.3
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,sport888,h2h,USA,,1.85
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,sport888,h2h,Draw,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,williamhill,h2h,Turkey,,3.6
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,williamhill,h2h,USA,,1.83
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,williamhill,h2h,Draw,,3.9
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,williamhill,totals,Over,2.5,1.65
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,williamhill,totals,Under,2.5,2.15
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,boylesports,h2h,Turkey,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,boylesports,h2h,USA,,1.87
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,boylesports,h2h,Draw,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,Turkey,,3.6
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,ladbrokes_uk,h2h,Draw,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,coral,h2h,Turkey,,3.6
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,coral,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,coral,h2h,Draw,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h,Turkey,,3.75
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h,USA,,1.99
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h,Draw,,4.2
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h_lay,Turkey,,3.8
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h_lay,USA,,2.02
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,matchbook,h2h_lay,Draw,,4.3
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betway,h2h,Turkey,,3.3
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betway,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betway,h2h,Draw,,4.0
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betvictor,h2h,Turkey,,3.7
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betvictor,h2h,USA,,1.91
+2026-06-23 08:26,Turkey v USA,2026-06-26T02:00:00Z,betvictor,h2h,Draw,,3.7
